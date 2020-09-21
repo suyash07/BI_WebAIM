@@ -1,0 +1,2075 @@
+,Technologies,Alert Type,Value
+0,Ads - AdSense,accesskey,0.1446690384646065
+1,Ads - AdSense,alt_duplicate,1.1299277292959589
+2,Ads - AdSense,alt_long,0.9870534930840287
+3,Ads - AdSense,alt_redundant,2.789856575357764
+4,Ads - AdSense,alt_suspicious,0.6595220242178651
+5,Ads - AdSense,applet,0.0001515610791148833
+6,Ads - AdSense,audio_video,0.05421100492972352
+7,Ads - AdSense,event_handler,2.236794243869753
+8,Ads - AdSense,fieldset_missing,0.10638790063974729
+9,Ads - AdSense,flash,0.07257382619932674
+10,Ads - AdSense,h1_missing,0.2859319410985785
+11,Ads - AdSense,heading_missing,0.08994751200523285
+12,Ads - AdSense,heading_possible,0.3034093265901948
+13,Ads - AdSense,heading_skipped,1.265957786251017
+14,Ads - AdSense,javascript_jumpmenu,0.09046601043378376
+15,Ads - AdSense,label_orphaned,0.5409055375632169
+16,Ads - AdSense,label_title,0.24859207734401173
+17,Ads - AdSense,legend_missing,0.15476779247299818
+18,Ads - AdSense,link_document,0.00023930696702349993
+19,Ads - AdSense,link_excel,0.0023531851757310827
+20,Ads - AdSense,link_internal_broken,0.43825880250793703
+21,Ads - AdSense,link_pdf,0.19460442558351015
+22,Ads - AdSense,link_powerpoint,0.0007657822944751999
+23,Ads - AdSense,link_redundant,22.00387677286578
+24,Ads - AdSense,link_suspicious,1.9864312949697676
+25,Ads - AdSense,link_word,0.004961631116287232
+26,Ads - AdSense,noscript,2.506221981142611
+27,Ads - AdSense,plugin,0.03277707758331871
+28,Ads - AdSense,tabindex,0.6774221853512229
+29,Ads - AdSense,table_caption_possible,0.010537483447934782
+30,Ads - AdSense,text_small,2.4991704025143187
+31,Ads - AdSense,title_redundant,20.73604441537308
+32,Ads - AdSense,underline,0.7275649718415469
+33,Ads - AdSense,text_justified,4.362358609466984
+34,Ads - DoubleClick,accesskey,0.21844086262889298
+35,Ads - DoubleClick,alt_duplicate,1.210538918571065
+36,Ads - DoubleClick,alt_long,1.123333183675302
+37,Ads - DoubleClick,alt_redundant,3.0411858902407998
+38,Ads - DoubleClick,alt_suspicious,0.8214579685418818
+39,Ads - DoubleClick,applet,0.00020952124395755698
+40,Ads - DoubleClick,audio_video,0.04829464673221688
+41,Ads - DoubleClick,event_handler,2.5193433005582246
+42,Ads - DoubleClick,fieldset_missing,0.14546760651910384
+43,Ads - DoubleClick,flash,0.07252428201559437
+44,Ads - DoubleClick,h1_missing,0.31085469701731544
+45,Ads - DoubleClick,heading_missing,0.07725347580777922
+46,Ads - DoubleClick,heading_possible,0.3906972567682845
+47,Ads - DoubleClick,heading_skipped,1.5527918705757344
+48,Ads - DoubleClick,javascript_jumpmenu,0.09941783025786079
+49,Ads - DoubleClick,label_orphaned,0.7056825154521917
+50,Ads - DoubleClick,label_title,0.2555111570062407
+51,Ads - DoubleClick,legend_missing,0.25693290830452414
+52,Ads - DoubleClick,link_document,0.00019455544081773148
+53,Ads - DoubleClick,link_excel,0.0018707253924781873
+54,Ads - DoubleClick,link_internal_broken,0.5032101647734926
+55,Ads - DoubleClick,link_pdf,0.2334814947844176
+56,Ads - DoubleClick,link_powerpoint,0.0006135979287328454
+57,Ads - DoubleClick,link_redundant,25.9538903605262
+58,Ads - DoubleClick,link_suspicious,2.0718059234648827
+59,Ads - DoubleClick,link_word,0.004100630060312187
+60,Ads - DoubleClick,noscript,3.5464164384381687
+61,Ads - DoubleClick,plugin,0.044657956569239286
+62,Ads - DoubleClick,tabindex,0.9963633098370224
+63,Ads - DoubleClick,table_caption_possible,0.012780795881410977
+64,Ads - DoubleClick,text_small,2.689624208683159
+65,Ads - DoubleClick,title_redundant,22.14130711324623
+66,Ads - DoubleClick,underline,0.7084811206393391
+67,Ads - DoubleClick,text_justified,2.900941349017495
+68,Ads - Criteo,accesskey,0.1524594745667971
+69,Ads - Criteo,alt_duplicate,1.6303335196571642
+70,Ads - Criteo,alt_long,1.5742500465809577
+71,Ads - Criteo,alt_redundant,3.678964039500652
+72,Ads - Criteo,alt_suspicious,0.8407862865660518
+73,Ads - Criteo,applet,0.0
+74,Ads - Criteo,audio_video,0.014207192099869573
+75,Ads - Criteo,event_handler,3.3194987888950998
+76,Ads - Criteo,fieldset_missing,0.196618222470654
+77,Ads - Criteo,flash,0.04052543320290665
+78,Ads - Criteo,h1_missing,0.2554033910937209
+79,Ads - Criteo,heading_missing,0.05626979690702441
+80,Ads - Criteo,heading_possible,0.9117756661076952
+81,Ads - Criteo,heading_skipped,1.594512763182411
+82,Ads - Criteo,javascript_jumpmenu,0.11878144214645053
+83,Ads - Criteo,label_orphaned,1.6063443264393515
+84,Ads - Criteo,label_title,0.3132103596049935
+85,Ads - Criteo,legend_missing,0.2738494503446991
+86,Ads - Criteo,link_document,4.65809577044904e-05
+87,Ads - Criteo,link_excel,0.0016303335196571642
+88,Ads - Criteo,link_internal_broken,0.630799329234209
+89,Ads - Criteo,link_pdf,0.19503446990870132
+90,Ads - Criteo,link_powerpoint,0.0003726476616359232
+91,Ads - Criteo,link_redundant,27.669461524128938
+92,Ads - Criteo,link_suspicious,1.7880566424445687
+93,Ads - Criteo,link_word,0.004471771939631079
+94,Ads - Criteo,noscript,4.536566051798025
+95,Ads - Criteo,plugin,0.049841624743804734
+96,Ads - Criteo,tabindex,0.7195360536612633
+97,Ads - Criteo,table_caption_possible,0.009968324948760947
+98,Ads - Criteo,text_small,2.841950810508664
+99,Ads - Criteo,title_redundant,27.496599590087573
+100,Ads - Criteo,underline,0.9135457425004658
+101,Ads - Criteo,text_justified,1.8938419973914664
+102,Ads - Prebid,accesskey,0.2687613745851622
+103,Ads - Prebid,alt_duplicate,0.9292366984262926
+104,Ads - Prebid,alt_long,2.0562573600256933
+105,Ads - Prebid,alt_redundant,3.121079113585269
+106,Ads - Prebid,alt_suspicious,0.7501338186489669
+107,Ads - Prebid,applet,0.0
+108,Ads - Prebid,audio_video,0.023284444920244084
+109,Ads - Prebid,event_handler,2.3605074403168826
+110,Ads - Prebid,fieldset_missing,0.13949255968311744
+111,Ads - Prebid,flash,0.05459800877850337
+112,Ads - Prebid,h1_missing,0.30162723477143777
+113,Ads - Prebid,heading_missing,0.05888020554544481
+114,Ads - Prebid,heading_possible,0.46012204260785783
+115,Ads - Prebid,heading_skipped,1.7800556685579703
+116,Ads - Prebid,javascript_jumpmenu,0.10148806337651214
+117,Ads - Prebid,label_orphaned,0.796274488812761
+118,Ads - Prebid,label_title,0.2774328230382186
+119,Ads - Prebid,legend_missing,0.4090033187024944
+120,Ads - Prebid,link_document,5.352745958676801e-05
+121,Ads - Prebid,link_excel,0.0012311315704956643
+122,Ads - Prebid,link_internal_broken,0.3522642115405203
+123,Ads - Prebid,link_pdf,0.17257252970774006
+124,Ads - Prebid,link_powerpoint,0.0004282196766941441
+125,Ads - Prebid,link_redundant,29.122310245155766
+126,Ads - Prebid,link_suspicious,2.170110266566749
+127,Ads - Prebid,link_word,0.004656888984048817
+128,Ads - Prebid,noscript,5.444170859651001
+129,Ads - Prebid,plugin,0.038325661064125896
+130,Ads - Prebid,tabindex,1.4307354672947221
+131,Ads - Prebid,table_caption_possible,0.005888020554544481
+132,Ads - Prebid,text_small,2.378867358955144
+133,Ads - Prebid,title_redundant,21.28567605181458
+134,Ads - Prebid,underline,0.553527459586768
+135,Ads - Prebid,text_justified,1.7242265282089713
+136,Ads - AppNexus,accesskey,0.15538537549407114
+137,Ads - AppNexus,alt_duplicate,1.3543725296442688
+138,Ads - AppNexus,alt_long,1.6251852766798418
+139,Ads - AppNexus,alt_redundant,2.923727766798419
+140,Ads - AppNexus,alt_suspicious,0.8288043478260869
+141,Ads - AppNexus,applet,0.0
+142,Ads - AppNexus,audio_video,0.028223814229249012
+143,Ads - AppNexus,event_handler,1.986227766798419
+144,Ads - AppNexus,fieldset_missing,0.19657855731225296
+145,Ads - AppNexus,flash,0.016860177865612648
+146,Ads - AppNexus,h1_missing,0.27532114624505927
+147,Ads - AppNexus,heading_missing,0.029767786561264824
+148,Ads - AppNexus,heading_possible,0.7592020750988142
+149,Ads - AppNexus,heading_skipped,1.5788661067193677
+150,Ads - AppNexus,javascript_jumpmenu,0.11703310276679842
+151,Ads - AppNexus,label_orphaned,1.2075716403162056
+152,Ads - AppNexus,label_title,0.34937005928853754
+153,Ads - AppNexus,legend_missing,0.30897974308300397
+154,Ads - AppNexus,link_document,0.00012351778656126481
+155,Ads - AppNexus,link_excel,0.0006793478260869565
+156,Ads - AppNexus,link_internal_broken,0.6016551383399209
+157,Ads - AppNexus,link_pdf,0.24400938735177866
+158,Ads - AppNexus,link_powerpoint,0.0008646245059288538
+159,Ads - AppNexus,link_redundant,24.86110424901186
+160,Ads - AppNexus,link_suspicious,2.3213315217391304
+161,Ads - AppNexus,link_word,0.0007411067193675889
+162,Ads - AppNexus,noscript,4.792860671936759
+163,Ads - AppNexus,plugin,0.025135869565217392
+164,Ads - AppNexus,tabindex,1.7309165019762847
+165,Ads - AppNexus,table_caption_possible,0.014142786561264822
+166,Ads - AppNexus,text_small,2.17965662055336
+167,Ads - AppNexus,title_redundant,23.101655138339922
+168,Ads - AppNexus,underline,0.5545331027667985
+169,Ads - AppNexus,text_justified,1.4562129446640317
+170,Ads - AdRoll,accesskey,0.050199332845171266
+171,Ads - AdRoll,alt_duplicate,1.8162069807175982
+172,Ads - AdRoll,alt_long,0.3713286144333252
+173,Ads - AdRoll,alt_redundant,1.848344316979904
+174,Ads - AdRoll,alt_suspicious,0.9755918965096412
+175,Ads - AdRoll,applet,0.0
+176,Ads - AdRoll,audio_video,0.02074688796680498
+177,Ads - AdRoll,event_handler,2.6797656822064924
+178,Ads - AdRoll,fieldset_missing,0.13253600195264828
+179,Ads - AdRoll,flash,0.059555772516475466
+180,Ads - AdRoll,h1_missing,0.23667724351151248
+181,Ads - AdRoll,heading_missing,0.07623464323488732
+182,Ads - AdRoll,heading_possible,0.9993491172402571
+183,Ads - AdRoll,heading_skipped,1.3396794402408265
+184,Ads - AdRoll,javascript_jumpmenu,0.10536164673338215
+185,Ads - AdRoll,label_orphaned,2.097144251891628
+186,Ads - AdRoll,label_title,0.23439915385241233
+187,Ads - AdRoll,legend_missing,0.13652265885607354
+188,Ads - AdRoll,link_document,0.00016272068993572532
+189,Ads - AdRoll,link_excel,0.002684891383939468
+190,Ads - AdRoll,link_internal_broken,0.6578797494101375
+191,Ads - AdRoll,link_pdf,0.37100317305345376
+192,Ads - AdRoll,link_powerpoint,0.0006508827597429013
+193,Ads - AdRoll,link_redundant,15.377430640305915
+194,Ads - AdRoll,link_suspicious,1.449597266292409
+195,Ads - AdRoll,link_word,0.00732243104710764
+196,Ads - AdRoll,noscript,2.9440240826621107
+197,Ads - AdRoll,plugin,0.022130013831258646
+198,Ads - AdRoll,tabindex,0.5915710682613294
+199,Ads - AdRoll,table_caption_possible,0.014726222439183142
+200,Ads - AdRoll,text_small,1.56870881132536
+201,Ads - AdRoll,title_redundant,13.712147099503701
+202,Ads - AdRoll,underline,0.5387682043771865
+203,Ads - AdRoll,text_justified,1.6018224717272802
+204,Ads - VigLink,accesskey,0.5786676116229624
+205,Ads - VigLink,alt_duplicate,0.9134183793999527
+206,Ads - VigLink,alt_long,0.46739900779588944
+207,Ads - VigLink,alt_redundant,1.57512402551382
+208,Ads - VigLink,alt_suspicious,0.607016300496102
+209,Ads - VigLink,applet,0.00023623907394283014
+210,Ads - VigLink,audio_video,0.06886369005433499
+211,Ads - VigLink,event_handler,4.000236239073943
+212,Ads - VigLink,fieldset_missing,0.11670210252775809
+213,Ads - VigLink,flash,0.16359555870540987
+214,Ads - VigLink,h1_missing,0.32199385778407746
+215,Ads - VigLink,heading_missing,0.10689818095913065
+216,Ads - VigLink,heading_possible,0.20470115757146232
+217,Ads - VigLink,heading_skipped,0.819867706118592
+218,Ads - VigLink,javascript_jumpmenu,0.18639262934089298
+219,Ads - VigLink,label_orphaned,0.31455232695487834
+220,Ads - VigLink,label_title,0.40007087172218286
+221,Ads - VigLink,legend_missing,0.11351287502952988
+222,Ads - VigLink,link_document,0.00035435861091424523
+223,Ads - VigLink,link_excel,0.0025986298133711316
+224,Ads - VigLink,link_internal_broken,0.379045594141271
+225,Ads - VigLink,link_pdf,0.22549019607843138
+226,Ads - VigLink,link_powerpoint,0.003307347035199622
+227,Ads - VigLink,link_redundant,15.5033073470352
+228,Ads - VigLink,link_suspicious,2.1680841011103236
+229,Ads - VigLink,link_word,0.008268367587999054
+230,Ads - VigLink,noscript,1.8654618473895583
+231,Ads - VigLink,plugin,0.033191589888967636
+232,Ads - VigLink,tabindex,0.8979447200566973
+233,Ads - VigLink,table_caption_possible,0.007914008977084809
+234,Ads - VigLink,text_small,2.9202693125442947
+235,Ads - VigLink,title_redundant,17.20304748405386
+236,Ads - VigLink,underline,0.8772738010866997
+237,Ads - VigLink,text_justified,8.192180486652493
+238,Ads - Yandex.Direct,accesskey,0.14671744649981863
+239,Ads - Yandex.Direct,alt_duplicate,1.0418933623503808
+240,Ads - Yandex.Direct,alt_long,0.44504896626768226
+241,Ads - Yandex.Direct,alt_redundant,2.8280739934711643
+242,Ads - Yandex.Direct,alt_suspicious,0.48277112803772215
+243,Ads - Yandex.Direct,applet,0.0
+244,Ads - Yandex.Direct,audio_video,0.01378309756982227
+245,Ads - Yandex.Direct,event_handler,4.90025389916576
+246,Ads - Yandex.Direct,fieldset_missing,0.18661588683351468
+247,Ads - Yandex.Direct,flash,0.18171926006528835
+248,Ads - Yandex.Direct,h1_missing,0.2771128037722162
+249,Ads - Yandex.Direct,heading_missing,0.21091766412767501
+250,Ads - Yandex.Direct,heading_possible,0.22216177003989845
+251,Ads - Yandex.Direct,heading_skipped,0.5747188973521944
+252,Ads - Yandex.Direct,javascript_jumpmenu,0.14508523757707653
+253,Ads - Yandex.Direct,label_orphaned,0.9907508161044614
+254,Ads - Yandex.Direct,label_title,0.20583968081247733
+255,Ads - Yandex.Direct,legend_missing,0.12187159956474429
+256,Ads - Yandex.Direct,link_document,0.001088139281828074
+257,Ads - Yandex.Direct,link_excel,0.007798331519767864
+258,Ads - Yandex.Direct,link_internal_broken,0.5344577439245557
+259,Ads - Yandex.Direct,link_pdf,0.30087051142546245
+260,Ads - Yandex.Direct,link_powerpoint,0.003989844033369605
+261,Ads - Yandex.Direct,link_redundant,21.292165397170837
+262,Ads - Yandex.Direct,link_suspicious,0.36507072905331883
+263,Ads - Yandex.Direct,link_word,0.03917301414581066
+264,Ads - Yandex.Direct,noscript,1.4844033369604643
+265,Ads - Yandex.Direct,plugin,0.05096118969894813
+266,Ads - Yandex.Direct,tabindex,0.4319912948857454
+267,Ads - Yandex.Direct,table_caption_possible,0.021581429089590133
+268,Ads - Yandex.Direct,text_small,2.719441421835328
+269,Ads - Yandex.Direct,title_redundant,16.423648893725062
+270,Ads - Yandex.Direct,underline,1.1964091403699673
+271,Ads - Yandex.Direct,text_justified,6.445048966267683
+272,ReCAPTCHA,accesskey,0.07234191627255211
+273,ReCAPTCHA,alt_duplicate,1.608473949514412
+274,ReCAPTCHA,alt_long,0.5080477219205543
+275,ReCAPTCHA,alt_redundant,2.167493820673011
+276,ReCAPTCHA,alt_suspicious,0.7517564858605321
+277,ReCAPTCHA,applet,0.0
+278,ReCAPTCHA,audio_video,0.13431034818318055
+279,ReCAPTCHA,event_handler,1.9951733130923883
+280,ReCAPTCHA,fieldset_missing,0.15667270002530118
+281,ReCAPTCHA,flash,0.0391000564410969
+282,ReCAPTCHA,h1_missing,0.2794807419084876
+283,ReCAPTCHA,heading_missing,0.06171542009692299
+284,ReCAPTCHA,heading_possible,0.8928203032249274
+285,ReCAPTCHA,heading_skipped,1.4185788521048637
+286,ReCAPTCHA,javascript_jumpmenu,0.08133356688269983
+287,ReCAPTCHA,label_orphaned,1.3428504700181
+288,ReCAPTCHA,label_title,0.24911932426383293
+289,ReCAPTCHA,legend_missing,0.18477647379381484
+290,ReCAPTCHA,link_document,0.00027247426091356726
+291,ReCAPTCHA,link_excel,0.004320663280200853
+292,ReCAPTCHA,link_internal_broken,0.7679103170432651
+293,ReCAPTCHA,link_pdf,0.4204277845896343
+294,ReCAPTCHA,link_powerpoint,0.0009731223604055974
+295,ReCAPTCHA,link_redundant,17.327942235456685
+296,ReCAPTCHA,link_suspicious,1.9983456919873104
+297,ReCAPTCHA,link_word,0.01049025904517234
+298,ReCAPTCHA,noscript,2.345925536676982
+299,ReCAPTCHA,plugin,0.0325801366263794
+300,ReCAPTCHA,tabindex,0.7552402639107841
+301,ReCAPTCHA,table_caption_possible,0.015764582238570676
+302,ReCAPTCHA,text_small,1.721862166948872
+303,ReCAPTCHA,title_redundant,15.28253634612016
+304,ReCAPTCHA,underline,0.5433136762616532
+305,ReCAPTCHA,text_justified,2.368073801599813
+306,CMS - Blogger,accesskey,0.0011107745127739068
+307,CMS - Blogger,alt_duplicate,0.8621629809148743
+308,CMS - Blogger,alt_long,0.12122589114409775
+309,CMS - Blogger,alt_redundant,1.4480965364031102
+310,CMS - Blogger,alt_suspicious,0.3243461577299808
+311,CMS - Blogger,applet,0.00020195900232252852
+312,CMS - Blogger,audio_video,0.055134807634050285
+313,CMS - Blogger,event_handler,1.6319802080177723
+314,CMS - Blogger,fieldset_missing,0.01019892961728769
+315,CMS - Blogger,flash,0.17792588104614762
+316,CMS - Blogger,h1_missing,0.3713016257699687
+317,CMS - Blogger,heading_missing,0.007674442088256084
+318,CMS - Blogger,heading_possible,0.08007674442088256
+319,CMS - Blogger,heading_skipped,0.2604261334949005
+320,CMS - Blogger,javascript_jumpmenu,0.032313440371604565
+321,CMS - Blogger,label_orphaned,0.028021811572250834
+322,CMS - Blogger,label_title,0.3675653842270019
+323,CMS - Blogger,legend_missing,0.02327577501767141
+324,CMS - Blogger,link_document,0.00010097950116126426
+325,CMS - Blogger,link_excel,0.0037867312935474097
+326,CMS - Blogger,link_internal_broken,0.3342421488437847
+327,CMS - Blogger,link_pdf,0.1701504594567303
+328,CMS - Blogger,link_powerpoint,0.00040391800464505703
+329,CMS - Blogger,link_redundant,13.798949813187923
+330,CMS - Blogger,link_suspicious,1.5996667676461678
+331,CMS - Blogger,link_word,0.00545289306270827
+332,CMS - Blogger,noscript,1.3116732303342422
+333,CMS - Blogger,plugin,0.06447541149146724
+334,CMS - Blogger,tabindex,0.2188730687670403
+335,CMS - Blogger,table_caption_possible,0.0004544077552256892
+336,CMS - Blogger,text_small,5.367514894476422
+337,CMS - Blogger,title_redundant,22.38498434817732
+338,CMS - Blogger,underline,1.4959608199535495
+339,CMS - Blogger,text_justified,16.089063920024234
+340,CMS - Elementor,accesskey,0.04837344297980409
+341,CMS - Elementor,alt_duplicate,0.7940500665134841
+342,CMS - Elementor,alt_long,0.3334139557382997
+343,CMS - Elementor,alt_redundant,0.9333655822953199
+344,CMS - Elementor,alt_suspicious,0.5390010884024671
+345,CMS - Elementor,applet,0.0
+346,CMS - Elementor,audio_video,0.057201596323618334
+347,CMS - Elementor,event_handler,1.8141250453501028
+348,CMS - Elementor,fieldset_missing,0.053331720885234
+349,CMS - Elementor,flash,0.07618817269319143
+350,CMS - Elementor,h1_missing,0.34780505502479137
+351,CMS - Elementor,heading_missing,0.09795622203410327
+352,CMS - Elementor,heading_possible,0.5989841576974241
+353,CMS - Elementor,heading_skipped,1.0794533800943282
+354,CMS - Elementor,javascript_jumpmenu,0.06554601523763454
+355,CMS - Elementor,label_orphaned,0.42919337283831177
+356,CMS - Elementor,label_title,0.18394001693070505
+357,CMS - Elementor,legend_missing,0.054541056959729106
+358,CMS - Elementor,link_document,0.00024186721489902045
+359,CMS - Elementor,link_excel,0.005079211512879429
+360,CMS - Elementor,link_internal_broken,0.3420002418672149
+361,CMS - Elementor,link_pdf,0.2970129398959971
+362,CMS - Elementor,link_powerpoint,0.0009674688595960818
+363,CMS - Elementor,link_redundant,10.057927197968315
+364,CMS - Elementor,link_suspicious,1.0223727173781594
+365,CMS - Elementor,link_word,0.010400290240657879
+366,CMS - Elementor,noscript,1.7495464989720644
+367,CMS - Elementor,plugin,0.018260974724876044
+368,CMS - Elementor,tabindex,0.3955738299673479
+369,CMS - Elementor,table_caption_possible,0.005200145120328939
+370,CMS - Elementor,text_small,0.9960091909541662
+371,CMS - Elementor,title_redundant,6.897448300882815
+372,CMS - Elementor,underline,0.38747127826823075
+373,CMS - Elementor,text_justified,2.5500060466803727
+374,CMS - 1C-Bitrix,accesskey,0.010244735344336939
+375,CMS - 1C-Bitrix,alt_duplicate,1.7901252134319863
+376,CMS - 1C-Bitrix,alt_long,0.4749573136027319
+377,CMS - 1C-Bitrix,alt_redundant,2.3414911781445644
+378,CMS - 1C-Bitrix,alt_suspicious,0.9243027888446215
+379,CMS - 1C-Bitrix,applet,0.0
+380,CMS - 1C-Bitrix,audio_video,0.028173022196926578
+381,CMS - 1C-Bitrix,event_handler,3.8079112122936825
+382,CMS - 1C-Bitrix,fieldset_missing,0.28628343767785996
+383,CMS - 1C-Bitrix,flash,0.07555492316448492
+384,CMS - 1C-Bitrix,h1_missing,0.34462151394422313
+385,CMS - 1C-Bitrix,heading_missing,0.15110984632896984
+386,CMS - 1C-Bitrix,heading_possible,0.8252703471826978
+387,CMS - 1C-Bitrix,heading_skipped,0.45944792259533296
+388,CMS - 1C-Bitrix,javascript_jumpmenu,0.0964712578258395
+389,CMS - 1C-Bitrix,label_orphaned,1.4415196357427433
+390,CMS - 1C-Bitrix,label_title,0.1893853158793398
+391,CMS - 1C-Bitrix,legend_missing,0.22168468981217984
+392,CMS - 1C-Bitrix,link_document,0.003130335799658509
+393,CMS - 1C-Bitrix,link_excel,0.04254410927717701
+394,CMS - 1C-Bitrix,link_internal_broken,0.6745873648264087
+395,CMS - 1C-Bitrix,link_pdf,0.6124075128059192
+396,CMS - 1C-Bitrix,link_powerpoint,0.007256687535571998
+397,CMS - 1C-Bitrix,link_redundant,24.708309618668185
+398,CMS - 1C-Bitrix,link_suspicious,0.09049516220830962
+399,CMS - 1C-Bitrix,link_word,0.08764940239043825
+400,CMS - 1C-Bitrix,noscript,1.974245873648264
+401,CMS - 1C-Bitrix,plugin,0.04282868525896414
+402,CMS - 1C-Bitrix,tabindex,0.4499146272054639
+403,CMS - 1C-Bitrix,table_caption_possible,0.013375071143995446
+404,CMS - 1C-Bitrix,text_small,1.5980364257256687
+405,CMS - 1C-Bitrix,title_redundant,22.248719408081957
+406,CMS - 1C-Bitrix,underline,2.452902675014229
+407,CMS - 1C-Bitrix,text_justified,6.167615253272624
+408,CMS - Drupal,accesskey,0.14032963963125059
+409,CMS - Drupal,alt_duplicate,0.9227736909085266
+410,CMS - Drupal,alt_long,0.4472793866592172
+411,CMS - Drupal,alt_redundant,0.881584256758854
+412,CMS - Drupal,alt_suspicious,0.6273085638017196
+413,CMS - Drupal,applet,0.0
+414,CMS - Drupal,audio_video,0.08157184095353384
+415,CMS - Drupal,event_handler,0.6812862774311699
+416,CMS - Drupal,fieldset_missing,0.08709687432101065
+417,CMS - Drupal,flash,0.02591799360586026
+418,CMS - Drupal,h1_missing,0.33640624515007606
+419,CMS - Drupal,heading_missing,0.019244498246267498
+420,CMS - Drupal,heading_possible,0.785392805040817
+421,CMS - Drupal,heading_skipped,0.9030015209361517
+422,CMS - Drupal,javascript_jumpmenu,0.03699909985411429
+423,CMS - Drupal,label_orphaned,0.5825806251357979
+424,CMS - Drupal,label_title,0.20138436229319925
+425,CMS - Drupal,legend_missing,0.14135394357016481
+426,CMS - Drupal,link_document,0.0010553434522146692
+427,CMS - Drupal,link_excel,0.0030108327901418506
+428,CMS - Drupal,link_internal_broken,0.74892137691281
+429,CMS - Drupal,link_pdf,0.7111773287394854
+430,CMS - Drupal,link_powerpoint,0.0014278176118198466
+431,CMS - Drupal,link_redundant,15.840208585529378
+432,CMS - Drupal,link_suspicious,1.7799919297265419
+433,CMS - Drupal,link_word,0.022845081789117545
+434,CMS - Drupal,noscript,1.5906198590806095
+435,CMS - Drupal,plugin,0.023465872055126177
+436,CMS - Drupal,tabindex,0.5853741813328367
+437,CMS - Drupal,table_caption_possible,0.005462954340875935
+438,CMS - Drupal,text_small,1.546264394574293
+439,CMS - Drupal,title_redundant,12.786448148493031
+440,CMS - Drupal,underline,0.3061116801688549
+441,CMS - Drupal,text_justified,2.1822019430735327
+442,CMS - Joomla,accesskey,0.062497799373261505
+443,CMS - Joomla,alt_duplicate,1.24097743037217
+444,CMS - Joomla,alt_long,0.25051934791028485
+445,CMS - Joomla,alt_redundant,1.7480370409492623
+446,CMS - Joomla,alt_suspicious,1.578535967043414
+447,CMS - Joomla,applet,3.521002781592197e-05
+448,CMS - Joomla,audio_video,0.02496390972148868
+449,CMS - Joomla,event_handler,1.7556424069575014
+450,CMS - Joomla,fieldset_missing,0.057568395479032426
+451,CMS - Joomla,flash,0.09108834195979015
+452,CMS - Joomla,h1_missing,0.4143516073377698
+453,CMS - Joomla,heading_missing,0.07182845674448082
+454,CMS - Joomla,heading_possible,0.44343509031372136
+455,CMS - Joomla,heading_skipped,0.7073694588218725
+456,CMS - Joomla,javascript_jumpmenu,0.11999577479666208
+457,CMS - Joomla,label_orphaned,0.2814337523326643
+458,CMS - Joomla,label_title,0.14622724551952396
+459,CMS - Joomla,legend_missing,0.11270729903876624
+460,CMS - Joomla,link_document,0.00035210027815921977
+461,CMS - Joomla,link_excel,0.012886870180627443
+462,CMS - Joomla,link_internal_broken,0.48417309249674306
+463,CMS - Joomla,link_pdf,0.9090172881236576
+464,CMS - Joomla,link_powerpoint,0.002781592197457836
+465,CMS - Joomla,link_redundant,11.39491567198338
+466,CMS - Joomla,link_suspicious,1.21386570895391
+467,CMS - Joomla,link_word,0.028203232280553502
+468,CMS - Joomla,noscript,0.7963099890848914
+469,CMS - Joomla,plugin,0.027393401640787296
+470,CMS - Joomla,tabindex,0.20150698919052146
+471,CMS - Joomla,table_caption_possible,0.006725115312841097
+472,CMS - Joomla,text_small,1.4483644942079503
+473,CMS - Joomla,title_redundant,10.732720678849336
+474,CMS - Joomla,underline,0.753600225344178
+475,CMS - Joomla,text_justified,4.996478997218408
+476,CMS - Rocket,accesskey,0.01073458219322248
+477,CMS - Rocket,alt_duplicate,1.0132603662386865
+478,CMS - Rocket,alt_long,0.9205430435697748
+479,CMS - Rocket,alt_redundant,1.8328772889917913
+480,CMS - Rocket,alt_suspicious,0.48095137865712484
+481,CMS - Rocket,applet,0.0
+482,CMS - Rocket,audio_video,0.028941275520942958
+483,CMS - Rocket,event_handler,0.7484740054725321
+484,CMS - Rocket,fieldset_missing,0.096821721742791
+485,CMS - Rocket,flash,0.004946327089033887
+486,CMS - Rocket,h1_missing,0.2640496737528941
+487,CMS - Rocket,heading_missing,0.013260366238686592
+488,CMS - Rocket,heading_possible,0.8392969901073458
+489,CMS - Rocket,heading_skipped,1.6259734792675227
+490,CMS - Rocket,javascript_jumpmenu,0.04862134287518417
+491,CMS - Rocket,label_orphaned,0.7416333403494001
+492,CMS - Rocket,label_title,0.2503683435066302
+493,CMS - Rocket,legend_missing,0.09124394864239108
+494,CMS - Rocket,link_document,0.0
+495,CMS - Rocket,link_excel,0.0004209640075773521
+496,CMS - Rocket,link_internal_broken,0.5671437592085876
+497,CMS - Rocket,link_pdf,0.2778362450010524
+498,CMS - Rocket,link_powerpoint,0.00021048200378867606
+499,CMS - Rocket,link_redundant,19.260366238686593
+500,CMS - Rocket,link_suspicious,2.4320143127762575
+501,CMS - Rocket,link_word,0.0034729530625131552
+502,CMS - Rocket,noscript,11.697011155546202
+503,CMS - Rocket,plugin,0.019574826352346874
+504,CMS - Rocket,tabindex,0.6181856451273416
+505,CMS - Rocket,table_caption_possible,0.005683014102294254
+506,CMS - Rocket,text_small,1.193011997474216
+507,CMS - Rocket,title_redundant,13.075773521363923
+508,CMS - Rocket,underline,0.34003367712060617
+509,CMS - Rocket,text_justified,2.1548095137865713
+510,CMS - Squarespace,accesskey,0.027401355121562377
+511,CMS - Squarespace,alt_duplicate,0.4048425667596652
+512,CMS - Squarespace,alt_long,1.0046831406935033
+513,CMS - Squarespace,alt_redundant,2.549023515344759
+514,CMS - Squarespace,alt_suspicious,7.799222797927461
+515,CMS - Squarespace,applet,0.0
+516,CMS - Squarespace,audio_video,0.059884416102032684
+517,CMS - Squarespace,event_handler,1.4044440015942607
+518,CMS - Squarespace,fieldset_missing,0.08070944599442009
+519,CMS - Squarespace,flash,0.06536468712634516
+520,CMS - Squarespace,h1_missing,0.09944200876843363
+521,CMS - Squarespace,heading_missing,0.09744918294141092
+522,CMS - Squarespace,heading_possible,0.9776803507373456
+523,CMS - Squarespace,heading_skipped,0.45815065763252294
+524,CMS - Squarespace,javascript_jumpmenu,0.04463929852530889
+525,CMS - Squarespace,label_orphaned,0.2854722997210044
+526,CMS - Squarespace,label_title,0.024711040255081706
+527,CMS - Squarespace,legend_missing,0.07174172977281786
+528,CMS - Squarespace,link_document,0.00019928258270227183
+529,CMS - Squarespace,link_excel,0.0025906735751295338
+530,CMS - Squarespace,link_internal_broken,0.2896572339577521
+531,CMS - Squarespace,link_pdf,0.272718214428059
+532,CMS - Squarespace,link_powerpoint,0.0007971303308090873
+533,CMS - Squarespace,link_redundant,7.233758469509765
+534,CMS - Squarespace,link_suspicious,1.0018931845356716
+535,CMS - Squarespace,link_word,0.008569151056197688
+536,CMS - Squarespace,noscript,7.87803905938621
+537,CMS - Squarespace,plugin,0.015444400159426067
+538,CMS - Squarespace,tabindex,0.13939816660023913
+539,CMS - Squarespace,table_caption_possible,0.0038860103626943004
+540,CMS - Squarespace,text_small,0.8623953766440813
+541,CMS - Squarespace,title_redundant,3.2304703068951772
+542,CMS - Squarespace,underline,0.3487445197289757
+543,CMS - Squarespace,text_justified,1.4082303706656039
+544,CMS - TYPO3 CMS,accesskey,0.3601496725912067
+545,CMS - TYPO3 CMS,alt_duplicate,0.8775892021916344
+546,CMS - TYPO3 CMS,alt_long,0.4706668448483229
+547,CMS - TYPO3 CMS,alt_redundant,1.186288921555526
+548,CMS - TYPO3 CMS,alt_suspicious,0.4579714018441801
+549,CMS - TYPO3 CMS,applet,0.0
+550,CMS - TYPO3 CMS,audio_video,0.029934518241347054
+551,CMS - TYPO3 CMS,event_handler,0.9991981825471068
+552,CMS - TYPO3 CMS,fieldset_missing,0.0987571829480155
+553,CMS - TYPO3 CMS,flash,0.01376453294133369
+554,CMS - TYPO3 CMS,h1_missing,0.27448884137378055
+555,CMS - TYPO3 CMS,heading_missing,0.030736335694240276
+556,CMS - TYPO3 CMS,heading_possible,1.2453561405853268
+557,CMS - TYPO3 CMS,heading_skipped,1.2437525056795402
+558,CMS - TYPO3 CMS,javascript_jumpmenu,0.07964720032072699
+559,CMS - TYPO3 CMS,label_orphaned,0.5893358278765201
+560,CMS - TYPO3 CMS,label_title,0.09942536415875985
+561,CMS - TYPO3 CMS,legend_missing,0.2720833890151009
+562,CMS - TYPO3 CMS,link_document,0.00026727248429774154
+563,CMS - TYPO3 CMS,link_excel,0.0006681812107443538
+564,CMS - TYPO3 CMS,link_internal_broken,0.4208205265267941
+565,CMS - TYPO3 CMS,link_pdf,0.8632901242817052
+566,CMS - TYPO3 CMS,link_powerpoint,0.00026727248429774154
+567,CMS - TYPO3 CMS,link_redundant,16.78551383135106
+568,CMS - TYPO3 CMS,link_suspicious,0.6437257784311106
+569,CMS - TYPO3 CMS,link_word,0.004142723506614994
+570,CMS - TYPO3 CMS,noscript,1.4710677535747694
+571,CMS - TYPO3 CMS,plugin,0.028731792062007218
+572,CMS - TYPO3 CMS,tabindex,1.1063744487505012
+573,CMS - TYPO3 CMS,table_caption_possible,0.02071361753307497
+574,CMS - TYPO3 CMS,text_small,0.81892289188828
+575,CMS - TYPO3 CMS,title_redundant,35.75985567285848
+576,CMS - TYPO3 CMS,underline,0.2556461312307898
+577,CMS - TYPO3 CMS,text_justified,1.2986770012027262
+578,CMS - Weebly,accesskey,0.04743729552889858
+579,CMS - Weebly,alt_duplicate,3.1824790985096327
+580,CMS - Weebly,alt_long,0.13740458015267176
+581,CMS - Weebly,alt_redundant,0.53017084696474
+582,CMS - Weebly,alt_suspicious,0.2504543802253726
+583,CMS - Weebly,applet,0.0
+584,CMS - Weebly,audio_video,0.027262813522355506
+585,CMS - Weebly,event_handler,2.5325336241366774
+586,CMS - Weebly,fieldset_missing,0.041621228644129406
+587,CMS - Weebly,flash,0.1475826972010178
+588,CMS - Weebly,h1_missing,0.5599781897491821
+589,CMS - Weebly,heading_missing,0.20029080334423846
+590,CMS - Weebly,heading_possible,0.11795710650672482
+591,CMS - Weebly,heading_skipped,0.12686295892402763
+592,CMS - Weebly,javascript_jumpmenu,0.08087968011632134
+593,CMS - Weebly,label_orphaned,0.38495092693565974
+594,CMS - Weebly,label_title,0.04561977462740822
+595,CMS - Weebly,legend_missing,0.03271537622682661
+596,CMS - Weebly,link_document,0.0007270083605961468
+597,CMS - Weebly,link_excel,0.004362050163576881
+598,CMS - Weebly,link_internal_broken,0.2619047619047619
+599,CMS - Weebly,link_pdf,0.32133769538349694
+600,CMS - Weebly,link_powerpoint,0.0016357688113413304
+601,CMS - Weebly,link_redundant,5.638313340603417
+602,CMS - Weebly,link_suspicious,0.6752090149036714
+603,CMS - Weebly,link_word,0.019629225736095966
+604,CMS - Weebly,noscript,0.36659396583060705
+605,CMS - Weebly,plugin,0.05161759360232643
+606,CMS - Weebly,tabindex,0.15448927662668122
+607,CMS - Weebly,table_caption_possible,0.006361323155216285
+608,CMS - Weebly,text_small,1.7340966921119594
+609,CMS - Weebly,title_redundant,4.344965467102872
+610,CMS - Weebly,underline,0.9191203198836787
+611,CMS - Weebly,text_justified,4.137041075972373
+612,CMS - Wix,accesskey,0.045972915181753386
+613,CMS - Wix,alt_duplicate,0.4158945117605132
+614,CMS - Wix,alt_long,0.11136849607982893
+615,CMS - Wix,alt_redundant,0.6318602993585175
+616,CMS - Wix,alt_suspicious,1.275302922309337
+617,CMS - Wix,applet,0.0
+618,CMS - Wix,audio_video,0.005345687811831789
+619,CMS - Wix,event_handler,2.399144689950107
+620,CMS - Wix,fieldset_missing,0.026372059871703494
+621,CMS - Wix,flash,0.11119030648610122
+622,CMS - Wix,h1_missing,0.3406985032074127
+623,CMS - Wix,heading_missing,0.15680684248039914
+624,CMS - Wix,heading_possible,1.1272273699215967
+625,CMS - Wix,heading_skipped,0.7542765502494654
+626,CMS - Wix,javascript_jumpmenu,0.07804704205274413
+627,CMS - Wix,label_orphaned,0.29454739843193156
+628,CMS - Wix,label_title,0.03492516037063435
+629,CMS - Wix,legend_missing,0.03082679971489665
+630,CMS - Wix,link_document,0.0001781895937277263
+631,CMS - Wix,link_excel,0.003563791874554526
+632,CMS - Wix,link_internal_broken,0.2134711332858161
+633,CMS - Wix,link_pdf,0.315751960085531
+634,CMS - Wix,link_powerpoint,0.001781895937277263
+635,CMS - Wix,link_redundant,5.708303635067712
+636,CMS - Wix,link_suspicious,0.6528866714183892
+637,CMS - Wix,link_word,0.01781895937277263
+638,CMS - Wix,noscript,0.26870990734141126
+639,CMS - Wix,plugin,0.2614041339985745
+640,CMS - Wix,tabindex,0.152352102637206
+641,CMS - Wix,table_caption_possible,0.006236635780470421
+642,CMS - Wix,text_small,1.1869208838203849
+643,CMS - Wix,title_redundant,4.160905203136137
+644,CMS - Wix,underline,1.9787954383464006
+645,CMS - Wix,text_justified,2.417854597291518
+646,CMS - WordPress,accesskey,0.015989052194368417
+647,CMS - WordPress,alt_duplicate,0.9257433675398845
+648,CMS - WordPress,alt_long,1.0150372084377584
+649,CMS - WordPress,alt_redundant,1.3851505964246569
+650,CMS - WordPress,alt_suspicious,0.4115137841077346
+651,CMS - WordPress,applet,3.5253472467038e-05
+652,CMS - WordPress,audio_video,0.08417888252902002
+653,CMS - WordPress,event_handler,0.6294892092325639
+654,CMS - WordPress,fieldset_missing,0.052639844115554474
+655,CMS - WordPress,flash,0.018956753603866346
+656,CMS - WordPress,h1_missing,0.2693878074263042
+657,CMS - WordPress,heading_missing,0.030202611320851468
+658,CMS - WordPress,heading_possible,0.6357162544146963
+659,CMS - WordPress,heading_skipped,1.2484087864472833
+660,CMS - WordPress,javascript_jumpmenu,0.05245396216981918
+661,CMS - WordPress,label_orphaned,0.4543723920442527
+662,CMS - WordPress,label_title,0.16786742130463486
+663,CMS - WordPress,legend_missing,0.06768987199784633
+664,CMS - WordPress,link_document,0.00026920833520283565
+665,CMS - WordPress,link_excel,0.0017722882067520015
+666,CMS - WordPress,link_internal_broken,0.46545480184343613
+667,CMS - WordPress,link_pdf,0.31379436329023863
+668,CMS - WordPress,link_powerpoint,0.0007307083384076968
+669,CMS - WordPress,link_redundant,13.965816951151506
+670,CMS - WordPress,link_suspicious,2.2071750431053823
+671,CMS - WordPress,link_word,0.005717472261926891
+672,CMS - WordPress,noscript,1.8415580752885978
+673,CMS - WordPress,plugin,0.01652746886477409
+674,CMS - WordPress,tabindex,0.38089454083954544
+675,CMS - WordPress,table_caption_possible,0.006746232685737727
+676,CMS - WordPress,text_small,0.9571285726189485
+677,CMS - WordPress,title_redundant,10.49925647221706
+678,CMS - WordPress,underline,0.30105183542397107
+679,CMS - WordPress,text_justified,2.985340965175979
+680,Frameworks - Angular,accesskey,0.10295200481959971
+681,Frameworks - Angular,alt_duplicate,1.292389048798447
+682,Frameworks - Angular,alt_long,0.34091974027712696
+683,Frameworks - Angular,alt_redundant,1.8714773411874959
+684,Frameworks - Angular,alt_suspicious,0.8548095588727492
+685,Frameworks - Angular,applet,0.0
+686,Frameworks - Angular,audio_video,0.026507798380078988
+687,Frameworks - Angular,event_handler,1.4883191646027176
+688,Frameworks - Angular,fieldset_missing,0.13970145257380012
+689,Frameworks - Angular,flash,0.015195126849186693
+690,Frameworks - Angular,h1_missing,0.2556396010442466
+691,Frameworks - Angular,heading_missing,0.04799518040029453
+692,Frameworks - Angular,heading_possible,1.0282482093848317
+693,Frameworks - Angular,heading_skipped,2.0456523194323584
+694,Frameworks - Angular,javascript_jumpmenu,0.04089965861168753
+695,Frameworks - Angular,label_orphaned,1.4338309123769999
+696,Frameworks - Angular,label_title,0.17243456724010978
+697,Frameworks - Angular,legend_missing,0.1874958163197001
+698,Frameworks - Angular,link_document,6.693888479817926e-05
+699,Frameworks - Angular,link_excel,0.00455184416627619
+700,Frameworks - Angular,link_internal_broken,1.1723006894705135
+701,Frameworks - Angular,link_pdf,0.3899190039493942
+702,Frameworks - Angular,link_powerpoint,0.00046857219358725484
+703,Frameworks - Angular,link_redundant,14.741749782448624
+704,Frameworks - Angular,link_suspicious,0.9774415958230136
+705,Frameworks - Angular,link_word,0.004484905281478011
+706,Frameworks - Angular,noscript,1.9519378807149073
+707,Frameworks - Angular,plugin,0.04504986946917464
+708,Frameworks - Angular,tabindex,1.0139902269228194
+709,Frameworks - Angular,table_caption_possible,0.018675948858692015
+710,Frameworks - Angular,text_small,1.7854608742218354
+711,Frameworks - Angular,title_redundant,17.48959100341388
+712,Frameworks - Angular,underline,0.6592810763772675
+713,Frameworks - Angular,text_justified,1.2065064596023831
+714,Frameworks - Backbone.js,accesskey,0.05776523502954405
+715,Frameworks - Backbone.js,alt_duplicate,1.5403033777229032
+716,Frameworks - Backbone.js,alt_long,0.96772202134227
+717,Frameworks - Backbone.js,alt_redundant,1.355851486021695
+718,Frameworks - Backbone.js,alt_suspicious,1.1406649616368287
+719,Frameworks - Backbone.js,applet,0.0
+720,Frameworks - Backbone.js,audio_video,0.09361495722726872
+721,Frameworks - Backbone.js,event_handler,1.55798571302584
+722,Frameworks - Backbone.js,fieldset_missing,0.09634888438133875
+723,Frameworks - Backbone.js,flash,0.03624658259105741
+724,Frameworks - Backbone.js,h1_missing,0.24530381867889584
+725,Frameworks - Backbone.js,heading_missing,0.09546697239615487
+726,Frameworks - Backbone.js,heading_possible,0.6993562042508158
+727,Frameworks - Backbone.js,heading_skipped,1.0749625187406298
+728,Frameworks - Backbone.js,javascript_jumpmenu,0.04762324719992945
+729,Frameworks - Backbone.js,label_orphaned,1.0369521121792045
+730,Frameworks - Backbone.js,label_title,0.19825381426933592
+731,Frameworks - Backbone.js,legend_missing,0.09352676602875033
+732,Frameworks - Backbone.js,link_document,0.00017638239703677574
+733,Frameworks - Backbone.js,link_excel,0.0022488755622188904
+734,Frameworks - Backbone.js,link_internal_broken,0.6910221359908281
+735,Frameworks - Backbone.js,link_pdf,0.3146221007143487
+736,Frameworks - Backbone.js,link_powerpoint,0.0008378163859246847
+737,Frameworks - Backbone.js,link_redundant,14.465208572184496
+738,Frameworks - Backbone.js,link_suspicious,1.409956786312726
+739,Frameworks - Backbone.js,link_word,0.007011200282211835
+740,Frameworks - Backbone.js,noscript,2.344959873004674
+741,Frameworks - Backbone.js,plugin,0.0377899285651292
+742,Frameworks - Backbone.js,tabindex,0.738072140400388
+743,Frameworks - Backbone.js,table_caption_possible,0.0074962518740629685
+744,Frameworks - Backbone.js,text_small,1.6773965958197372
+745,Frameworks - Backbone.js,title_redundant,10.250242525795926
+746,Frameworks - Backbone.js,underline,0.4944880500926008
+747,Frameworks - Backbone.js,text_justified,2.2450833406826
+748,Frameworks - Handlebars,accesskey,0.08884823936760959
+749,Frameworks - Handlebars,alt_duplicate,1.692624289540733
+750,Frameworks - Handlebars,alt_long,0.6186711961847521
+751,Frameworks - Handlebars,alt_redundant,1.9662899327105245
+752,Frameworks - Handlebars,alt_suspicious,0.9033775396877246
+753,Frameworks - Handlebars,applet,0.0
+754,Frameworks - Handlebars,audio_video,0.012608610439668126
+755,Frameworks - Handlebars,event_handler,2.7936238322336187
+756,Frameworks - Handlebars,fieldset_missing,0.13673482720324034
+757,Frameworks - Handlebars,flash,0.04755993989677925
+758,Frameworks - Handlebars,h1_missing,0.2701378454301953
+759,Frameworks - Handlebars,heading_missing,0.06898804468543804
+760,Frameworks - Handlebars,heading_possible,0.9872607303847912
+761,Frameworks - Handlebars,heading_skipped,1.3232508002874501
+762,Frameworks - Handlebars,javascript_jumpmenu,0.07741556150780689
+763,Frameworks - Handlebars,label_orphaned,1.8590840791794603
+764,Frameworks - Handlebars,label_title,0.319527013784543
+765,Frameworks - Handlebars,legend_missing,0.24563925001633238
+766,Frameworks - Handlebars,link_document,0.0009799438165545176
+767,Frameworks - Handlebars,link_excel,0.0020905468086496373
+768,Frameworks - Handlebars,link_internal_broken,1.1447703664989874
+769,Frameworks - Handlebars,link_pdf,0.3565035604625335
+770,Frameworks - Handlebars,link_powerpoint,0.0007186254654733129
+771,Frameworks - Handlebars,link_redundant,19.26451950088195
+772,Frameworks - Handlebars,link_suspicious,1.1994512314627295
+773,Frameworks - Handlebars,link_word,0.007970209707976742
+774,Frameworks - Handlebars,noscript,3.265891422225126
+775,Frameworks - Handlebars,plugin,0.030835565427582153
+776,Frameworks - Handlebars,tabindex,0.9220618017900307
+777,Frameworks - Handlebars,table_caption_possible,0.03246880512183968
+778,Frameworks - Handlebars,text_small,2.3298490886522507
+779,Frameworks - Handlebars,title_redundant,17.635983536943883
+780,Frameworks - Handlebars,underline,0.5221793950480172
+781,Frameworks - Handlebars,text_justified,1.94362056575423
+782,Frameworks - Knockout.js,accesskey,0.11013340902639795
+783,Frameworks - Knockout.js,alt_duplicate,0.867726369571388
+784,Frameworks - Knockout.js,alt_long,0.3474311666193585
+785,Frameworks - Knockout.js,alt_redundant,1.2529094521714448
+786,Frameworks - Knockout.js,alt_suspicious,0.8238717002554641
+787,Frameworks - Knockout.js,applet,0.0
+788,Frameworks - Knockout.js,audio_video,0.01845018450184502
+789,Frameworks - Knockout.js,event_handler,2.5654271927334658
+790,Frameworks - Knockout.js,fieldset_missing,0.09054782855520863
+791,Frameworks - Knockout.js,flash,0.09225092250922509
+792,Frameworks - Knockout.js,h1_missing,0.43755322168606303
+793,Frameworks - Knockout.js,heading_missing,0.11439114391143912
+794,Frameworks - Knockout.js,heading_possible,0.39511779733181945
+795,Frameworks - Knockout.js,heading_skipped,0.6860630144762986
+796,Frameworks - Knockout.js,javascript_jumpmenu,0.09991484530229917
+797,Frameworks - Knockout.js,label_orphaned,0.9648027249503264
+798,Frameworks - Knockout.js,label_title,0.4392563156400795
+799,Frameworks - Knockout.js,legend_missing,0.12049389724666477
+800,Frameworks - Knockout.js,link_document,0.0017030939540164632
+801,Frameworks - Knockout.js,link_excel,0.004541583877377235
+802,Frameworks - Knockout.js,link_internal_broken,0.5830258302583026
+803,Frameworks - Knockout.js,link_pdf,0.4371274481975589
+804,Frameworks - Knockout.js,link_powerpoint,0.0012773204655123474
+805,Frameworks - Knockout.js,link_redundant,13.868435992052229
+806,Frameworks - Knockout.js,link_suspicious,0.6995458416122623
+807,Frameworks - Knockout.js,link_word,0.0143343741129719
+808,Frameworks - Knockout.js,noscript,1.3804995742265116
+809,Frameworks - Knockout.js,plugin,0.03349418109565711
+810,Frameworks - Knockout.js,tabindex,0.8775191598069827
+811,Frameworks - Knockout.js,table_caption_possible,0.05449900652852682
+812,Frameworks - Knockout.js,text_small,1.691314220834516
+813,Frameworks - Knockout.js,title_redundant,10.42194152710758
+814,Frameworks - Knockout.js,underline,0.4974453590689753
+815,Frameworks - Knockout.js,text_justified,1.9870848708487086
+816,Frameworks - MooTools,accesskey,0.11963156142492509
+817,Frameworks - MooTools,alt_duplicate,1.3031849961158584
+818,Frameworks - MooTools,alt_long,0.2996337809344135
+819,Frameworks - MooTools,alt_redundant,1.7923648873598934
+820,Frameworks - MooTools,alt_suspicious,1.5034957274442349
+821,Frameworks - MooTools,applet,3.6991824806717716e-05
+822,Frameworks - MooTools,audio_video,0.03739873487959161
+823,Frameworks - MooTools,event_handler,2.1577331409758442
+824,Frameworks - MooTools,fieldset_missing,0.06244220027373951
+825,Frameworks - MooTools,flash,0.11955757777531166
+826,Frameworks - MooTools,h1_missing,0.3994377242629379
+827,Frameworks - MooTools,heading_missing,0.08178892464765287
+828,Frameworks - MooTools,heading_possible,0.3739873487959161
+829,Frameworks - MooTools,heading_skipped,0.6712166611178929
+830,Frameworks - MooTools,javascript_jumpmenu,0.13161691266230163
+831,Frameworks - MooTools,label_orphaned,0.3038138571375726
+832,Frameworks - MooTools,label_title,0.13243073280804943
+833,Frameworks - MooTools,legend_missing,0.13272666740650316
+834,Frameworks - MooTools,link_document,0.0008878037953612252
+835,Frameworks - MooTools,link_excel,0.01246624495986387
+836,Frameworks - MooTools,link_internal_broken,0.5025709318240669
+837,Frameworks - MooTools,link_pdf,0.9261273258609847
+838,Frameworks - MooTools,link_powerpoint,0.0017756075907224503
+839,Frameworks - MooTools,link_redundant,12.352680057707246
+840,Frameworks - MooTools,link_suspicious,1.3092886472089669
+841,Frameworks - MooTools,link_word,0.02426663707320682
+842,Frameworks - MooTools,noscript,0.7896274923241964
+843,Frameworks - MooTools,plugin,0.03725076758036474
+844,Frameworks - MooTools,tabindex,0.22465135205119668
+845,Frameworks - MooTools,table_caption_possible,0.006214626567528576
+846,Frameworks - MooTools,text_small,1.619428106388488
+847,Frameworks - MooTools,title_redundant,12.719675951614693
+848,Frameworks - MooTools,underline,0.5599082602744794
+849,Frameworks - MooTools,text_justified,5.2659712203603
+850,Frameworks - Mustache,accesskey,0.17054986020503263
+851,Frameworks - Mustache,alt_duplicate,2.3306786410234688
+852,Frameworks - Mustache,alt_long,0.5202067271032789
+853,Frameworks - Mustache,alt_redundant,1.5744302296026433
+854,Frameworks - Mustache,alt_suspicious,0.5486740659154452
+855,Frameworks - Mustache,applet,0.0
+856,Frameworks - Mustache,audio_video,0.029738202151995255
+857,Frameworks - Mustache,event_handler,2.23239854274337
+858,Frameworks - Mustache,fieldset_missing,0.23468609675506227
+859,Frameworks - Mustache,flash,0.07413369482335
+860,Frameworks - Mustache,h1_missing,0.3827840379564518
+861,Frameworks - Mustache,heading_missing,0.11031093789714479
+862,Frameworks - Mustache,heading_possible,0.588155553672795
+863,Frameworks - Mustache,heading_skipped,0.9839023976955011
+864,Frameworks - Mustache,javascript_jumpmenu,0.07379479793272897
+865,Frameworks - Mustache,label_orphaned,0.994408201304753
+866,Frameworks - Mustache,label_title,0.19376429721257307
+867,Frameworks - Mustache,legend_missing,0.12564602219774634
+868,Frameworks - Mustache,link_document,0.0005930695585868
+869,Frameworks - Mustache,link_excel,0.0034736931288655427
+870,Frameworks - Mustache,link_internal_broken,0.5243582140133864
+871,Frameworks - Mustache,link_pdf,0.3994747098195374
+872,Frameworks - Mustache,link_powerpoint,0.0011014148945183429
+873,Frameworks - Mustache,link_redundant,14.369990680335508
+874,Frameworks - Mustache,link_suspicious,1.0908243666864357
+875,Frameworks - Mustache,link_word,0.0142336694060832
+876,Frameworks - Mustache,noscript,2.0796407692959415
+877,Frameworks - Mustache,plugin,0.03744810641362366
+878,Frameworks - Mustache,tabindex,0.5526561043802423
+879,Frameworks - Mustache,table_caption_possible,0.012369736507667543
+880,Frameworks - Mustache,text_small,2.0172837414216724
+881,Frameworks - Mustache,title_redundant,14.099466237397271
+882,Frameworks - Mustache,underline,0.7633652461238668
+883,Frameworks - Mustache,text_justified,2.4626789799203594
+884,Frameworks - Prototype,accesskey,0.1999860879243183
+885,Frameworks - Prototype,alt_duplicate,2.0583611574846965
+886,Frameworks - Prototype,alt_long,0.46967167501391205
+887,Frameworks - Prototype,alt_redundant,3.1110183639398996
+888,Frameworks - Prototype,alt_suspicious,0.8361853088480802
+889,Frameworks - Prototype,applet,0.0
+890,Frameworks - Prototype,audio_video,0.09418475236505286
+891,Frameworks - Prototype,event_handler,5.515303283249861
+892,Frameworks - Prototype,fieldset_missing,0.11213132999443517
+893,Frameworks - Prototype,flash,0.12082637729549249
+894,Frameworks - Prototype,h1_missing,0.2639120756816917
+895,Frameworks - Prototype,heading_missing,0.11853088480801335
+896,Frameworks - Prototype,heading_possible,0.5833333333333334
+897,Frameworks - Prototype,heading_skipped,0.8146911519198664
+898,Frameworks - Prototype,javascript_jumpmenu,0.2243322203672788
+899,Frameworks - Prototype,label_orphaned,1.7020728992765721
+900,Frameworks - Prototype,label_title,0.49700890372843626
+901,Frameworks - Prototype,legend_missing,0.244087367835281
+902,Frameworks - Prototype,link_document,0.0006260434056761269
+903,Frameworks - Prototype,link_excel,0.0036867000556483026
+904,Frameworks - Prototype,link_internal_broken,0.9245269894268224
+905,Frameworks - Prototype,link_pdf,0.4698803561491374
+906,Frameworks - Prototype,link_powerpoint,0.0012520868113522537
+907,Frameworks - Prototype,link_redundant,20.718071786310517
+908,Frameworks - Prototype,link_suspicious,1.1812743461324429
+909,Frameworks - Prototype,link_word,0.013216471897607123
+910,Frameworks - Prototype,noscript,1.8576794657762938
+911,Frameworks - Prototype,plugin,0.022189760712298275
+912,Frameworks - Prototype,tabindex,0.43767390094602115
+913,Frameworks - Prototype,table_caption_possible,0.00813856427378965
+914,Frameworks - Prototype,text_small,2.583542014468559
+915,Frameworks - Prototype,title_redundant,28.131469115191987
+916,Frameworks - Prototype,underline,0.9398998330550918
+917,Frameworks - Prototype,text_justified,3.3674874791318863
+918,Frameworks - React,accesskey,0.07421777221526908
+919,Frameworks - React,alt_duplicate,1.1212765957446809
+920,Frameworks - React,alt_long,0.39593241551939923
+921,Frameworks - React,alt_redundant,1.6326032540675846
+922,Frameworks - React,alt_suspicious,0.9398936170212766
+923,Frameworks - React,applet,0.0
+924,Frameworks - React,audio_video,0.060294117647058824
+925,Frameworks - React,event_handler,1.5530663329161452
+926,Frameworks - React,fieldset_missing,0.08992490613266584
+927,Frameworks - React,flash,0.03006883604505632
+928,Frameworks - React,h1_missing,0.22428035043804756
+929,Frameworks - React,heading_missing,0.06849186483103879
+930,Frameworks - React,heading_possible,0.9020337922403003
+931,Frameworks - React,heading_skipped,1.3405819774718397
+932,Frameworks - React,javascript_jumpmenu,0.07168335419274093
+933,Frameworks - React,label_orphaned,1.0632978723404256
+934,Frameworks - React,label_title,0.2090738423028786
+935,Frameworks - React,legend_missing,0.18961201501877348
+936,Frameworks - React,link_document,0.000344180225281602
+937,Frameworks - React,link_excel,0.0020963704630788484
+938,Frameworks - React,link_internal_broken,0.5634230287859825
+939,Frameworks - React,link_pdf,0.320244055068836
+940,Frameworks - React,link_powerpoint,0.0006257822277847309
+941,Frameworks - React,link_redundant,13.583510638297872
+942,Frameworks - React,link_suspicious,1.7370150187734668
+943,Frameworks - React,link_word,0.005256570713391739
+944,Frameworks - React,noscript,2.538735919899875
+945,Frameworks - React,plugin,0.08188360450563203
+946,Frameworks - React,tabindex,0.7035669586983729
+947,Frameworks - React,table_caption_possible,0.01639549436795995
+948,Frameworks - React,text_small,1.8443679599499374
+949,Frameworks - React,title_redundant,10.937859824780976
+950,Frameworks - React,underline,0.8310075093867334
+951,Frameworks - React,text_justified,2.353347934918648
+952,Frameworks - RequireJS,accesskey,0.06925547996976568
+953,Frameworks - RequireJS,alt_duplicate,1.2693216175359032
+954,Frameworks - RequireJS,alt_long,0.5690192743764172
+955,Frameworks - RequireJS,alt_redundant,1.850765306122449
+956,Frameworks - RequireJS,alt_suspicious,1.1327003023431594
+957,Frameworks - RequireJS,applet,0.0
+958,Frameworks - RequireJS,audio_video,0.05314625850340136
+959,Frameworks - RequireJS,event_handler,1.4842687074829932
+960,Frameworks - RequireJS,fieldset_missing,0.12703136810279667
+961,Frameworks - RequireJS,flash,0.045351473922902494
+962,Frameworks - RequireJS,h1_missing,0.2964380196523054
+963,Frameworks - RequireJS,heading_missing,0.09863945578231292
+964,Frameworks - RequireJS,heading_possible,1.3678665910808767
+965,Frameworks - RequireJS,heading_skipped,1.1395030234315948
+966,Frameworks - RequireJS,javascript_jumpmenu,0.05300453514739229
+967,Frameworks - RequireJS,label_orphaned,1.1500377928949357
+968,Frameworks - RequireJS,label_title,0.2761715797430083
+969,Frameworks - RequireJS,legend_missing,0.1526360544217687
+970,Frameworks - RequireJS,link_document,0.0002362055933484505
+971,Frameworks - RequireJS,link_excel,0.002787226001511716
+972,Frameworks - RequireJS,link_internal_broken,0.7114512471655329
+973,Frameworks - RequireJS,link_pdf,0.4568216175359032
+974,Frameworks - RequireJS,link_powerpoint,0.0007558578987150416
+975,Frameworks - RequireJS,link_redundant,18.127031368102795
+976,Frameworks - RequireJS,link_suspicious,1.1687925170068028
+977,Frameworks - RequireJS,link_word,0.013605442176870748
+978,Frameworks - RequireJS,noscript,2.540721844293273
+979,Frameworks - RequireJS,plugin,0.083994708994709
+980,Frameworks - RequireJS,tabindex,1.12197656840514
+981,Frameworks - RequireJS,table_caption_possible,0.010770975056689343
+982,Frameworks - RequireJS,text_small,2.6673280423280423
+983,Frameworks - RequireJS,title_redundant,16.843301209372637
+984,Frameworks - RequireJS,underline,1.0850812547241118
+985,Frameworks - RequireJS,text_justified,1.6477702191987906
+986,Frameworks - TweenMax,accesskey,0.02875746066196419
+987,Frameworks - TweenMax,alt_duplicate,1.3376094876366174
+988,Frameworks - TweenMax,alt_long,0.33098209441128595
+989,Frameworks - TweenMax,alt_redundant,1.135842182776529
+990,Frameworks - TweenMax,alt_suspicious,1.007480040306953
+991,Frameworks - TweenMax,applet,3.875668552825362e-05
+992,Frameworks - TweenMax,audio_video,0.022943957832726146
+993,Frameworks - TweenMax,event_handler,1.1199131850244166
+994,Frameworks - TweenMax,fieldset_missing,0.07983877218820247
+995,Frameworks - TweenMax,flash,0.030656538252848618
+996,Frameworks - TweenMax,h1_missing,0.34369428726455314
+997,Frameworks - TweenMax,heading_missing,0.06918068366793272
+998,Frameworks - TweenMax,heading_possible,1.4152778854352375
+999,Frameworks - TweenMax,heading_skipped,1.443764049298504
+1000,Frameworks - TweenMax,javascript_jumpmenu,0.043795054646926596
+1001,Frameworks - TweenMax,label_orphaned,0.7396713433067205
+1002,Frameworks - TweenMax,label_title,0.1404929850399194
+1003,Frameworks - TweenMax,legend_missing,0.1197581582823037
+1004,Frameworks - TweenMax,link_document,0.00027129679869777537
+1005,Frameworks - TweenMax,link_excel,0.00224788776063871
+1006,Frameworks - TweenMax,link_internal_broken,0.6289434927524998
+1007,Frameworks - TweenMax,link_pdf,0.3931090613130765
+1008,Frameworks - TweenMax,link_powerpoint,0.001123943880319355
+1009,Frameworks - TweenMax,link_redundant,12.07700953414464
+1010,Frameworks - TweenMax,link_suspicious,1.35485621269669
+1011,Frameworks - TweenMax,link_word,0.008603984187272304
+1012,Frameworks - TweenMax,noscript,1.9013642353305946
+1013,Frameworks - TweenMax,plugin,0.07708704751569646
+1014,Frameworks - TweenMax,tabindex,0.48073792729245796
+1015,Frameworks - TweenMax,table_caption_possible,0.007596310363537711
+1016,Frameworks - TweenMax,text_small,1.2866056894814355
+1017,Frameworks - TweenMax,title_redundant,10.26916518099372
+1018,Frameworks - TweenMax,underline,0.7384698860553446
+1019,Frameworks - TweenMax,text_justified,1.7740485233702814
+1020,Frameworks - Vue.js,accesskey,0.07034191896369935
+1021,Frameworks - Vue.js,alt_duplicate,1.3479439674649796
+1022,Frameworks - Vue.js,alt_long,0.26901641813526134
+1023,Frameworks - Vue.js,alt_redundant,2.1021238138273834
+1024,Frameworks - Vue.js,alt_suspicious,0.6716372947733092
+1025,Frameworks - Vue.js,applet,0.0
+1026,Frameworks - Vue.js,audio_video,0.015213134508209068
+1027,Frameworks - Vue.js,event_handler,3.0117487573429735
+1028,Frameworks - Vue.js,fieldset_missing,0.22955264347040216
+1029,Frameworks - Vue.js,flash,0.10212381382738364
+1030,Frameworks - Vue.js,h1_missing,0.2694682934176834
+1031,Frameworks - Vue.js,heading_missing,0.13782196113872572
+1032,Frameworks - Vue.js,heading_possible,0.8425967766229854
+1033,Frameworks - Vue.js,heading_skipped,1.2483807802379876
+1034,Frameworks - Vue.js,javascript_jumpmenu,0.08736255460159663
+1035,Frameworks - Vue.js,label_orphaned,1.5800572375357735
+1036,Frameworks - Vue.js,label_title,0.27534267208917007
+1037,Frameworks - Vue.js,legend_missing,0.12004820003012502
+1038,Frameworks - Vue.js,link_document,0.00015062509414068384
+1039,Frameworks - Vue.js,link_excel,0.004669377918361199
+1040,Frameworks - Vue.js,link_internal_broken,0.5785509865943667
+1041,Frameworks - Vue.js,link_pdf,0.38710649194155744
+1042,Frameworks - Vue.js,link_powerpoint,0.0015062509414068383
+1043,Frameworks - Vue.js,link_redundant,14.98433499020937
+1044,Frameworks - Vue.js,link_suspicious,0.8773911733694834
+1045,Frameworks - Vue.js,link_word,0.014158758849224282
+1046,Frameworks - Vue.js,noscript,1.7385148365717729
+1047,Frameworks - Vue.js,plugin,0.0549781593613496
+1048,Frameworks - Vue.js,tabindex,0.43560777225485764
+1049,Frameworks - Vue.js,table_caption_possible,0.013104383190239493
+1050,Frameworks - Vue.js,text_small,2.0099412562132852
+1051,Frameworks - Vue.js,title_redundant,13.60159662599789
+1052,Frameworks - Vue.js,underline,0.7400210875131797
+1053,Frameworks - Vue.js,text_justified,2.7483054676909173
+1054,Libraries - Dojo,accesskey,0.07889185768527633
+1055,Libraries - Dojo,alt_duplicate,1.440163127548868
+1056,Libraries - Dojo,alt_long,0.5672901139080299
+1057,Libraries - Dojo,alt_redundant,1.7392771762058783
+1058,Libraries - Dojo,alt_suspicious,0.8384193503023485
+1059,Libraries - Dojo,applet,0.0
+1060,Libraries - Dojo,audio_video,0.015750246097595275
+1061,Libraries - Dojo,event_handler,3.2254253972718323
+1062,Libraries - Dojo,fieldset_missing,0.08690760793137393
+1063,Libraries - Dojo,flash,0.12023625369146393
+1064,Libraries - Dojo,h1_missing,0.27478554352411755
+1065,Libraries - Dojo,heading_missing,0.11686120095626494
+1066,Libraries - Dojo,heading_possible,0.6165096329630151
+1067,Libraries - Dojo,heading_skipped,0.9583743495992125
+1068,Libraries - Dojo,javascript_jumpmenu,0.13092392068626071
+1069,Libraries - Dojo,label_orphaned,0.9931092673323021
+1070,Libraries - Dojo,label_title,0.16186190409225143
+1071,Libraries - Dojo,legend_missing,0.13443960061875967
+1072,Libraries - Dojo,link_document,0.0001406271972999578
+1073,Libraries - Dojo,link_excel,0.003515679932498945
+1074,Libraries - Dojo,link_internal_broken,0.53325833216144
+1075,Libraries - Dojo,link_pdf,0.3775840247503867
+1076,Libraries - Dojo,link_powerpoint,0.0011250175783996624
+1077,Libraries - Dojo,link_redundant,16.722542539727183
+1078,Libraries - Dojo,link_suspicious,1.9649838278723104
+1079,Libraries - Dojo,link_word,0.01223456616509633
+1080,Libraries - Dojo,noscript,2.123330052032063
+1081,Libraries - Dojo,plugin,0.05175080860638447
+1082,Libraries - Dojo,tabindex,1.3008015750246098
+1083,Libraries - Dojo,table_caption_possible,0.007171987062297849
+1084,Libraries - Dojo,text_small,2.0752355505554774
+1085,Libraries - Dojo,title_redundant,14.689495148361694
+1086,Libraries - Dojo,underline,0.45042891295176485
+1087,Libraries - Dojo,text_justified,2.8254816481507525
+1088,Libraries - FancyBox,accesskey,0.08933022114966174
+1089,Libraries - FancyBox,alt_duplicate,2.365727736677612
+1090,Libraries - FancyBox,alt_long,0.40924555920401945
+1091,Libraries - FancyBox,alt_redundant,2.25867389326265
+1092,Libraries - FancyBox,alt_suspicious,0.7940222336511453
+1093,Libraries - FancyBox,applet,0.0
+1094,Libraries - FancyBox,audio_video,0.07024172172330577
+1095,Libraries - FancyBox,event_handler,1.9756300193852119
+1096,Libraries - FancyBox,fieldset_missing,0.1343909482929145
+1097,Libraries - FancyBox,flash,0.030798749851643787
+1098,Libraries - FancyBox,h1_missing,0.34294022233651145
+1099,Libraries - FancyBox,heading_missing,0.0746330656327887
+1100,Libraries - FancyBox,heading_possible,1.0541599082169562
+1101,Libraries - FancyBox,heading_skipped,1.0782331764054278
+1102,Libraries - FancyBox,javascript_jumpmenu,0.0884400838707125
+1103,Libraries - FancyBox,label_orphaned,1.3199548997111998
+1104,Libraries - FancyBox,label_title,0.1634292044150809
+1105,Libraries - FancyBox,legend_missing,0.1472287059382047
+1106,Libraries - FancyBox,link_document,0.0004747398821062626
+1107,Libraries - FancyBox,link_excel,0.007694742255805673
+1108,Libraries - FancyBox,link_internal_broken,0.7241761284962615
+1109,Libraries - FancyBox,link_pdf,0.49357123076314435
+1110,Libraries - FancyBox,link_powerpoint,0.0010879455631601853
+1111,Libraries - FancyBox,link_redundant,18.48261265181786
+1112,Libraries - FancyBox,link_suspicious,1.2095383154646517
+1113,Libraries - FancyBox,link_word,0.015765320251612137
+1114,Libraries - FancyBox,noscript,1.7843889702100724
+1115,Libraries - FancyBox,plugin,0.037464889029552556
+1116,Libraries - FancyBox,tabindex,0.4931360525378803
+1117,Libraries - FancyBox,table_caption_possible,0.014182853977924596
+1118,Libraries - FancyBox,text_small,1.7847054634648098
+1119,Libraries - FancyBox,title_redundant,20.432666060054594
+1120,Libraries - FancyBox,underline,0.6890651580488191
+1121,Libraries - FancyBox,text_justified,2.8217549550975196
+1122,Libraries - Fingerprintjs,accesskey,0.056069494584837544
+1123,Libraries - Fingerprintjs,alt_duplicate,1.3476985559566788
+1124,Libraries - Fingerprintjs,alt_long,0.5645306859205776
+1125,Libraries - Fingerprintjs,alt_redundant,3.116764440433213
+1126,Libraries - Fingerprintjs,alt_suspicious,0.7593637184115524
+1127,Libraries - Fingerprintjs,applet,0.0
+1128,Libraries - Fingerprintjs,audio_video,0.05877707581227437
+1129,Libraries - Fingerprintjs,event_handler,3.6717057761732854
+1130,Libraries - Fingerprintjs,fieldset_missing,0.12714350180505415
+1131,Libraries - Fingerprintjs,flash,0.09860108303249097
+1132,Libraries - Fingerprintjs,h1_missing,0.2512409747292419
+1133,Libraries - Fingerprintjs,heading_missing,0.11732851985559567
+1134,Libraries - Fingerprintjs,heading_possible,0.8328068592057761
+1135,Libraries - Fingerprintjs,heading_skipped,1.1307536101083033
+1136,Libraries - Fingerprintjs,javascript_jumpmenu,0.1009702166064982
+1137,Libraries - Fingerprintjs,label_orphaned,1.2583483754512634
+1138,Libraries - Fingerprintjs,label_title,0.20340703971119134
+1139,Libraries - Fingerprintjs,legend_missing,0.14316335740072203
+1140,Libraries - Fingerprintjs,link_document,0.0001128158844765343
+1141,Libraries - Fingerprintjs,link_excel,0.004061371841155234
+1142,Libraries - Fingerprintjs,link_internal_broken,0.7459386281588448
+1143,Libraries - Fingerprintjs,link_pdf,0.3574007220216607
+1144,Libraries - Fingerprintjs,link_powerpoint,0.0010153429602888086
+1145,Libraries - Fingerprintjs,link_redundant,21.8052797833935
+1146,Libraries - Fingerprintjs,link_suspicious,1.2151398916967509
+1147,Libraries - Fingerprintjs,link_word,0.01105595667870036
+1148,Libraries - Fingerprintjs,noscript,2.7557536101083033
+1149,Libraries - Fingerprintjs,plugin,0.10819043321299639
+1150,Libraries - Fingerprintjs,tabindex,0.6141696750902527
+1151,Libraries - Fingerprintjs,table_caption_possible,0.011958483754512635
+1152,Libraries - Fingerprintjs,text_small,2.3438628158844765
+1153,Libraries - Fingerprintjs,title_redundant,21.03869584837545
+1154,Libraries - Fingerprintjs,underline,0.7897111913357401
+1155,Libraries - Fingerprintjs,text_justified,8.31216155234657
+1156,Libraries - Flickity,accesskey,0.08025122121423586
+1157,Libraries - Flickity,alt_duplicate,1.4870900209351012
+1158,Libraries - Flickity,alt_long,0.4754594091649221
+1159,Libraries - Flickity,alt_redundant,1.7747150500116307
+1160,Libraries - Flickity,alt_suspicious,0.6244475459409164
+1161,Libraries - Flickity,applet,0.0
+1162,Libraries - Flickity,audio_video,0.01872528494998837
+1163,Libraries - Flickity,event_handler,2.756222377297046
+1164,Libraries - Flickity,fieldset_missing,0.11537566876017678
+1165,Libraries - Flickity,flash,0.07501744591765527
+1166,Libraries - Flickity,h1_missing,0.27785531518957896
+1167,Libraries - Flickity,heading_missing,0.09595254710397767
+1168,Libraries - Flickity,heading_possible,0.8783438008839265
+1169,Libraries - Flickity,heading_skipped,1.2012095836240986
+1170,Libraries - Flickity,javascript_jumpmenu,0.08036752733193767
+1171,Libraries - Flickity,label_orphaned,1.4770876948127472
+1172,Libraries - Flickity,label_title,0.1113049546406141
+1173,Libraries - Flickity,legend_missing,0.10374505698999767
+1174,Libraries - Flickity,link_document,0.0003489183531053733
+1175,Libraries - Flickity,link_excel,0.0026750407071411955
+1176,Libraries - Flickity,link_internal_broken,0.7013258897418004
+1177,Libraries - Flickity,link_pdf,0.3341474761572459
+1178,Libraries - Flickity,link_powerpoint,0.0024424284717376133
+1179,Libraries - Flickity,link_redundant,16.072342405210513
+1180,Libraries - Flickity,link_suspicious,1.4569667364503374
+1181,Libraries - Flickity,link_word,0.008025122121423587
+1182,Libraries - Flickity,noscript,2.752384275412887
+1183,Libraries - Flickity,plugin,0.0366364270760642
+1184,Libraries - Flickity,tabindex,0.5214003256571296
+1185,Libraries - Flickity,table_caption_possible,0.011281693417073737
+1186,Libraries - Flickity,text_small,1.9796464294021865
+1187,Libraries - Flickity,title_redundant,10.903349616189812
+1188,Libraries - Flickity,underline,0.42998371714352174
+1189,Libraries - Flickity,text_justified,1.8724121888811351
+1190,Libraries - Hammer.js,accesskey,0.12407996167414312
+1191,Libraries - Hammer.js,alt_duplicate,1.6977919080179436
+1192,Libraries - Hammer.js,alt_long,0.7121641043508558
+1193,Libraries - Hammer.js,alt_redundant,1.9244370889769609
+1194,Libraries - Hammer.js,alt_suspicious,0.8323679282261226
+1195,Libraries - Hammer.js,applet,0.0
+1196,Libraries - Hammer.js,audio_video,0.027612037803231567
+1197,Libraries - Hammer.js,event_handler,1.5937023648795785
+1198,Libraries - Hammer.js,fieldset_missing,0.14781586167849833
+1199,Libraries - Hammer.js,flash,0.04333434954923566
+1200,Libraries - Hammer.js,h1_missing,0.3395322503375289
+1201,Libraries - Hammer.js,heading_missing,0.07795827707852446
+1202,Libraries - Hammer.js,heading_possible,0.8304516353817343
+1203,Libraries - Hammer.js,heading_skipped,1.2443273376595096
+1204,Libraries - Hammer.js,javascript_jumpmenu,0.07016244937067201
+1205,Libraries - Hammer.js,label_orphaned,0.8975218849353251
+1206,Libraries - Hammer.js,label_title,0.18905970994294674
+1207,Libraries - Hammer.js,legend_missing,0.20617568921214233
+1208,Libraries - Hammer.js,link_document,0.0006968337615957494
+1209,Libraries - Hammer.js,link_excel,0.004921388441269979
+1210,Libraries - Hammer.js,link_internal_broken,0.8392056095117808
+1211,Libraries - Hammer.js,link_pdf,0.4590827925612996
+1212,Libraries - Hammer.js,link_powerpoint,0.000914594312094421
+1213,Libraries - Hammer.js,link_redundant,16.19981708113758
+1214,Libraries - Hammer.js,link_suspicious,1.2707634684900484
+1215,Libraries - Hammer.js,link_word,0.007882931928051914
+1216,Libraries - Hammer.js,noscript,2.414224119158573
+1217,Libraries - Hammer.js,plugin,0.059448630286137366
+1218,Libraries - Hammer.js,tabindex,0.5937894690997779
+1219,Libraries - Hammer.js,table_caption_possible,0.007578067157353774
+1220,Libraries - Hammer.js,text_small,1.6767997909498715
+1221,Libraries - Hammer.js,title_redundant,14.94743260310962
+1222,Libraries - Hammer.js,underline,0.5785897826749706
+1223,Libraries - Hammer.js,text_justified,2.17873785984931
+1224,Libraries - jQuery,accesskey,0.10799965894028613
+1225,Libraries - jQuery,alt_duplicate,1.2607246485405486
+1226,Libraries - jQuery,alt_long,0.6087295784036855
+1227,Libraries - jQuery,alt_redundant,2.054641900219363
+1228,Libraries - jQuery,alt_suspicious,0.6475625857493883
+1229,Libraries - jQuery,applet,2.3254071400334343e-05
+1230,Libraries - jQuery,audio_video,0.05959243364192347
+1231,Libraries - jQuery,event_handler,1.6844215808117737
+1232,Libraries - jQuery,fieldset_missing,0.08491224171832085
+1233,Libraries - jQuery,flash,0.04129147944986035
+1234,Libraries - jQuery,h1_missing,0.28535716961778057
+1235,Libraries - jQuery,heading_missing,0.08144480129395988
+1236,Libraries - jQuery,heading_possible,0.7036036059313385
+1237,Libraries - jQuery,heading_skipped,1.0774179712631353
+1238,Libraries - jQuery,javascript_jumpmenu,0.07667254908546904
+1239,Libraries - jQuery,label_orphaned,0.7278162618305088
+1240,Libraries - jQuery,label_title,0.17606045025049802
+1241,Libraries - jQuery,legend_missing,0.12446483338457842
+1242,Libraries - jQuery,link_document,0.000366897570983053
+1243,Libraries - jQuery,link_excel,0.003973862423746024
+1244,Libraries - jQuery,link_internal_broken,0.579478540367776
+1245,Libraries - jQuery,link_pdf,0.45860646101454927
+1246,Libraries - jQuery,link_powerpoint,0.0008784871417904085
+1247,Libraries - jQuery,link_redundant,15.651424053494699
+1248,Libraries - jQuery,link_suspicious,1.5138620103403104
+1249,Libraries - jQuery,link_word,0.011089608272248332
+1250,Libraries - jQuery,noscript,1.66266481323105
+1251,Libraries - jQuery,plugin,0.02233682747287671
+1252,Libraries - jQuery,tabindex,0.5213588645812071
+1253,Libraries - jQuery,table_caption_possible,0.010620651165674923
+1254,Libraries - jQuery,text_small,1.3437998186182432
+1255,Libraries - jQuery,title_redundant,14.84343292104726
+1256,Libraries - jQuery,underline,0.47394381299592536
+1257,Libraries - jQuery,text_justified,2.5405137599508048
+1258,Libraries - jQuery Migrate,accesskey,0.04950046427625554
+1259,Libraries - jQuery Migrate,alt_duplicate,1.0237530752318988
+1260,Libraries - jQuery Migrate,alt_long,0.9021190780845653
+1261,Libraries - jQuery Migrate,alt_redundant,1.5210264493875063
+1262,Libraries - jQuery Migrate,alt_suspicious,0.5484713983490273
+1263,Libraries - jQuery Migrate,applet,6.381804199865344e-06
+1264,Libraries - jQuery Migrate,audio_video,0.08417918829832383
+1265,Libraries - jQuery Migrate,event_handler,0.8341049998245004
+1266,Libraries - jQuery Migrate,fieldset_missing,0.061463156248903125
+1267,Libraries - jQuery Migrate,flash,0.015013194380183222
+1268,Libraries - jQuery Migrate,h1_missing,0.28869367658930856
+1269,Libraries - jQuery Migrate,heading_missing,0.0270046044717302
+1270,Libraries - jQuery Migrate,heading_possible,0.6369870226011596
+1271,Libraries - jQuery Migrate,heading_skipped,1.2546690874977264
+1272,Libraries - jQuery Migrate,javascript_jumpmenu,0.06170885571059794
+1273,Libraries - jQuery Migrate,label_orphaned,0.5443966163674132
+1274,Libraries - jQuery Migrate,label_title,0.19692652309734485
+1275,Libraries - jQuery Migrate,legend_missing,0.08416004288572422
+1276,Libraries - jQuery Migrate,link_document,0.0002967538952937385
+1277,Libraries - jQuery Migrate,link_excel,0.0030313569949360383
+1278,Libraries - jQuery Migrate,link_internal_broken,0.5139968920613547
+1279,Libraries - jQuery Migrate,link_pdf,0.38162231844564776
+1280,Libraries - jQuery Migrate,link_powerpoint,0.000797725524983168
+1281,Libraries - jQuery Migrate,link_redundant,15.084584432865014
+1282,Libraries - jQuery Migrate,link_suspicious,2.2052739229907687
+1283,Libraries - jQuery Migrate,link_word,0.007004030109352215
+1284,Libraries - jQuery Migrate,noscript,1.75307523189881
+1285,Libraries - jQuery Migrate,plugin,0.015980037716462822
+1286,Libraries - jQuery Migrate,tabindex,0.4209246596105185
+1287,Libraries - jQuery Migrate,table_caption_possible,0.007004030109352215
+1288,Libraries - jQuery Migrate,text_small,1.1133280789812088
+1289,Libraries - jQuery Migrate,title_redundant,12.38765631431662
+1290,Libraries - jQuery Migrate,underline,0.35650034621287785
+1291,Libraries - jQuery Migrate,text_justified,2.7984530506619527
+1292,Libraries - jQuery UI,accesskey,0.14196207573092692
+1293,Libraries - jQuery UI,alt_duplicate,1.5364568019373774
+1294,Libraries - jQuery UI,alt_long,0.5283469744516377
+1295,Libraries - jQuery UI,alt_redundant,2.2536927246775047
+1296,Libraries - jQuery UI,alt_suspicious,0.8151312166879614
+1297,Libraries - jQuery UI,applet,0.0
+1298,Libraries - jQuery UI,audio_video,0.06119525064552516
+1299,Libraries - jQuery UI,event_handler,2.2591402620591583
+1300,Libraries - jQuery UI,fieldset_missing,0.1408875369539766
+1301,Libraries - jQuery UI,flash,0.030717909514212244
+1302,Libraries - jQuery UI,h1_missing,0.3152889226278621
+1303,Libraries - jQuery UI,heading_missing,0.049551740913197584
+1304,Libraries - jQuery UI,heading_possible,0.852697306168708
+1305,Libraries - jQuery UI,heading_skipped,1.2310899886130966
+1306,Libraries - jQuery UI,javascript_jumpmenu,0.09143736935800317
+1307,Libraries - jQuery UI,label_orphaned,1.145859283533896
+1308,Libraries - jQuery UI,label_title,0.24524610145570602
+1309,Libraries - jQuery UI,legend_missing,0.18464959878539697
+1310,Libraries - jQuery UI,link_document,0.00047579080173423073
+1311,Libraries - jQuery UI,link_excel,0.004004127084257739
+1312,Libraries - jQuery UI,link_internal_broken,0.8091704667561225
+1313,Libraries - jQuery UI,link_pdf,0.5131965122930444
+1314,Libraries - jQuery UI,link_powerpoint,0.0009034679268885954
+1315,Libraries - jQuery UI,link_redundant,18.756288190230784
+1316,Libraries - jQuery UI,link_suspicious,1.6886938206001378
+1317,Libraries - jQuery UI,link_word,0.012188798066899395
+1318,Libraries - jQuery UI,noscript,2.0356255045253584
+1319,Libraries - jQuery UI,plugin,0.02778297524284042
+1320,Libraries - jQuery UI,tabindex,0.7919190407202082
+1321,Libraries - jQuery UI,table_caption_possible,0.014642595572472562
+1322,Libraries - jQuery UI,text_small,1.952495763323479
+1323,Libraries - jQuery UI,title_redundant,17.743639639254344
+1324,Libraries - jQuery UI,underline,0.5286891161517612
+1325,Libraries - jQuery UI,text_justified,2.4028237382188316
+1326,Libraries - Lazy.js,accesskey,0.006798866855524079
+1327,Libraries - Lazy.js,alt_duplicate,0.9701605288007554
+1328,Libraries - Lazy.js,alt_long,1.7620396600566572
+1329,Libraries - Lazy.js,alt_redundant,2.119169027384325
+1330,Libraries - Lazy.js,alt_suspicious,0.37991816178785015
+1331,Libraries - Lazy.js,applet,0.00018885741265344664
+1332,Libraries - Lazy.js,audio_video,0.0523764557758892
+1333,Libraries - Lazy.js,event_handler,2.1569405099150143
+1334,Libraries - Lazy.js,fieldset_missing,0.03443500157381177
+1335,Libraries - Lazy.js,flash,0.15870317909977966
+1336,Libraries - Lazy.js,h1_missing,0.32936732766761095
+1337,Libraries - Lazy.js,heading_missing,0.010576015108593012
+1338,Libraries - Lazy.js,heading_possible,0.30040919106074915
+1339,Libraries - Lazy.js,heading_skipped,0.5388101983002833
+1340,Libraries - Lazy.js,javascript_jumpmenu,0.033553666981429024
+1341,Libraries - Lazy.js,label_orphaned,0.3502045955303746
+1342,Libraries - Lazy.js,label_title,0.35706641485678314
+1343,Libraries - Lazy.js,legend_missing,0.04261882278879446
+1344,Libraries - Lazy.js,link_document,0.0006295247088448222
+1345,Libraries - Lazy.js,link_excel,0.0045955303745672015
+1346,Libraries - Lazy.js,link_internal_broken,0.30897072710103873
+1347,Libraries - Lazy.js,link_pdf,0.2255587031790998
+1348,Libraries - Lazy.js,link_powerpoint,0.0004406672961913755
+1349,Libraries - Lazy.js,link_redundant,16.551274787535412
+1350,Libraries - Lazy.js,link_suspicious,1.223481271639912
+1351,Libraries - Lazy.js,link_word,0.008435631098520618
+1352,Libraries - Lazy.js,noscript,1.6883223166509285
+1353,Libraries - Lazy.js,plugin,0.07063267233238904
+1354,Libraries - Lazy.js,tabindex,0.26641485678312876
+1355,Libraries - Lazy.js,table_caption_possible,0.004154863078375827
+1356,Libraries - Lazy.js,text_small,4.703116147308782
+1357,Libraries - Lazy.js,title_redundant,28.991501416430594
+1358,Libraries - Lazy.js,underline,1.428202706956248
+1359,Libraries - Lazy.js,text_justified,12.817060119609694
+1360,Libraries - Lightbox,accesskey,0.12130672735137575
+1361,Libraries - Lightbox,alt_duplicate,1.3528239077692727
+1362,Libraries - Lightbox,alt_long,0.5190423351074834
+1363,Libraries - Lightbox,alt_redundant,1.6239303379661845
+1364,Libraries - Lightbox,alt_suspicious,0.6395591581877339
+1365,Libraries - Lightbox,applet,0.0
+1366,Libraries - Lightbox,audio_video,0.13780068082225272
+1367,Libraries - Lightbox,event_handler,1.7087886253784959
+1368,Libraries - Lightbox,fieldset_missing,0.0779748359067913
+1369,Libraries - Lightbox,flash,0.04180850463598578
+1370,Libraries - Lightbox,h1_missing,0.31338511594666263
+1371,Libraries - Lightbox,heading_missing,0.05882906095427959
+1372,Libraries - Lightbox,heading_possible,0.6690865321321773
+1373,Libraries - Lightbox,heading_skipped,1.2209287017359087
+1374,Libraries - Lightbox,javascript_jumpmenu,0.08963532752816385
+1375,Libraries - Lightbox,label_orphaned,0.6048221775027741
+1376,Libraries - Lightbox,label_title,0.2087792217562205
+1377,Libraries - Lightbox,legend_missing,0.08741607267119295
+1378,Libraries - Lightbox,link_document,0.0008463260047770401
+1379,Libraries - Lightbox,link_excel,0.0052472212296176485
+1380,Libraries - Lightbox,link_internal_broken,0.6744842113181998
+1381,Libraries - Lightbox,link_pdf,0.5380188448590397
+1382,Libraries - Lightbox,link_powerpoint,0.0015986157868010757
+1383,Libraries - Lightbox,link_redundant,16.1815651388915
+1384,Libraries - Lightbox,link_suspicious,1.8960711666133794
+1385,Libraries - Lightbox,link_word,0.0126572755825544
+1386,Libraries - Lightbox,noscript,1.5900020687969005
+1387,Libraries - Lightbox,plugin,0.01940907637622012
+1388,Libraries - Lightbox,tabindex,0.5707246431325347
+1389,Libraries - Lightbox,table_caption_possible,0.01011829756822328
+1390,Libraries - Lightbox,text_small,1.4425908860092909
+1391,Libraries - Lightbox,title_redundant,11.915104098098588
+1392,Libraries - Lightbox,underline,0.4462959131857592
+1393,Libraries - Lightbox,text_justified,3.087077542269282
+1394,Libraries - Lodash,accesskey,0.08380277600325223
+1395,Libraries - Lodash,alt_duplicate,1.2755676868575412
+1396,Libraries - Lodash,alt_long,0.41756199547012024
+1397,Libraries - Lodash,alt_redundant,1.4702363668041116
+1398,Libraries - Lodash,alt_suspicious,0.964457866310471
+1399,Libraries - Lodash,applet,0.0
+1400,Libraries - Lodash,audio_video,0.08026017771066844
+1401,Libraries - Lodash,event_handler,0.8560892037865149
+1402,Libraries - Lodash,fieldset_missing,0.11858992972878797
+1403,Libraries - Lodash,flash,0.008130553458388989
+1404,Libraries - Lodash,h1_missing,0.3007724025785469
+1405,Libraries - Lodash,heading_missing,0.048609094604797023
+1406,Libraries - Lodash,heading_possible,1.1706254718624776
+1407,Libraries - Lodash,heading_skipped,1.4165166385968988
+1408,Libraries - Lodash,javascript_jumpmenu,0.024275509611475697
+1409,Libraries - Lodash,label_orphaned,1.5478831523317267
+1410,Libraries - Lodash,label_title,0.13723212730123702
+1411,Libraries - Lodash,legend_missing,0.172774260990766
+1412,Libraries - Lodash,link_document,0.0
+1413,Libraries - Lodash,link_excel,0.001568035309832162
+1414,Libraries - Lodash,link_internal_broken,0.6164701782914223
+1415,Libraries - Lodash,link_pdf,0.3036180962889831
+1416,Libraries - Lodash,link_powerpoint,0.00011615076369127126
+1417,Libraries - Lodash,link_redundant,17.36302921191707
+1418,Libraries - Lodash,link_suspicious,0.8976131018061444
+1419,Libraries - Lodash,link_word,0.003832975201811952
+1420,Libraries - Lodash,noscript,2.4810383878274
+1421,Libraries - Lodash,plugin,0.11742842209187525
+1422,Libraries - Lodash,tabindex,1.0193391021545968
+1423,Libraries - Lodash,table_caption_possible,0.006155990475637378
+1424,Libraries - Lodash,text_small,1.4824321969916952
+1425,Libraries - Lodash,title_redundant,12.203089610314187
+1426,Libraries - Lodash,underline,0.9031883384633254
+1427,Libraries - Lodash,text_justified,0.853998490040072
+1428,Libraries - Modernizr,accesskey,0.09458582581364697
+1429,Libraries - Modernizr,alt_duplicate,1.4461776335800467
+1430,Libraries - Modernizr,alt_long,0.5692943323532393
+1431,Libraries - Modernizr,alt_redundant,1.7284193450268681
+1432,Libraries - Modernizr,alt_suspicious,1.168346344925479
+1433,Libraries - Modernizr,applet,0.0
+1434,Libraries - Modernizr,audio_video,0.043663185643313396
+1435,Libraries - Modernizr,event_handler,1.1146912704045422
+1436,Libraries - Modernizr,fieldset_missing,0.0946618675859272
+1437,Libraries - Modernizr,flash,0.014022102808476123
+1438,Libraries - Modernizr,h1_missing,0.2907533204907229
+1439,Libraries - Modernizr,heading_missing,0.035810605292507354
+1440,Libraries - Modernizr,heading_possible,0.8842340058805638
+1441,Libraries - Modernizr,heading_skipped,1.357578829970597
+1442,Libraries - Modernizr,javascript_jumpmenu,0.05341681030112542
+1443,Libraries - Modernizr,label_orphaned,0.8958024941701308
+1444,Libraries - Modernizr,label_title,0.1861451890905404
+1445,Libraries - Modernizr,legend_missing,0.15592618878637332
+1446,Libraries - Modernizr,link_document,0.00036500050694514855
+1447,Libraries - Modernizr,link_excel,0.0027425732535739634
+1448,Libraries - Modernizr,link_internal_broken,0.7310757376051911
+1449,Libraries - Modernizr,link_pdf,0.476604481395113
+1450,Libraries - Modernizr,link_powerpoint,0.0004765284396228328
+1451,Libraries - Modernizr,link_redundant,15.79760214944743
+1452,Libraries - Modernizr,link_suspicious,1.6451738821859474
+1453,Libraries - Modernizr,link_word,0.008450775626077258
+1454,Libraries - Modernizr,noscript,2.5126330731014903
+1455,Libraries - Modernizr,plugin,0.023136976579134137
+1456,Libraries - Modernizr,tabindex,0.6745868397039441
+1457,Libraries - Modernizr,table_caption_possible,0.010017236135050187
+1458,Libraries - Modernizr,text_small,1.3404846395619994
+1459,Libraries - Modernizr,title_redundant,13.075448646456453
+1460,Libraries - Modernizr,underline,0.3700344722701004
+1461,Libraries - Modernizr,text_justified,1.6920257528135456
+1462,Libraries - Moment.js,accesskey,0.11724905789653992
+1463,Libraries - Moment.js,alt_duplicate,1.5335160443074112
+1464,Libraries - Moment.js,alt_long,0.5055669749914354
+1465,Libraries - Moment.js,alt_redundant,1.907245632065776
+1466,Libraries - Moment.js,alt_suspicious,0.8693045563549161
+1467,Libraries - Moment.js,applet,0.0
+1468,Libraries - Moment.js,audio_video,0.058353317346123104
+1469,Libraries - Moment.js,event_handler,1.8338757565376271
+1470,Libraries - Moment.js,fieldset_missing,0.1603003311636405
+1471,Libraries - Moment.js,flash,0.026892771497088044
+1472,Libraries - Moment.js,h1_missing,0.2949640287769784
+1473,Libraries - Moment.js,heading_missing,0.05127326710060523
+1474,Libraries - Moment.js,heading_possible,1.0848464085874159
+1475,Libraries - Moment.js,heading_skipped,1.4666837958204864
+1476,Libraries - Moment.js,javascript_jumpmenu,0.06634692246203037
+1477,Libraries - Moment.js,label_orphaned,1.492320429370789
+1478,Libraries - Moment.js,label_title,0.2417494575767957
+1479,Libraries - Moment.js,legend_missing,0.21442845723421264
+1480,Libraries - Moment.js,link_document,0.00022838871759735068
+1481,Libraries - Moment.js,link_excel,0.00368276807125728
+1482,Libraries - Moment.js,link_internal_broken,0.8234555212972479
+1483,Libraries - Moment.js,link_pdf,0.49089299988580565
+1484,Libraries - Moment.js,link_powerpoint,0.0003996802557953637
+1485,Libraries - Moment.js,link_redundant,17.513189448441246
+1486,Libraries - Moment.js,link_suspicious,1.4331392029233756
+1487,Libraries - Moment.js,link_word,0.01079136690647482
+1488,Libraries - Moment.js,noscript,2.360026264702524
+1489,Libraries - Moment.js,plugin,0.0452495146739751
+1490,Libraries - Moment.js,tabindex,0.8258250542423204
+1491,Libraries - Moment.js,table_caption_possible,0.04225191275550988
+1492,Libraries - Moment.js,text_small,2.474192074911499
+1493,Libraries - Moment.js,title_redundant,16.751570172433482
+1494,Libraries - Moment.js,underline,0.5454493548018727
+1495,Libraries - Moment.js,text_justified,1.7445757679570628
+1496,Libraries - prettyPhoto,accesskey,0.0664851303390038
+1497,Libraries - prettyPhoto,alt_duplicate,1.4739933912617795
+1498,Libraries - prettyPhoto,alt_long,0.45786929384408276
+1499,Libraries - prettyPhoto,alt_redundant,1.3848366173051034
+1500,Libraries - prettyPhoto,alt_suspicious,0.7435748378411455
+1501,Libraries - prettyPhoto,applet,0.0
+1502,Libraries - prettyPhoto,audio_video,0.05210500550728185
+1503,Libraries - prettyPhoto,event_handler,1.3398298861828417
+1504,Libraries - prettyPhoto,fieldset_missing,0.05828539958389426
+1505,Libraries - prettyPhoto,flash,0.04745441194468241
+1506,Libraries - prettyPhoto,h1_missing,0.363327622078081
+1507,Libraries - prettyPhoto,heading_missing,0.05342063394933301
+1508,Libraries - prettyPhoto,heading_possible,0.5503304369110268
+1509,Libraries - prettyPhoto,heading_skipped,1.4124648145881777
+1510,Libraries - prettyPhoto,javascript_jumpmenu,0.06605678619508017
+1511,Libraries - prettyPhoto,label_orphaned,0.5426508383306817
+1512,Libraries - prettyPhoto,label_title,0.17292865010402644
+1513,Libraries - prettyPhoto,legend_missing,0.1004467017500918
+1514,Libraries - prettyPhoto,link_document,0.00021417207196181617
+1515,Libraries - prettyPhoto,link_excel,0.004436421490637621
+1516,Libraries - prettyPhoto,link_internal_broken,0.7189144535552564
+1517,Libraries - prettyPhoto,link_pdf,0.5164912495410598
+1518,Libraries - prettyPhoto,link_powerpoint,0.0023252967812997186
+1519,Libraries - prettyPhoto,link_redundant,15.557214539224086
+1520,Libraries - prettyPhoto,link_suspicious,2.040417329580223
+1521,Libraries - prettyPhoto,link_word,0.0111675437522947
+1522,Libraries - prettyPhoto,noscript,1.4638355158487333
+1523,Libraries - prettyPhoto,plugin,0.014961449027046873
+1524,Libraries - prettyPhoto,tabindex,0.42623301921429446
+1525,Libraries - prettyPhoto,table_caption_possible,0.006486354179415004
+1526,Libraries - prettyPhoto,text_small,1.3712825847509484
+1527,Libraries - prettyPhoto,title_redundant,11.112164973687431
+1528,Libraries - prettyPhoto,underline,0.299412556602619
+1529,Libraries - prettyPhoto,text_justified,3.122322849100477
+1530,Libraries - script.aculo.us,accesskey,0.2546175637393768
+1531,Libraries - script.aculo.us,alt_duplicate,2.1942209631728047
+1532,Libraries - script.aculo.us,alt_long,0.3875354107648725
+1533,Libraries - script.aculo.us,alt_redundant,2.515240793201133
+1534,Libraries - script.aculo.us,alt_suspicious,0.7994334277620396
+1535,Libraries - script.aculo.us,applet,0.0
+1536,Libraries - script.aculo.us,audio_video,0.020169971671388103
+1537,Libraries - script.aculo.us,event_handler,6.126118980169972
+1538,Libraries - script.aculo.us,fieldset_missing,0.08237960339943343
+1539,Libraries - script.aculo.us,flash,0.1454957507082153
+1540,Libraries - script.aculo.us,h1_missing,0.2743342776203966
+1541,Libraries - script.aculo.us,heading_missing,0.13711048158640227
+1542,Libraries - script.aculo.us,heading_possible,0.5028895184135977
+1543,Libraries - script.aculo.us,heading_skipped,0.7010764872521247
+1544,Libraries - script.aculo.us,javascript_jumpmenu,0.2198300283286119
+1545,Libraries - script.aculo.us,label_orphaned,1.5068555240793202
+1546,Libraries - script.aculo.us,label_title,0.4004532577903683
+1547,Libraries - script.aculo.us,legend_missing,0.29473087818696886
+1548,Libraries - script.aculo.us,link_document,0.00045325779036827196
+1549,Libraries - script.aculo.us,link_excel,0.0037393767705382434
+1550,Libraries - script.aculo.us,link_internal_broken,0.8371671388101983
+1551,Libraries - script.aculo.us,link_pdf,0.541529745042493
+1552,Libraries - script.aculo.us,link_powerpoint,0.0018130311614730878
+1553,Libraries - script.aculo.us,link_redundant,18.748328611898017
+1554,Libraries - script.aculo.us,link_suspicious,1.1473087818696883
+1555,Libraries - script.aculo.us,link_word,0.011558073654390934
+1556,Libraries - script.aculo.us,noscript,1.5301983002832862
+1557,Libraries - script.aculo.us,plugin,0.028441926345609065
+1558,Libraries - script.aculo.us,tabindex,0.44396600566572236
+1559,Libraries - script.aculo.us,table_caption_possible,0.008045325779036827
+1560,Libraries - script.aculo.us,text_small,2.5359773371104817
+1561,Libraries - script.aculo.us,title_redundant,26.335750708215297
+1562,Libraries - script.aculo.us,underline,1.168271954674221
+1563,Libraries - script.aculo.us,text_justified,4.517393767705382
+1564,Libraries - Select2,accesskey,0.10642515995314049
+1565,Libraries - Select2,alt_duplicate,1.8802379021357123
+1566,Libraries - Select2,alt_long,0.43894746327836354
+1567,Libraries - Select2,alt_redundant,1.8297738127421825
+1568,Libraries - Select2,alt_suspicious,0.8315761016490943
+1569,Libraries - Select2,applet,0.0
+1570,Libraries - Select2,audio_video,0.045012165450121655
+1571,Libraries - Select2,event_handler,1.7947192935027485
+1572,Libraries - Select2,fieldset_missing,0.15923222492565559
+1573,Libraries - Select2,flash,0.036811750923673066
+1574,Libraries - Select2,h1_missing,0.34946381905019375
+1575,Libraries - Select2,heading_missing,0.05902496170136073
+1576,Libraries - Select2,heading_possible,1.007434441741011
+1577,Libraries - Select2,heading_skipped,1.4385419482743085
+1578,Libraries - Select2,javascript_jumpmenu,0.09227719203388303
+1579,Libraries - Select2,label_orphaned,1.2079841398576192
+1580,Libraries - Select2,label_title,0.24150671352617825
+1581,Libraries - Select2,legend_missing,0.15468144543570334
+1582,Libraries - Select2,link_document,0.0001802288906911778
+1583,Libraries - Select2,link_excel,0.0022528611336397227
+1584,Libraries - Select2,link_internal_broken,0.6759484545372624
+1585,Libraries - Select2,link_pdf,0.38541948274308374
+1586,Libraries - Select2,link_powerpoint,0.0009011444534558889
+1587,Libraries - Select2,link_redundant,17.29039380012616
+1588,Libraries - Select2,link_suspicious,1.4462917905740291
+1589,Libraries - Select2,link_word,0.016085428494187617
+1590,Libraries - Select2,noscript,2.293953320717311
+1591,Libraries - Select2,plugin,0.05965576281877985
+1592,Libraries - Select2,tabindex,0.8947463278363522
+1593,Libraries - Select2,table_caption_possible,0.026718933044967107
+1594,Libraries - Select2,text_small,1.5176173740650627
+1595,Libraries - Select2,title_redundant,15.161980715508696
+1596,Libraries - Select2,underline,0.5282058213931693
+1597,Libraries - Select2,text_justified,2.132603406326034
+1598,Libraries - Slick,accesskey,0.06228365022826469
+1599,Libraries - Slick,alt_duplicate,2.0012291175437715
+1600,Libraries - Slick,alt_long,0.7092509908192445
+1601,Libraries - Slick,alt_redundant,2.386294085185371
+1602,Libraries - Slick,alt_suspicious,0.8650980785631867
+1603,Libraries - Slick,applet,0.0
+1604,Libraries - Slick,audio_video,0.032207896453117946
+1605,Libraries - Slick,event_handler,1.4365624843224802
+1606,Libraries - Slick,fieldset_missing,0.11077108312848041
+1607,Libraries - Slick,flash,0.007976722018762856
+1608,Libraries - Slick,h1_missing,0.2993026639241459
+1609,Libraries - Slick,heading_missing,0.03411428284753926
+1610,Libraries - Slick,heading_possible,1.266593086840917
+1611,Libraries - Slick,heading_skipped,1.4309436612652386
+1612,Libraries - Slick,javascript_jumpmenu,0.06990919580594994
+1613,Libraries - Slick,label_orphaned,1.0101590327597452
+1614,Libraries - Slick,label_title,0.2059398986605127
+1615,Libraries - Slick,legend_missing,0.1434054081171926
+1616,Libraries - Slick,link_document,0.0008528570711884814
+1617,Libraries - Slick,link_excel,0.004941554206592084
+1618,Libraries - Slick,link_internal_broken,0.6590578437766518
+1619,Libraries - Slick,link_pdf,0.5554106255957457
+1620,Libraries - Slick,link_powerpoint,0.00022575628354989214
+1621,Libraries - Slick,link_redundant,18.82719610695831
+1622,Libraries - Slick,link_suspicious,1.7734410274419306
+1623,Libraries - Slick,link_word,0.009732604224150905
+1624,Libraries - Slick,noscript,1.9756183213766116
+1625,Libraries - Slick,plugin,0.0280941152862088
+1626,Libraries - Slick,tabindex,0.5283951236642753
+1627,Libraries - Slick,table_caption_possible,0.016756133045703104
+1628,Libraries - Slick,text_small,1.6045502433151055
+1629,Libraries - Slick,title_redundant,14.626900115386546
+1630,Libraries - Slick,underline,0.5204936537400291
+1631,Libraries - Slick,text_justified,2.6155370491145336
+1632,Libraries - SoundManager,accesskey,0.2241227296773056
+1633,Libraries - SoundManager,alt_duplicate,1.1080938106154117
+1634,Libraries - SoundManager,alt_long,0.4399576794216188
+1635,Libraries - SoundManager,alt_redundant,1.4129783107035796
+1636,Libraries - SoundManager,alt_suspicious,0.6596720155175454
+1637,Libraries - SoundManager,applet,0.0
+1638,Libraries - SoundManager,audio_video,1.9146535002645035
+1639,Libraries - SoundManager,event_handler,3.731440663022395
+1640,Libraries - SoundManager,fieldset_missing,0.07582436959971786
+1641,Libraries - SoundManager,flash,0.15905484041615237
+1642,Libraries - SoundManager,h1_missing,0.2613295715041439
+1643,Libraries - SoundManager,heading_missing,0.14741668136131195
+1644,Libraries - SoundManager,heading_possible,0.4937400811144419
+1645,Libraries - SoundManager,heading_skipped,0.9626168224299065
+1646,Libraries - SoundManager,javascript_jumpmenu,0.13489684359019574
+1647,Libraries - SoundManager,label_orphaned,0.5704461294304356
+1648,Libraries - SoundManager,label_title,0.12378769176512079
+1649,Libraries - SoundManager,legend_missing,0.10350908129077764
+1650,Libraries - SoundManager,link_document,0.00017633574325515782
+1651,Libraries - SoundManager,link_excel,0.005290072297654735
+1652,Libraries - SoundManager,link_internal_broken,0.7261505907247399
+1653,Libraries - SoundManager,link_pdf,0.6617880444366073
+1654,Libraries - SoundManager,link_powerpoint,0.001939693175806736
+1655,Libraries - SoundManager,link_redundant,14.651560571327808
+1656,Libraries - SoundManager,link_suspicious,1.6168224299065421
+1657,Libraries - SoundManager,link_word,0.019220596014812203
+1658,Libraries - SoundManager,noscript,1.3960500793510844
+1659,Libraries - SoundManager,plugin,0.04708164344912714
+1660,Libraries - SoundManager,tabindex,0.3775348263092929
+1661,Libraries - SoundManager,table_caption_possible,0.017633574325515784
+1662,Libraries - SoundManager,text_small,1.9298183741844472
+1663,Libraries - SoundManager,title_redundant,11.304002821371892
+1664,Libraries - SoundManager,underline,0.6677834597072827
+1665,Libraries - SoundManager,text_justified,3.1780991006877093
+1666,Libraries - Underscore.js,accesskey,0.06570273518592709
+1667,Libraries - Underscore.js,alt_duplicate,1.4296900608223768
+1668,Libraries - Underscore.js,alt_long,0.6034526714499034
+1669,Libraries - Underscore.js,alt_redundant,1.728448118876789
+1670,Libraries - Underscore.js,alt_suspicious,0.6964708453217758
+1671,Libraries - Underscore.js,applet,0.0
+1672,Libraries - Underscore.js,audio_video,0.08773718905925629
+1673,Libraries - Underscore.js,event_handler,1.0417015697272098
+1674,Libraries - Underscore.js,fieldset_missing,0.09385584732490804
+1675,Libraries - Underscore.js,flash,0.00742979932257712
+1676,Libraries - Underscore.js,h1_missing,0.3481443711986015
+1677,Libraries - Underscore.js,heading_missing,0.02101467749572058
+1678,Libraries - Underscore.js,heading_possible,0.8801034344611575
+1679,Libraries - Underscore.js,heading_skipped,1.525512619732673
+1680,Libraries - Underscore.js,javascript_jumpmenu,0.03988054048148013
+1681,Libraries - Underscore.js,label_orphaned,1.0995374585715847
+1682,Libraries - Underscore.js,label_title,0.2954437848271843
+1683,Libraries - Underscore.js,legend_missing,0.17146811377790727
+1684,Libraries - Underscore.js,link_document,0.00014568233965837492
+1685,Libraries - Underscore.js,link_excel,0.002513020359106967
+1686,Libraries - Underscore.js,link_internal_broken,0.9713005790873002
+1687,Libraries - Underscore.js,link_pdf,0.42175037331099535
+1688,Libraries - Underscore.js,link_powerpoint,0.0005827293586334997
+1689,Libraries - Underscore.js,link_redundant,19.907528134901845
+1690,Libraries - Underscore.js,link_suspicious,2.111592672178315
+1691,Libraries - Underscore.js,link_word,0.007174855228174964
+1692,Libraries - Underscore.js,noscript,2.65305750810358
+1693,Libraries - Underscore.js,plugin,0.027606803365262046
+1694,Libraries - Underscore.js,tabindex,0.71672069053429
+1695,Libraries - Underscore.js,table_caption_possible,0.007102014058345777
+1696,Libraries - Underscore.js,text_small,2.0037877408311178
+1697,Libraries - Underscore.js,title_redundant,15.182212186327712
+1698,Libraries - Underscore.js,underline,0.4536548056961795
+1699,Libraries - Underscore.js,text_justified,2.0568889536365953
+1700,Libraries - YUI,accesskey,0.849274930472785
+1701,Libraries - YUI,alt_duplicate,0.6780393325387366
+1702,Libraries - YUI,alt_long,0.6717818831942789
+1703,Libraries - YUI,alt_redundant,2.409564958283671
+1704,Libraries - YUI,alt_suspicious,4.287395709177592
+1705,Libraries - YUI,applet,0.0
+1706,Libraries - YUI,audio_video,0.04375248311481923
+1707,Libraries - YUI,event_handler,2.122020262216925
+1708,Libraries - YUI,fieldset_missing,0.12574493444576879
+1709,Libraries - YUI,flash,0.06029002781088597
+1710,Libraries - YUI,h1_missing,0.2463746523639253
+1711,Libraries - YUI,heading_missing,0.09907628128724673
+1712,Libraries - YUI,heading_possible,0.6618990862137465
+1713,Libraries - YUI,heading_skipped,1.7329658323400874
+1714,Libraries - YUI,javascript_jumpmenu,0.15951529598728645
+1715,Libraries - YUI,label_orphaned,0.5355582042113627
+1716,Libraries - YUI,label_title,0.22000397298371077
+1717,Libraries - YUI,legend_missing,0.13622367898291618
+1718,Libraries - YUI,link_document,0.0002979737783075089
+1719,Libraries - YUI,link_excel,0.002582439411998411
+1720,Libraries - YUI,link_internal_broken,0.5477751291219706
+1721,Libraries - YUI,link_pdf,0.3079558998808105
+1722,Libraries - YUI,link_powerpoint,0.0014402065951529598
+1723,Libraries - YUI,link_redundant,11.397348033373063
+1724,Libraries - YUI,link_suspicious,1.0455899880810489
+1725,Libraries - YUI,link_word,0.008988875645609852
+1726,Libraries - YUI,noscript,4.653257846642829
+1727,Libraries - YUI,plugin,0.015494636471990465
+1728,Libraries - YUI,tabindex,1.2838696861342869
+1729,Libraries - YUI,table_caption_possible,0.007896305125148988
+1730,Libraries - YUI,text_small,1.106823599523242
+1731,Libraries - YUI,title_redundant,11.310736988478347
+1732,Libraries - YUI,underline,0.49329558998808104
+1733,Libraries - YUI,text_justified,1.685538339292809
+1734,Libraries - Zepto,accesskey,0.09548521017125065
+1735,Libraries - Zepto,alt_duplicate,0.5936689154125584
+1736,Libraries - Zepto,alt_long,0.20939283860923716
+1737,Libraries - Zepto,alt_redundant,0.9592631032693306
+1738,Libraries - Zepto,alt_suspicious,1.0618837571354436
+1739,Libraries - Zepto,applet,0.0
+1740,Libraries - Zepto,audio_video,0.013233004670472236
+1741,Libraries - Zepto,event_handler,2.056434872859367
+1742,Libraries - Zepto,fieldset_missing,0.047483134405812144
+1743,Libraries - Zepto,flash,0.08951738453554749
+1744,Libraries - Zepto,h1_missing,0.3105864037363778
+1745,Libraries - Zepto,heading_missing,0.12597301504929942
+1746,Libraries - Zepto,heading_possible,1.050077841203944
+1747,Libraries - Zepto,heading_skipped,0.8657239231966788
+1748,Libraries - Zepto,javascript_jumpmenu,0.06940840685002594
+1749,Libraries - Zepto,label_orphaned,0.3920601971977167
+1750,Libraries - Zepto,label_title,0.04566683964711987
+1751,Libraries - Zepto,legend_missing,0.17916450441100157
+1752,Libraries - Zepto,link_document,0.00012973533990659055
+1753,Libraries - Zepto,link_excel,0.0027244421380384016
+1754,Libraries - Zepto,link_internal_broken,0.29320186818889465
+1755,Libraries - Zepto,link_pdf,0.3421120913336793
+1756,Libraries - Zepto,link_powerpoint,0.0012973533990659055
+1757,Libraries - Zepto,link_redundant,8.382459782044629
+1758,Libraries - Zepto,link_suspicious,0.8867410482615464
+1759,Libraries - Zepto,link_word,0.014270887389724962
+1760,Libraries - Zepto,noscript,0.7322262584327971
+1761,Libraries - Zepto,plugin,0.20394395433316034
+1762,Libraries - Zepto,tabindex,0.206279190451479
+1763,Libraries - Zepto,table_caption_possible,0.005708354955889984
+1764,Libraries - Zepto,text_small,1.141022314478464
+1765,Libraries - Zepto,title_redundant,6.072262584327971
+1766,Libraries - Zepto,underline,1.512324857291126
+1767,Libraries - Zepto,text_justified,2.0295796574987026
+1768,Google Maps,accesskey,0.07607306195494702
+1769,Google Maps,alt_duplicate,1.7050819532426214
+1770,Google Maps,alt_long,0.47010197994489106
+1771,Google Maps,alt_redundant,1.5659460841405561
+1772,Google Maps,alt_suspicious,1.1150470130386614
+1773,Google Maps,applet,0.0
+1774,Google Maps,audio_video,0.03922961111268926
+1775,Google Maps,event_handler,1.546771581967446
+1776,Google Maps,fieldset_missing,0.14390818964292815
+1777,Google Maps,flash,0.015538448427690822
+1778,Google Maps,h1_missing,0.30966110842825895
+1779,Google Maps,heading_missing,0.02852029656563361
+1780,Google Maps,heading_possible,1.4002499786949976
+1781,Google Maps,heading_skipped,1.6561656676987757
+1782,Google Maps,javascript_jumpmenu,0.0729767349373633
+1783,Google Maps,label_orphaned,1.308439621623157
+1784,Google Maps,label_title,0.22819077919495498
+1785,Google Maps,legend_missing,0.13297162173678378
+1786,Google Maps,link_document,5.6813339772178505e-05
+1787,Google Maps,link_excel,0.0023009402607732294
+1788,Google Maps,link_internal_broken,0.8285089338976792
+1789,Google Maps,link_pdf,0.5417151947277221
+1790,Google Maps,link_powerpoint,0.0009090134363548561
+1791,Google Maps,link_redundant,13.99985796665057
+1792,Google Maps,link_suspicious,1.552197255915689
+1793,Google Maps,link_word,0.008323154276624152
+1794,Google Maps,noscript,2.020907309036162
+1795,Google Maps,plugin,0.022157202511149617
+1796,Google Maps,tabindex,0.6544612675056103
+1797,Google Maps,table_caption_possible,0.016617901883362214
+1798,Google Maps,text_small,1.1921711217793938
+1799,Google Maps,title_redundant,12.014998721699856
+1800,Google Maps,underline,0.4523762179359714
+1801,Google Maps,text_justified,2.2064596767320968
+1802,Java,accesskey,0.2433901655547319
+1803,Java,alt_duplicate,1.278169014084507
+1804,Java,alt_long,0.3162218927600692
+1805,Java,alt_redundant,2.208178897949098
+1806,Java,alt_suspicious,0.9407585866073634
+1807,Java,applet,0.0
+1808,Java,audio_video,0.020200148257968866
+1809,Java,event_handler,3.4734988880652335
+1810,Java,fieldset_missing,0.12385717815665925
+1811,Java,flash,0.07190511489992588
+1812,Java,h1_missing,0.291882876204596
+1813,Java,heading_missing,0.13182604398319744
+1814,Java,heading_possible,0.9028292562391895
+1815,Java,heading_skipped,0.8489004200642452
+1816,Java,javascript_jumpmenu,0.16901408450704225
+1817,Java,label_orphaned,1.315542377069434
+1818,Java,label_title,0.2897825549789968
+1819,Java,legend_missing,0.2323943661971831
+1820,Java,link_document,0.0005559673832468495
+1821,Java,link_excel,0.004941932295527552
+1822,Java,link_internal_broken,1.179948109710897
+1823,Java,link_pdf,0.5542377069434149
+1824,Java,link_powerpoint,0.0009266123054114158
+1825,Java,link_redundant,16.855386706202125
+1826,Java,link_suspicious,0.9099950580677044
+1827,Java,link_word,0.009574993822584631
+1828,Java,noscript,1.7711267605633803
+1829,Java,plugin,0.03694094390906844
+1830,Java,tabindex,1.4027057079318013
+1831,Java,table_caption_possible,0.016802569804793676
+1832,Java,text_small,1.5738818878181369
+1833,Java,title_redundant,22.769088213491475
+1834,Java,underline,0.49845564615764765
+1835,Java,text_justified,1.624969112923153
+1836,PHP,accesskey,0.0987751938961309
+1837,PHP,alt_duplicate,1.2146340387729258
+1838,PHP,alt_long,0.8012052747308136
+1839,PHP,alt_redundant,2.081675791808164
+1840,PHP,alt_suspicious,0.5597029971206976
+1841,PHP,applet,4.725332190853017e-05
+1842,PHP,audio_video,0.056867797806185776
+1843,PHP,event_handler,1.9702745102980739
+1844,PHP,fieldset_missing,0.08465905153132265
+1845,PHP,flash,0.056814244041356106
+1846,PHP,h1_missing,0.2858164428959356
+1847,PHP,heading_missing,0.10486142175794959
+1848,PHP,heading_possible,0.5998683207429483
+1849,PHP,heading_skipped,1.0161007818849666
+1850,PHP,javascript_jumpmenu,0.07862637743433364
+1851,PHP,label_orphaned,0.6270515817261954
+1852,PHP,label_title,0.15151935181043227
+1853,PHP,legend_missing,0.1001833428890051
+1854,PHP,link_document,0.00040322834695279077
+1855,PHP,link_excel,0.004593022889509133
+1856,PHP,link_internal_broken,0.5834997700338334
+1857,PHP,link_pdf,0.4587226482021686
+1858,PHP,link_powerpoint,0.001203384597937235
+1859,PHP,link_redundant,15.118608988211871
+1860,PHP,link_suspicious,1.3957591718697824
+1861,PHP,link_word,0.01522817054038899
+1862,PHP,noscript,1.2664772333495045
+1863,PHP,plugin,0.020104713361349304
+1864,PHP,tabindex,0.4130916903458313
+1865,PHP,table_caption_possible,0.010679250751327819
+1866,PHP,text_small,1.2699078245200637
+1867,PHP,title_redundant,15.090055380893277
+1868,PHP,underline,0.555821924281277
+1869,PHP,text_justified,3.135847000044103
+1870,WebFrameworks - animate.css,accesskey,0.03788188164828968
+1871,WebFrameworks - animate.css,alt_duplicate,1.8641658401882426
+1872,WebFrameworks - animate.css,alt_long,0.5345079050230441
+1873,WebFrameworks - animate.css,alt_redundant,1.4012212434124809
+1874,WebFrameworks - animate.css,alt_suspicious,0.8321373704373529
+1875,WebFrameworks - animate.css,applet,1.944655115415281e-05
+1876,WebFrameworks - animate.css,audio_video,0.039476498842930204
+1877,WebFrameworks - animate.css,event_handler,1.034362055889388
+1878,WebFrameworks - animate.css,fieldset_missing,0.06024541547556541
+1879,WebFrameworks - animate.css,flash,0.007350796336269763
+1880,WebFrameworks - animate.css,h1_missing,0.3390311728215001
+1881,WebFrameworks - animate.css,heading_missing,0.037162359255586024
+1882,WebFrameworks - animate.css,heading_possible,0.888901853256325
+1883,WebFrameworks - animate.css,heading_skipped,1.7954222818583123
+1884,WebFrameworks - animate.css,javascript_jumpmenu,0.05277793983237073
+1885,WebFrameworks - animate.css,label_orphaned,0.8715555296268207
+1886,WebFrameworks - animate.css,label_title,0.15736149193940455
+1887,WebFrameworks - animate.css,legend_missing,0.07179666686113217
+1888,WebFrameworks - animate.css,link_document,0.0006222896369328899
+1889,WebFrameworks - animate.css,link_excel,0.0034225930031308947
+1890,WebFrameworks - animate.css,link_internal_broken,0.6818933162203683
+1891,WebFrameworks - animate.css,link_pdf,0.5215370554032243
+1892,WebFrameworks - animate.css,link_powerpoint,0.0011084534157867103
+1893,WebFrameworks - animate.css,link_redundant,15.234544853470236
+1894,WebFrameworks - animate.css,link_suspicious,1.7545456313322831
+1895,WebFrameworks - animate.css,link_word,0.014157089240223247
+1896,WebFrameworks - animate.css,noscript,1.5228205277793982
+1897,WebFrameworks - animate.css,plugin,0.017540789141045836
+1898,WebFrameworks - animate.css,tabindex,0.4085525931975964
+1899,WebFrameworks - animate.css,table_caption_possible,0.007778620461661124
+1900,WebFrameworks - animate.css,text_small,1.1729965190673435
+1901,WebFrameworks - animate.css,title_redundant,11.302685568714388
+1902,WebFrameworks - animate.css,underline,0.32796608521478715
+1903,WebFrameworks - animate.css,text_justified,2.7830737218754256
+1904,WebFrameworks - Bootstrap,accesskey,0.07704165079649587
+1905,WebFrameworks - Bootstrap,alt_duplicate,1.5778863172988595
+1906,WebFrameworks - Bootstrap,alt_long,0.5582551027266821
+1907,WebFrameworks - Bootstrap,alt_redundant,1.7478009544507427
+1908,WebFrameworks - Bootstrap,alt_suspicious,0.8004391369614411
+1909,WebFrameworks - Bootstrap,applet,8.961978804920126e-06
+1910,WebFrameworks - Bootstrap,audio_video,0.04479197006699079
+1911,WebFrameworks - Bootstrap,event_handler,1.2952344677704837
+1912,WebFrameworks - Bootstrap,fieldset_missing,0.09134944995855085
+1913,WebFrameworks - Bootstrap,flash,0.012663276051352139
+1914,WebFrameworks - Bootstrap,h1_missing,0.32387695203100847
+1915,WebFrameworks - Bootstrap,heading_missing,0.044783008088185874
+1916,WebFrameworks - Bootstrap,heading_possible,0.8380660049738983
+1917,WebFrameworks - Bootstrap,heading_skipped,1.4381063338785203
+1918,WebFrameworks - Bootstrap,javascript_jumpmenu,0.06675778011785002
+1919,WebFrameworks - Bootstrap,label_orphaned,0.9124997199381624
+1920,WebFrameworks - Bootstrap,label_title,0.20288127618578183
+1921,WebFrameworks - Bootstrap,legend_missing,0.09333452826384066
+1922,WebFrameworks - Bootstrap,link_document,0.00027334035355006385
+1923,WebFrameworks - Bootstrap,link_excel,0.004373445656801022
+1924,WebFrameworks - Bootstrap,link_internal_broken,0.5863105773754845
+1925,WebFrameworks - Bootstrap,link_pdf,0.552761409719266
+1926,WebFrameworks - Bootstrap,link_powerpoint,0.0009006788698944727
+1927,WebFrameworks - Bootstrap,link_redundant,15.192064167768244
+1928,WebFrameworks - Bootstrap,link_suspicious,1.528868774225349
+1929,WebFrameworks - Bootstrap,link_word,0.010646830820245111
+1930,WebFrameworks - Bootstrap,noscript,1.5669571841462595
+1931,WebFrameworks - Bootstrap,plugin,0.023251854009365268
+1932,WebFrameworks - Bootstrap,tabindex,0.5258844352833105
+1933,WebFrameworks - Bootstrap,table_caption_possible,0.013586359868258912
+1934,WebFrameworks - Bootstrap,text_small,1.1740505903703538
+1935,WebFrameworks - Bootstrap,title_redundant,13.537552931687317
+1936,WebFrameworks - Bootstrap,underline,0.44965384356865995
+1937,WebFrameworks - Bootstrap,text_justified,2.7953576949790513
+1938,WebFrameworks - CodeIgniter,accesskey,0.08386447500838645
+1939,WebFrameworks - CodeIgniter,alt_duplicate,2.1385441127138543
+1940,WebFrameworks - CodeIgniter,alt_long,0.20211338477021135
+1941,WebFrameworks - CodeIgniter,alt_redundant,1.8366320026836631
+1942,WebFrameworks - CodeIgniter,alt_suspicious,0.8482053002348205
+1943,WebFrameworks - CodeIgniter,applet,0.0
+1944,WebFrameworks - CodeIgniter,audio_video,0.032539416303253944
+1945,WebFrameworks - CodeIgniter,event_handler,1.8889634350888964
+1946,WebFrameworks - CodeIgniter,fieldset_missing,0.09376048305937605
+1947,WebFrameworks - CodeIgniter,flash,0.04646091915464609
+1948,WebFrameworks - CodeIgniter,h1_missing,0.28916470982891646
+1949,WebFrameworks - CodeIgniter,heading_missing,0.06759476685675948
+1950,WebFrameworks - CodeIgniter,heading_possible,0.8594431398859443
+1951,WebFrameworks - CodeIgniter,heading_skipped,1.2920161019792016
+1952,WebFrameworks - CodeIgniter,javascript_jumpmenu,0.05501509560550151
+1953,WebFrameworks - CodeIgniter,label_orphaned,0.9703119758470312
+1954,WebFrameworks - CodeIgniter,label_title,0.17058034216705803
+1955,WebFrameworks - CodeIgniter,legend_missing,0.18399865816839986
+1956,WebFrameworks - CodeIgniter,link_document,0.0
+1957,WebFrameworks - CodeIgniter,link_excel,0.0023482053002348204
+1958,WebFrameworks - CodeIgniter,link_internal_broken,0.5219724924521972
+1959,WebFrameworks - CodeIgniter,link_pdf,0.7396846695739685
+1960,WebFrameworks - CodeIgniter,link_powerpoint,0.0015095605501509561
+1961,WebFrameworks - CodeIgniter,link_redundant,14.570278430057028
+1962,WebFrameworks - CodeIgniter,link_suspicious,1.9654478362965448
+1963,WebFrameworks - CodeIgniter,link_word,0.01861791345186179
+1964,WebFrameworks - CodeIgniter,noscript,0.9208319355920832
+1965,WebFrameworks - CodeIgniter,plugin,0.09543777255954378
+1966,WebFrameworks - CodeIgniter,tabindex,0.5333780610533378
+1967,WebFrameworks - CodeIgniter,table_caption_possible,0.010063737001006373
+1968,WebFrameworks - CodeIgniter,text_small,1.9146259644414625
+1969,WebFrameworks - CodeIgniter,title_redundant,9.34669573968467
+1970,WebFrameworks - CodeIgniter,underline,0.3913116403891312
+1971,WebFrameworks - CodeIgniter,text_justified,2.6361959074136196
+1972,WebFrameworks - Laravel,accesskey,0.05568814638027048
+1973,WebFrameworks - Laravel,alt_duplicate,2.088623707239459
+1974,WebFrameworks - Laravel,alt_long,0.27573587907716784
+1975,WebFrameworks - Laravel,alt_redundant,2.135719968178202
+1976,WebFrameworks - Laravel,alt_suspicious,0.8964200477326969
+1977,WebFrameworks - Laravel,applet,0.0
+1978,WebFrameworks - Laravel,audio_video,0.1662688941925219
+1979,WebFrameworks - Laravel,event_handler,3.0122513922036593
+1980,WebFrameworks - Laravel,fieldset_missing,0.1228321400159109
+1981,WebFrameworks - Laravel,flash,0.10198886237072395
+1982,WebFrameworks - Laravel,h1_missing,0.27780429594272077
+1983,WebFrameworks - Laravel,heading_missing,0.15258552108194112
+1984,WebFrameworks - Laravel,heading_possible,0.8098647573587908
+1985,WebFrameworks - Laravel,heading_skipped,1.166109785202864
+1986,WebFrameworks - Laravel,javascript_jumpmenu,0.09832935560859188
+1987,WebFrameworks - Laravel,label_orphaned,1.4439140811455846
+1988,WebFrameworks - Laravel,label_title,0.11646778042959427
+1989,WebFrameworks - Laravel,legend_missing,0.08544152744630072
+1990,WebFrameworks - Laravel,link_document,0.0006364359586316627
+1991,WebFrameworks - Laravel,link_excel,0.003977724741447892
+1992,WebFrameworks - Laravel,link_internal_broken,0.6394590294351631
+1993,WebFrameworks - Laravel,link_pdf,0.4903739061256961
+1994,WebFrameworks - Laravel,link_powerpoint,0.0012728719172633255
+1995,WebFrameworks - Laravel,link_redundant,15.849005568814638
+1996,WebFrameworks - Laravel,link_suspicious,0.952744630071599
+1997,WebFrameworks - Laravel,link_word,0.02163882259347653
+1998,WebFrameworks - Laravel,noscript,1.1571996817820207
+1999,WebFrameworks - Laravel,plugin,0.05266507557677009
+2000,WebFrameworks - Laravel,tabindex,0.2862370723945903
+2001,WebFrameworks - Laravel,table_caption_possible,0.016070007955449484
+2002,WebFrameworks - Laravel,text_small,1.8782816229116945
+2003,WebFrameworks - Laravel,title_redundant,10.04200477326969
+2004,WebFrameworks - Laravel,underline,0.5107398568019093
+2005,WebFrameworks - Laravel,text_justified,3.471599045346062
+2006,WebFrameworks - Microsoft ASP.NET,accesskey,0.15663431867984437
+2007,WebFrameworks - Microsoft ASP.NET,alt_duplicate,1.0950986091856356
+2008,WebFrameworks - Microsoft ASP.NET,alt_long,0.241234739054604
+2009,WebFrameworks - Microsoft ASP.NET,alt_redundant,1.8358414203300388
+2010,WebFrameworks - Microsoft ASP.NET,alt_suspicious,0.5323554402754797
+2011,WebFrameworks - Microsoft ASP.NET,applet,0.0015205044497115514
+2012,WebFrameworks - Microsoft ASP.NET,audio_video,0.019207548857385626
+2013,WebFrameworks - Microsoft ASP.NET,event_handler,3.157349850185591
+2014,WebFrameworks - Microsoft ASP.NET,fieldset_missing,0.08117928536290864
+2015,WebFrameworks - Microsoft ASP.NET,flash,0.12553105853942131
+2016,WebFrameworks - Microsoft ASP.NET,h1_missing,0.24411922543714504
+2017,WebFrameworks - Microsoft ASP.NET,heading_missing,0.2668149903850454
+2018,WebFrameworks - Microsoft ASP.NET,heading_possible,0.5501207459415948
+2019,WebFrameworks - Microsoft ASP.NET,heading_skipped,0.7093153257904387
+2020,WebFrameworks - Microsoft ASP.NET,javascript_jumpmenu,0.111063905907607
+2021,WebFrameworks - Microsoft ASP.NET,label_orphaned,0.8830105988104289
+2022,WebFrameworks - Microsoft ASP.NET,label_title,0.16942444434506507
+2023,WebFrameworks - Microsoft ASP.NET,legend_missing,0.08712714100442735
+2024,WebFrameworks - Microsoft ASP.NET,link_document,0.0005925495281964134
+2025,WebFrameworks - Microsoft ASP.NET,link_excel,0.015764053485980055
+2026,WebFrameworks - Microsoft ASP.NET,link_internal_broken,0.490966414739949
+2027,WebFrameworks - Microsoft ASP.NET,link_pdf,0.6937636957202272
+2028,WebFrameworks - Microsoft ASP.NET,link_powerpoint,0.001900630562139439
+2029,WebFrameworks - Microsoft ASP.NET,link_redundant,13.070390411877822
+2030,WebFrameworks - Microsoft ASP.NET,link_suspicious,1.068277357899915
+2031,WebFrameworks - Microsoft ASP.NET,link_word,0.020046062340682437
+2032,WebFrameworks - Microsoft ASP.NET,noscript,1.0546151782120656
+2033,WebFrameworks - Microsoft ASP.NET,plugin,0.021197620857743394
+2034,WebFrameworks - Microsoft ASP.NET,tabindex,0.505534188989759
+2035,WebFrameworks - Microsoft ASP.NET,table_caption_possible,0.01365099950807209
+2036,WebFrameworks - Microsoft ASP.NET,text_small,0.9890546039980322
+2037,WebFrameworks - Microsoft ASP.NET,title_redundant,17.35531729350208
+2038,WebFrameworks - Microsoft ASP.NET,underline,0.4321251285720674
+2039,WebFrameworks - Microsoft ASP.NET,text_justified,1.4989378829211575
+2040,WebFrameworks - ZURB Foundation,accesskey,0.17502953918865696
+2041,WebFrameworks - ZURB Foundation,alt_duplicate,1.1099645529736117
+2042,WebFrameworks - ZURB Foundation,alt_long,0.6613627412367074
+2043,WebFrameworks - ZURB Foundation,alt_redundant,1.839621898385191
+2044,WebFrameworks - ZURB Foundation,alt_suspicious,0.6611658133123277
+2045,WebFrameworks - ZURB Foundation,applet,0.0
+2046,WebFrameworks - ZURB Foundation,audio_video,0.06002363135092556
+2047,WebFrameworks - ZURB Foundation,event_handler,1.0473020874359984
+2048,WebFrameworks - ZURB Foundation,fieldset_missing,0.10090586845214651
+2049,WebFrameworks - ZURB Foundation,flash,0.007483261126427727
+2050,WebFrameworks - ZURB Foundation,h1_missing,0.2776683733753446
+2051,WebFrameworks - ZURB Foundation,heading_missing,0.026821583300512014
+2052,WebFrameworks - ZURB Foundation,heading_possible,0.8534462386766444
+2053,WebFrameworks - ZURB Foundation,heading_skipped,1.6589208349743993
+2054,WebFrameworks - ZURB Foundation,javascript_jumpmenu,0.05017723513194171
+2055,WebFrameworks - ZURB Foundation,label_orphaned,1.0980701063410792
+2056,WebFrameworks - ZURB Foundation,label_title,0.15876329263489564
+2057,WebFrameworks - ZURB Foundation,legend_missing,0.21500590783773138
+2058,WebFrameworks - ZURB Foundation,link_document,0.0005120126033871603
+2059,WebFrameworks - ZURB Foundation,link_excel,0.0018511224891689642
+2060,WebFrameworks - ZURB Foundation,link_internal_broken,0.5813312327688066
+2061,WebFrameworks - ZURB Foundation,link_pdf,0.5169358014966522
+2062,WebFrameworks - ZURB Foundation,link_powerpoint,0.0009058684521465143
+2063,WebFrameworks - ZURB Foundation,link_redundant,16.69428909019299
+2064,WebFrameworks - ZURB Foundation,link_suspicious,1.5948404883812524
+2065,WebFrameworks - ZURB Foundation,link_word,0.011224891689641591
+2066,WebFrameworks - ZURB Foundation,noscript,2.0263489562820007
+2067,WebFrameworks - ZURB Foundation,plugin,0.026703426545884205
+2068,WebFrameworks - ZURB Foundation,tabindex,0.696297755021662
+2069,WebFrameworks - ZURB Foundation,table_caption_possible,0.03532886963371406
+2070,WebFrameworks - ZURB Foundation,text_small,1.3321780228436393
+2071,WebFrameworks - ZURB Foundation,title_redundant,14.498897203623473
+2072,WebFrameworks - ZURB Foundation,underline,0.42630957069712483
+2073,WebFrameworks - ZURB Foundation,text_justified,0.9577392674281213

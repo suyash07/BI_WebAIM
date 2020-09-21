@@ -1,0 +1,794 @@
+,Technologies,Feature Type,Value
+0,Ads - AdSense,alt,3.5466728354684833
+1,Ads - AdSense,alt_area,0.021154735884877394
+2,Ads - AdSense,alt_input,0.05119573714522742
+3,Ads - AdSense,alt_link,17.957794227915954
+4,Ads - AdSense,alt_map,0.03635870518977043
+5,Ads - AdSense,alt_null,5.051921634945199
+6,Ads - AdSense,alt_spacer,0.619765160096361
+7,Ads - AdSense,fieldset,0.07726424275298735
+8,Ads - AdSense,label,1.4312152007785452
+9,Ads - AdSense,lang,0.6407364273065204
+10,Ads - AdSense,link_skip,0.09297873358753052
+11,Ads - AdSense,link_skip_target,0.09511654249294045
+12,Ads - AdSense,longdesc,0.01328951356870503
+13,Ads - DoubleClick,alt,4.251799637827564
+14,Ads - DoubleClick,alt_area,0.02373576377976324
+15,Ads - DoubleClick,alt_input,0.0493572187551445
+16,Ads - DoubleClick,alt_link,21.427647824720513
+17,Ads - DoubleClick,alt_map,0.040587258115206755
+18,Ads - DoubleClick,alt_null,5.93135186099762
+19,Ads - DoubleClick,alt_spacer,0.6970472470405125
+20,Ads - DoubleClick,fieldset,0.1384636106496655
+21,Ads - DoubleClick,label,2.005238031098939
+22,Ads - DoubleClick,lang,0.4511890330594591
+23,Ads - DoubleClick,link_skip,0.0930274323171553
+24,Ads - DoubleClick,link_skip_target,0.09440428620601925
+25,Ads - DoubleClick,longdesc,0.013514120235262425
+26,Ads - Criteo,alt,5.555477920626048
+27,Ads - Criteo,alt_area,0.05752748276504565
+28,Ads - Criteo,alt_input,0.04141047139929197
+29,Ads - Criteo,alt_link,24.951695546860442
+30,Ads - Criteo,alt_map,0.10108067821874418
+31,Ads - Criteo,alt_null,6.099217439910564
+32,Ads - Criteo,alt_spacer,0.6915408980808645
+33,Ads - Criteo,fieldset,0.1597726849264021
+34,Ads - Criteo,label,4.009782001117943
+35,Ads - Criteo,lang,0.3262530277622508
+36,Ads - Criteo,link_skip,0.06530650270169555
+37,Ads - Criteo,link_skip_target,0.07094279858393888
+38,Ads - Criteo,longdesc,0.017793925843115333
+39,Ads - Prebid,alt,3.869874745744567
+40,Ads - Prebid,alt_area,0.03393640937801092
+41,Ads - Prebid,alt_input,0.029225992934375333
+42,Ads - Prebid,alt_link,22.017985226421153
+43,Ads - Prebid,alt_map,0.046622417300074936
+44,Ads - Prebid,alt_null,6.286425436248796
+45,Ads - Prebid,alt_spacer,0.4998394176212397
+46,Ads - Prebid,fieldset,0.17862113264104484
+47,Ads - Prebid,label,2.186007922064019
+48,Ads - Prebid,lang,0.24890268707847127
+49,Ads - Prebid,link_skip,0.05325982228883417
+50,Ads - Prebid,link_skip_target,0.05893373300503158
+51,Ads - Prebid,longdesc,0.005352745958676801
+52,Ads - AppNexus,alt,5.0406991106719365
+53,Ads - AppNexus,alt_area,0.018033596837944664
+54,Ads - AppNexus,alt_input,0.030323616600790512
+55,Ads - AppNexus,alt_link,20.35851037549407
+56,Ads - AppNexus,alt_map,0.03847579051383399
+57,Ads - AppNexus,alt_null,6.579236660079052
+58,Ads - AppNexus,alt_spacer,1.2223320158102766
+59,Ads - AppNexus,fieldset,0.20886857707509882
+60,Ads - AppNexus,label,2.7742712450592886
+61,Ads - AppNexus,lang,0.4060647233201581
+62,Ads - AppNexus,link_skip,0.09875247035573123
+63,Ads - AppNexus,link_skip_target,0.10116106719367589
+64,Ads - AppNexus,longdesc,0.003149703557312253
+65,Ads - AdRoll,alt,5.588235294117647
+66,Ads - AdRoll,alt_area,0.0507688552599463
+67,Ads - AdRoll,alt_input,0.06590187942396876
+68,Ads - AdRoll,alt_link,13.71564559433732
+69,Ads - AdRoll,alt_map,0.09307623464323489
+70,Ads - AdRoll,alt_null,5.39589943861362
+71,Ads - AdRoll,alt_spacer,8.87478642909446
+72,Ads - AdRoll,fieldset,0.12993247091367668
+73,Ads - AdRoll,label,2.193230819298674
+74,Ads - AdRoll,lang,0.27931006427467253
+75,Ads - AdRoll,link_skip,0.10381580017899276
+76,Ads - AdRoll,link_skip_target,0.10511756569847856
+77,Ads - AdRoll,longdesc,0.008786917256529168
+78,Ads - VigLink,alt,3.0963855421686746
+79,Ads - VigLink,alt_area,0.06496574533427829
+80,Ads - VigLink,alt_input,0.07394283014410584
+81,Ads - VigLink,alt_link,13.660642570281125
+82,Ads - VigLink,alt_map,0.07630522088353414
+83,Ads - VigLink,alt_null,6.0607134420033075
+84,Ads - VigLink,alt_spacer,1.0588235294117647
+85,Ads - VigLink,fieldset,0.019253484526340656
+86,Ads - VigLink,label,1.254665721710371
+87,Ads - VigLink,lang,0.7939995275218521
+88,Ads - VigLink,link_skip,0.12048192771084337
+89,Ads - VigLink,link_skip_target,0.12662414363335694
+90,Ads - VigLink,longdesc,0.01559177888022679
+91,Ads - Yandex.Direct,alt,4.20892274211099
+92,Ads - Yandex.Direct,alt_area,0.09231048240841494
+93,Ads - Yandex.Direct,alt_input,0.07925281102647806
+94,Ads - Yandex.Direct,alt_link,15.84076895175916
+95,Ads - Yandex.Direct,alt_map,0.10845121508886471
+96,Ads - Yandex.Direct,alt_null,7.555857816467174
+97,Ads - Yandex.Direct,alt_spacer,1.2930721799056946
+98,Ads - Yandex.Direct,fieldset,0.03373231773667029
+99,Ads - Yandex.Direct,label,1.9985491476242292
+100,Ads - Yandex.Direct,lang,0.7874501269495828
+101,Ads - Yandex.Direct,link_skip,0.014871236851650345
+102,Ads - Yandex.Direct,link_skip_target,0.016684802321363802
+103,Ads - Yandex.Direct,longdesc,0.036996735582154515
+104,ReCAPTCHA,alt,4.879254977520874
+105,ReCAPTCHA,alt_area,0.016757167046184386
+106,ReCAPTCHA,alt_input,0.031120453085771004
+107,ReCAPTCHA,alt_link,14.450789202234288
+108,ReCAPTCHA,alt_map,0.05307409353652128
+109,ReCAPTCHA,alt_null,6.040384577956832
+110,ReCAPTCHA,alt_spacer,0.5628734357058056
+111,ReCAPTCHA,fieldset,0.12467643681516515
+112,ReCAPTCHA,label,3.271072964714583
+113,ReCAPTCHA,lang,0.4013545863256846
+114,ReCAPTCHA,link_skip,0.1070239971974076
+115,ReCAPTCHA,link_skip_target,0.10877561744613767
+116,ReCAPTCHA,longdesc,0.018820186450244254
+117,CMS - Blogger,alt,1.545440775522569
+118,CMS - Blogger,alt_area,0.015247904675350903
+119,CMS - Blogger,alt_input,0.048874078562051906
+120,CMS - Blogger,alt_link,8.199434514793497
+121,CMS - Blogger,alt_map,0.016055740684641016
+122,CMS - Blogger,alt_null,1.7852670907805714
+123,CMS - Blogger,alt_spacer,1.0411996364737959
+124,CMS - Blogger,fieldset,0.006210239321417752
+125,CMS - Blogger,label,0.17686559628395435
+126,CMS - Blogger,lang,2.768151065333737
+127,CMS - Blogger,link_skip,0.1701504594567303
+128,CMS - Blogger,link_skip_target,0.17085731596485915
+129,CMS - Blogger,longdesc,0.002625467030192871
+130,CMS - Elementor,alt,4.522312250574434
+131,CMS - Elementor,alt_area,0.052001451203289396
+132,CMS - Elementor,alt_input,0.038940621598742294
+133,CMS - Elementor,alt_link,7.888378280324102
+134,CMS - Elementor,alt_map,0.07002055871326641
+135,CMS - Elementor,alt_null,5.843632845567783
+136,CMS - Elementor,alt_spacer,0.5724996976659814
+137,CMS - Elementor,fieldset,0.025516991171846658
+138,CMS - Elementor,label,1.0880396662232434
+139,CMS - Elementor,lang,0.325190470431733
+140,CMS - Elementor,link_skip,0.201233522795985
+141,CMS - Elementor,link_skip_target,0.20195912444068206
+142,CMS - Elementor,longdesc,0.006893215624622083
+143,CMS - 1C-Bitrix,alt,4.8642572566875355
+144,CMS - 1C-Bitrix,alt_area,0.009533295389869094
+145,CMS - 1C-Bitrix,alt_input,0.014797951052931132
+146,CMS - 1C-Bitrix,alt_link,20.94408081957883
+147,CMS - 1C-Bitrix,alt_map,0.031018782014797953
+148,CMS - 1C-Bitrix,alt_null,6.822709163346613
+149,CMS - 1C-Bitrix,alt_spacer,0.28414911781445645
+150,CMS - 1C-Bitrix,fieldset,0.05919180421172453
+151,CMS - 1C-Bitrix,label,4.037990893568582
+152,CMS - 1C-Bitrix,lang,0.19237336368810473
+153,CMS - 1C-Bitrix,link_skip,0.0001422879908935686
+154,CMS - 1C-Bitrix,link_skip_target,0.0001422879908935686
+155,CMS - 1C-Bitrix,longdesc,0.024188958451906658
+156,CMS - Drupal,alt,3.3273116677530497
+157,CMS - Drupal,alt_area,0.011360461867957911
+158,CMS - Drupal,alt_input,0.03175342210634137
+159,CMS - Drupal,alt_link,10.158146320265699
+160,CMS - Drupal,alt_map,0.040320327777260453
+161,CMS - Drupal,alt_null,5.89285160008691
+162,CMS - Drupal,alt_spacer,0.42946270602476955
+163,CMS - Drupal,fieldset,0.13182481298693235
+164,CMS - Drupal,label,2.55539001148462
+165,CMS - Drupal,lang,0.34677344259242016
+166,CMS - Drupal,link_skip,0.320358816773753
+167,CMS - Drupal,link_skip_target,0.3291429990377751
+168,CMS - Drupal,longdesc,0.013533227798988112
+169,CMS - Joomla,alt,4.070490475687476
+170,CMS - Joomla,alt_area,0.02264004788563783
+171,CMS - Joomla,alt_input,0.03746346959614098
+172,CMS - Joomla,alt_link,11.512904475194535
+173,CMS - Joomla,alt_map,0.050244709693320656
+174,CMS - Joomla,alt_null,3.9033484736452944
+175,CMS - Joomla,alt_spacer,0.28780676736734623
+176,CMS - Joomla,fieldset,0.012323509735572691
+177,CMS - Joomla,label,1.1368965881483046
+178,CMS - Joomla,lang,0.3337910636949403
+179,CMS - Joomla,link_skip,0.08045491355938171
+180,CMS - Joomla,link_skip_target,0.06151191859441569
+181,CMS - Joomla,longdesc,0.050455969860216186
+182,CMS - Rocket,alt,4.5608292990949275
+183,CMS - Rocket,alt_area,0.010418859187539466
+184,CMS - Rocket,alt_input,0.011471269206482846
+185,CMS - Rocket,alt_link,13.511997474215955
+186,CMS - Rocket,alt_map,0.022416333403494002
+187,CMS - Rocket,alt_null,7.732161650178909
+188,CMS - Rocket,alt_spacer,0.8157230056830141
+189,CMS - Rocket,fieldset,0.058303515049463274
+190,CMS - Rocket,label,2.022100610397811
+191,CMS - Rocket,lang,0.27709955798779207
+192,CMS - Rocket,link_skip,0.11997474215954536
+193,CMS - Rocket,link_skip_target,0.12207956219743211
+194,CMS - Rocket,longdesc,0.0007366870132603662
+195,CMS - Squarespace,alt,1.5702471104025508
+196,CMS - Squarespace,alt_area,0.04364288561179753
+197,CMS - Squarespace,alt_input,0.03577122359505779
+198,CMS - Squarespace,alt_link,9.313471502590673
+199,CMS - Squarespace,alt_map,0.05968513351933041
+200,CMS - Squarespace,alt_null,1.815862893583101
+201,CMS - Squarespace,alt_spacer,0.3895974491829414
+202,CMS - Squarespace,fieldset,0.0802112395376644
+203,CMS - Squarespace,label,1.161319250697489
+204,CMS - Squarespace,lang,0.10103626943005181
+205,CMS - Squarespace,link_skip,0.005380629732961339
+206,CMS - Squarespace,link_skip_target,0.005878836189717019
+207,CMS - Squarespace,longdesc,0.005679553607014747
+208,CMS - TYPO3 CMS,alt,3.245088868101029
+209,CMS - TYPO3 CMS,alt_area,0.026727248429774156
+210,CMS - TYPO3 CMS,alt_input,0.07563811305626086
+211,CMS - TYPO3 CMS,alt_link,9.812508352265134
+212,CMS - TYPO3 CMS,alt_map,0.05185086195376186
+213,CMS - TYPO3 CMS,alt_null,9.673793932914606
+214,CMS - TYPO3 CMS,alt_spacer,0.46839502873179206
+215,CMS - TYPO3 CMS,fieldset,0.14593077642656688
+216,CMS - TYPO3 CMS,label,4.430442335961513
+217,CMS - TYPO3 CMS,lang,0.4630495790458372
+218,CMS - TYPO3 CMS,link_skip,0.02405452358679674
+219,CMS - TYPO3 CMS,link_skip_target,0.026727248429774156
+220,CMS - TYPO3 CMS,longdesc,0.04142723506614994
+221,CMS - Weebly,alt,1.3091603053435115
+222,CMS - Weebly,alt_area,0.07688113413304253
+223,CMS - Weebly,alt_input,0.08869501999272991
+224,CMS - Weebly,alt_link,8.492002908033442
+225,CMS - Weebly,alt_map,0.09033078880407125
+226,CMS - Weebly,alt_null,1.895856052344602
+227,CMS - Weebly,alt_spacer,0.5932388222464559
+228,CMS - Weebly,fieldset,0.014176663031624863
+229,CMS - Weebly,label,0.7844420210832425
+230,CMS - Weebly,lang,0.15212649945474374
+231,CMS - Weebly,link_skip,0.029989094874591057
+232,CMS - Weebly,link_skip_target,0.023446019629225736
+233,CMS - Weebly,longdesc,0.010359869138495093
+234,CMS - Wix,alt,1.775302922309337
+235,CMS - Wix,alt_area,0.07537419814682822
+236,CMS - Wix,alt_input,0.05007127583749109
+237,CMS - Wix,alt_link,7.196364932287954
+238,CMS - Wix,alt_map,0.08820384889522452
+239,CMS - Wix,alt_null,6.215074839629366
+240,CMS - Wix,alt_spacer,0.5798289379900213
+241,CMS - Wix,fieldset,0.013720598717034925
+242,CMS - Wix,label,0.2742337847469708
+243,CMS - Wix,lang,0.14522451888809693
+244,CMS - Wix,link_skip,0.007483962936564505
+245,CMS - Wix,link_skip_target,0.008374910905203136
+246,CMS - Wix,longdesc,0.010156806842480399
+247,CMS - WordPress,alt,3.2570106337292404
+248,CMS - WordPress,alt_area,0.006316781293866537
+249,CMS - WordPress,alt_input,0.0244050175305904
+250,CMS - WordPress,alt_link,10.774996314409696
+251,CMS - WordPress,alt_map,0.02678622935268215
+252,CMS - WordPress,alt_null,5.363546627524629
+253,CMS - WordPress,alt_spacer,0.32264618974059855
+254,CMS - WordPress,fieldset,0.03251331619800914
+255,CMS - WordPress,label,1.372988148423529
+256,CMS - WordPress,lang,0.2675482171357515
+257,CMS - WordPress,link_skip,0.17075500118579862
+258,CMS - WordPress,link_skip_target,0.17302724772935588
+259,CMS - WordPress,longdesc,0.00364713196977175
+260,Frameworks - Angular,alt,4.636923488854675
+261,Frameworks - Angular,alt_area,0.010308588258919607
+262,Frameworks - Angular,alt_input,0.025169020684115403
+263,Frameworks - Angular,alt_link,12.490595086685856
+264,Frameworks - Angular,alt_map,0.022223709752995514
+265,Frameworks - Angular,alt_null,5.4348349956489725
+266,Frameworks - Angular,alt_spacer,0.3733850994042439
+267,Frameworks - Angular,fieldset,0.08387442265211861
+268,Frameworks - Angular,label,2.741816721333423
+269,Frameworks - Angular,lang,0.46596157708012587
+270,Frameworks - Angular,link_skip,0.11131936541937211
+271,Frameworks - Angular,link_skip_target,0.11078385434098668
+272,Frameworks - Angular,longdesc,0.0054889885534506995
+273,Frameworks - Backbone.js,alt,3.3661698562483466
+274,Frameworks - Backbone.js,alt_area,0.04325778287326925
+275,Frameworks - Backbone.js,alt_input,0.024693535585148602
+276,Frameworks - Backbone.js,alt_link,10.965561336978569
+277,Frameworks - Backbone.js,alt_map,0.07752006349766294
+278,Frameworks - Backbone.js,alt_null,4.835479319163947
+279,Frameworks - Backbone.js,alt_spacer,0.5161830849281241
+280,Frameworks - Backbone.js,fieldset,0.08929358849986771
+281,Frameworks - Backbone.js,label,2.0742128935532236
+282,Frameworks - Backbone.js,lang,0.3075668048328777
+283,Frameworks - Backbone.js,link_skip,0.09180703765764177
+284,Frameworks - Backbone.js,link_skip_target,0.09471734720874857
+285,Frameworks - Backbone.js,longdesc,0.0034835523414763207
+286,Frameworks - Handlebars,alt,5.514013196576729
+287,Frameworks - Handlebars,alt_area,0.03854445678447769
+288,Frameworks - Handlebars,alt_input,0.03175017965636637
+289,Frameworks - Handlebars,alt_link,16.487032076827596
+290,Frameworks - Handlebars,alt_map,0.13627752008884825
+291,Frameworks - Handlebars,alt_null,5.990723198536617
+292,Frameworks - Handlebars,alt_spacer,0.8215195662115372
+293,Frameworks - Handlebars,fieldset,0.15842425034298033
+294,Frameworks - Handlebars,label,2.932383876657738
+295,Frameworks - Handlebars,lang,0.5688900503037826
+296,Frameworks - Handlebars,link_skip,0.1456849807277716
+297,Frameworks - Handlebars,link_skip_target,0.14855948258966487
+298,Frameworks - Handlebars,longdesc,0.010844711569869995
+299,Frameworks - Knockout.js,alt,5.713170593244394
+300,Frameworks - Knockout.js,alt_area,0.09565711041725802
+301,Frameworks - Knockout.js,alt_input,0.04967357365881351
+302,Frameworks - Knockout.js,alt_link,12.795061027533352
+303,Frameworks - Knockout.js,alt_map,0.09168322452455294
+304,Frameworks - Knockout.js,alt_null,8.482117513482827
+305,Frameworks - Knockout.js,alt_spacer,0.7126028952597219
+306,Frameworks - Knockout.js,fieldset,0.07848424638092535
+307,Frameworks - Knockout.js,label,2.371842179960261
+308,Frameworks - Knockout.js,lang,0.518308260005677
+309,Frameworks - Knockout.js,link_skip,0.13539596934430884
+310,Frameworks - Knockout.js,link_skip_target,0.1095657110417258
+311,Frameworks - Knockout.js,longdesc,0.008657394266250356
+312,Frameworks - MooTools,alt,3.849961158583953
+313,Frameworks - MooTools,alt_area,0.027743868605038288
+314,Frameworks - MooTools,alt_input,0.047201568453371805
+315,Frameworks - MooTools,alt_link,12.35907964339881
+316,Frameworks - MooTools,alt_map,0.055191802611622834
+317,Frameworks - MooTools,alt_null,3.8970517515629046
+318,Frameworks - MooTools,alt_spacer,0.29685939407390965
+319,Frameworks - MooTools,fieldset,0.024377612547626975
+320,Frameworks - MooTools,label,1.1822587208226982
+321,Frameworks - MooTools,lang,0.3834202641216291
+322,Frameworks - MooTools,link_skip,0.09728849924166759
+323,Frameworks - MooTools,link_skip_target,0.0780897421669811
+324,Frameworks - MooTools,longdesc,0.05027188991232937
+325,Frameworks - Mustache,alt,3.5448614758959587
+326,Frameworks - Mustache,alt_area,0.04176904176904177
+327,Frameworks - Mustache,alt_input,0.05329153605015674
+328,Frameworks - Mustache,alt_link,14.629246801660594
+329,Frameworks - Mustache,alt_map,0.057697195628230113
+330,Frameworks - Mustache,alt_null,4.156739811912225
+331,Frameworks - Mustache,alt_spacer,0.504786918580022
+332,Frameworks - Mustache,fieldset,0.1419130729475557
+333,Frameworks - Mustache,label,2.4877573498263152
+334,Frameworks - Mustache,lang,0.25366432262983984
+335,Frameworks - Mustache,link_skip,0.0778615606201813
+336,Frameworks - Mustache,link_skip_target,0.11395407947132086
+337,Frameworks - Mustache,longdesc,0.007032110480386342
+338,Frameworks - Prototype,alt,5.229201446855871
+339,Frameworks - Prototype,alt_area,0.05850027824151363
+340,Frameworks - Prototype,alt_input,0.06128269337785198
+341,Frameworks - Prototype,alt_link,21.128756260434056
+342,Frameworks - Prototype,alt_map,0.09988870339454646
+343,Frameworks - Prototype,alt_null,5.006190873678353
+344,Frameworks - Prototype,alt_spacer,0.8494713411240957
+345,Frameworks - Prototype,fieldset,0.07804674457429048
+346,Frameworks - Prototype,label,2.2084724540901504
+347,Frameworks - Prototype,lang,0.3656789092932666
+348,Frameworks - Prototype,link_skip,0.042153589315525875
+349,Frameworks - Prototype,link_skip_target,0.043753478018920426
+350,Frameworks - Prototype,longdesc,0.036936560934891484
+351,Frameworks - React,alt,4.780506883604506
+352,Frameworks - React,alt_area,0.022090112640801
+353,Frameworks - React,alt_input,0.018617021276595744
+354,Frameworks - React,alt_link,12.393867334167709
+355,Frameworks - React,alt_map,0.03967459324155194
+356,Frameworks - React,alt_null,5.403254067584481
+357,Frameworks - React,alt_spacer,0.5578535669586984
+358,Frameworks - React,fieldset,0.23225907384230288
+359,Frameworks - React,label,2.3437421777221528
+360,Frameworks - React,lang,0.3410826032540676
+361,Frameworks - React,link_skip,0.1601063829787234
+362,Frameworks - React,link_skip_target,0.1640488110137672
+363,Frameworks - React,longdesc,0.006195244055068836
+364,Frameworks - RequireJS,alt,4.985591458805745
+365,Frameworks - RequireJS,alt_area,0.030328798185941044
+366,Frameworks - RequireJS,alt_input,0.03212396069538927
+367,Frameworks - RequireJS,alt_link,14.69982993197279
+368,Frameworks - RequireJS,alt_map,0.0682161753590325
+369,Frameworks - RequireJS,alt_null,6.66624149659864
+370,Frameworks - RequireJS,alt_spacer,1.5994897959183674
+371,Frameworks - RequireJS,fieldset,0.15079365079365079
+372,Frameworks - RequireJS,label,3.454412320483749
+373,Frameworks - RequireJS,lang,0.2854780801209373
+374,Frameworks - RequireJS,link_skip,0.14961262282690854
+375,Frameworks - RequireJS,link_skip_target,0.14621126228269085
+376,Frameworks - RequireJS,longdesc,0.004487906273620559
+377,Frameworks - TweenMax,alt,4.384660103867917
+378,Frameworks - TweenMax,alt_area,0.019649639562824586
+379,Frameworks - TweenMax,alt_input,0.019068289279900782
+380,Frameworks - TweenMax,alt_link,9.12274242306798
+381,Frameworks - TweenMax,alt_map,0.03464847686225874
+382,Frameworks - TweenMax,alt_null,7.161189055112007
+383,Frameworks - TweenMax,alt_spacer,0.665801100689869
+384,Frameworks - TweenMax,fieldset,0.08359817068444307
+385,Frameworks - TweenMax,label,1.4101620029455082
+386,Frameworks - TweenMax,lang,0.37935043795054646
+387,Frameworks - TweenMax,link_skip,0.09278350515463918
+388,Frameworks - TweenMax,link_skip_target,0.09549647314161692
+389,Frameworks - TweenMax,longdesc,0.007402526935896442
+390,Frameworks - Vue.js,alt,4.941858713661696
+391,Frameworks - Vue.js,alt_area,0.07230004518752824
+392,Frameworks - Vue.js,alt_input,0.04895315559572225
+393,Frameworks - Vue.js,alt_link,12.648139780087362
+394,Frameworks - Vue.js,alt_map,0.09850881156800723
+395,Frameworks - Vue.js,alt_null,6.536225335140834
+396,Frameworks - Vue.js,alt_spacer,0.8109655068534418
+397,Frameworks - Vue.js,fieldset,0.09263443289652055
+398,Frameworks - Vue.js,label,2.88326555204097
+399,Frameworks - Vue.js,lang,0.43681277300798316
+400,Frameworks - Vue.js,link_skip,0.04639252899533062
+401,Frameworks - Vue.js,link_skip_target,0.048200030125018826
+402,Frameworks - Vue.js,longdesc,0.008736255460159662
+403,Libraries - Dojo,alt,3.952468007312614
+404,Libraries - Dojo,alt_area,0.0890170158908733
+405,Libraries - Dojo,alt_input,0.06750105470397975
+406,Libraries - Dojo,alt_link,14.853607087610744
+407,Libraries - Dojo,alt_map,0.11095485866966671
+408,Libraries - Dojo,alt_null,6.478554352411757
+409,Libraries - Dojo,alt_spacer,1.1324708198565603
+410,Libraries - Dojo,fieldset,0.0486570102657854
+411,Libraries - Dojo,label,1.6186190409225145
+412,Libraries - Dojo,lang,0.8821544086626354
+413,Libraries - Dojo,link_skip,0.09407959499367177
+414,Libraries - Dojo,link_skip_target,0.09661088454507101
+415,Libraries - Dojo,longdesc,0.014484601321895654
+416,Libraries - FancyBox,alt,4.917691972939827
+417,Libraries - FancyBox,alt_area,0.022767733512679512
+418,Libraries - FancyBox,alt_input,0.03346916168849151
+419,Libraries - FancyBox,alt_link,16.527436009020057
+420,Libraries - FancyBox,alt_map,0.057344621592752304
+421,Libraries - FancyBox,alt_null,6.0034814258021125
+422,Libraries - FancyBox,alt_spacer,0.5374648890295526
+423,Libraries - FancyBox,fieldset,0.07022194089488468
+424,Libraries - FancyBox,label,2.6540333109150613
+425,Libraries - FancyBox,lang,0.3658662024765597
+426,Libraries - FancyBox,link_skip,0.042251849507457376
+427,Libraries - FancyBox,link_skip_target,0.043280452585354276
+428,Libraries - FancyBox,longdesc,0.015251018712663687
+429,Libraries - Fingerprintjs,alt,5.687612815884476
+430,Libraries - Fingerprintjs,alt_area,0.06024368231046932
+431,Libraries - Fingerprintjs,alt_input,0.056633574007220217
+432,Libraries - Fingerprintjs,alt_link,18.187048736462096
+433,Libraries - Fingerprintjs,alt_map,0.08923736462093863
+434,Libraries - Fingerprintjs,alt_null,5.9328745487364625
+435,Libraries - Fingerprintjs,alt_spacer,0.9813853790613718
+436,Libraries - Fingerprintjs,fieldset,0.0582129963898917
+437,Libraries - Fingerprintjs,label,2.120374548736462
+438,Libraries - Fingerprintjs,lang,0.30268501805054154
+439,Libraries - Fingerprintjs,link_skip,0.07141245487364621
+440,Libraries - Fingerprintjs,link_skip_target,0.07457129963898917
+441,Libraries - Fingerprintjs,longdesc,0.007784296028880866
+442,Libraries - Flickity,alt,4.753779948825308
+443,Libraries - Flickity,alt_area,0.051756222377297045
+444,Libraries - Flickity,alt_input,0.04093975343103047
+445,Libraries - Flickity,alt_link,12.439753431030471
+446,Libraries - Flickity,alt_map,0.07490113979995348
+447,Libraries - Flickity,alt_null,6.8298441498022795
+448,Libraries - Flickity,alt_spacer,0.9084670853686904
+449,Libraries - Flickity,fieldset,0.056641079320772274
+450,Libraries - Flickity,label,2.2598278669458014
+451,Libraries - Flickity,lang,0.2729704582461037
+452,Libraries - Flickity,link_skip,0.07292393579902302
+453,Libraries - Flickity,link_skip_target,0.08199581297976273
+454,Libraries - Flickity,longdesc,0.00837404047452896
+455,Libraries - Hammer.js,alt,4.526457906885589
+456,Libraries - Hammer.js,alt_area,0.027916902573929706
+457,Libraries - Hammer.js,alt_input,0.03658377248377684
+458,Libraries - Hammer.js,alt_link,14.550455119550541
+459,Libraries - Hammer.js,alt_map,0.06798484386568529
+460,Libraries - Hammer.js,alt_null,5.8710857541047865
+461,Libraries - Hammer.js,alt_spacer,0.5890422890989069
+462,Libraries - Hammer.js,fieldset,0.11841818736117765
+463,Libraries - Hammer.js,label,2.338182134924437
+464,Libraries - Hammer.js,lang,0.3711075301598362
+465,Libraries - Hammer.js,link_skip,0.08135534166630373
+466,Libraries - Hammer.js,link_skip_target,0.09925525891729454
+467,Libraries - Hammer.js,longdesc,0.019990418535778057
+468,Libraries - jQuery,alt,3.882723258463836
+469,Libraries - jQuery,alt_area,0.014610016303687837
+470,Libraries - jQuery,alt_input,0.03715354663345641
+471,Libraries - jQuery,alt_link,13.44572758113733
+472,Libraries - jQuery,alt_map,0.04835296579842854
+473,Libraries - jQuery,alt_null,5.003609548638474
+474,Libraries - jQuery,alt_spacer,0.4173614897074896
+475,Libraries - jQuery,fieldset,0.06256895478116627
+476,Libraries - jQuery,label,1.694995723834648
+477,Libraries - jQuery,lang,0.33709360280495776
+478,Libraries - jQuery,link_skip,0.11186371047130834
+479,Libraries - jQuery,link_skip_target,0.11406122021863994
+480,Libraries - jQuery,longdesc,0.01158311134307765
+481,Libraries - jQuery Migrate,alt,3.5555583919129776
+482,Libraries - jQuery Migrate,alt_area,0.008270818243025486
+483,Libraries - jQuery Migrate,alt_input,0.02747685798252024
+484,Libraries - jQuery Migrate,alt_link,11.6446260422284
+485,Libraries - jQuery Migrate,alt_map,0.030138070333864085
+486,Libraries - jQuery Migrate,alt_null,5.328260862628474
+487,Libraries - jQuery Migrate,alt_spacer,0.33771869645267416
+488,Libraries - jQuery Migrate,fieldset,0.03714848224741617
+489,Libraries - jQuery Migrate,label,1.5273891081747721
+490,Libraries - jQuery Migrate,lang,0.313601858381383
+491,Libraries - jQuery Migrate,link_skip,0.1701803816957092
+492,Libraries - jQuery Migrate,link_skip_target,0.1721746955081671
+493,Libraries - jQuery Migrate,longdesc,0.006407331416664806
+494,Libraries - jQuery UI,alt,4.946684700385444
+495,Libraries - jQuery UI,alt_area,0.02205744772983636
+496,Libraries - jQuery UI,alt_input,0.04841839653153852
+497,Libraries - jQuery UI,alt_link,15.457315149927561
+498,Libraries - jQuery UI,alt_map,0.05883768049311173
+499,Libraries - jQuery UI,alt_null,6.176956756496683
+500,Libraries - jQuery UI,alt_spacer,0.5378307147019358
+501,Libraries - jQuery UI,fieldset,0.09893775694039784
+502,Libraries - jQuery UI,label,2.9816793811511997
+503,Libraries - jQuery UI,lang,0.4604585767974468
+504,Libraries - jQuery UI,link_skip,0.1153338287260033
+505,Libraries - jQuery UI,link_skip_target,0.11791592936912278
+506,Libraries - jQuery UI,longdesc,0.011424325205685967
+507,Libraries - Lazy.js,alt,2.479194208372679
+508,Libraries - Lazy.js,alt_area,0.01189801699716714
+509,Libraries - Lazy.js,alt_input,0.04010072395341517
+510,Libraries - Lazy.js,alt_link,14.944664778092541
+511,Libraries - Lazy.js,alt_map,0.0187598363235757
+512,Libraries - Lazy.js,alt_null,2.9853950267548
+513,Libraries - Lazy.js,alt_spacer,1.1033050047214352
+514,Libraries - Lazy.js,fieldset,0.03349071451054454
+515,Libraries - Lazy.js,label,0.6106389675794774
+516,Libraries - Lazy.js,lang,2.790494176896443
+517,Libraries - Lazy.js,link_skip,0.14957507082152974
+518,Libraries - Lazy.js,link_skip_target,0.15039345294302803
+519,Libraries - Lazy.js,longdesc,0.0068618193264085615
+520,Libraries - Lightbox,alt,3.8461191250869837
+521,Libraries - Lightbox,alt_area,0.01922100393071411
+522,Libraries - Lightbox,alt_input,0.046472701284534804
+523,Libraries - Lightbox,alt_link,12.918414173139494
+524,Libraries - Lightbox,alt_map,0.045457110078802355
+525,Libraries - Lightbox,alt_null,5.811400951646574
+526,Libraries - Lightbox,alt_spacer,0.5127795226721333
+527,Libraries - Lightbox,fieldset,0.04402775949295669
+528,Libraries - Lightbox,label,1.456527054221286
+529,Libraries - Lightbox,lang,0.2781027251697354
+530,Libraries - Lightbox,link_skip,0.10947697052904778
+531,Libraries - Lightbox,link_skip_target,0.11092512835944406
+532,Libraries - Lightbox,longdesc,0.012807733538959207
+533,Libraries - Lodash,alt,4.382600615599047
+534,Libraries - Lodash,alt_area,0.007665950403623904
+535,Libraries - Lodash,alt_input,0.014228468552180731
+536,Libraries - Lodash,alt_link,14.026075846448691
+537,Libraries - Lodash,alt_map,0.030373424705267438
+538,Libraries - Lodash,alt_null,6.629362913061153
+539,Libraries - Lodash,alt_spacer,0.5266275625762239
+540,Libraries - Lodash,fieldset,0.11748649747372089
+541,Libraries - Lodash,label,2.152215575817411
+542,Libraries - Lodash,lang,0.6578779255473605
+543,Libraries - Lodash,link_skip,0.07509146872640687
+544,Libraries - Lodash,link_skip_target,0.07578837330855451
+545,Libraries - Lodash,longdesc,0.004820256693187757
+546,Libraries - Modernizr,alt,4.246451383960255
+547,Libraries - Modernizr,alt_area,0.011948697150968265
+548,Libraries - Modernizr,alt_input,0.022112947379093584
+549,Libraries - Modernizr,alt_link,12.514909256818413
+550,Libraries - Modernizr,alt_map,0.04506235425326979
+551,Libraries - Modernizr,alt_null,5.578150664098144
+552,Libraries - Modernizr,alt_spacer,0.4623289060123695
+553,Libraries - Modernizr,fieldset,0.08133427963094393
+554,Libraries - Modernizr,label,2.042730406570009
+555,Libraries - Modernizr,lang,0.3869715096826523
+556,Libraries - Modernizr,link_skip,0.12182905809591402
+557,Libraries - Modernizr,link_skip_target,0.12540302139308526
+558,Libraries - Modernizr,longdesc,0.007680219000304167
+559,Libraries - Moment.js,alt,5.745003996802558
+560,Libraries - Moment.js,alt_area,0.022153705606943016
+561,Libraries - Moment.js,alt_input,0.029633436108256254
+562,Libraries - Moment.js,alt_link,14.264388489208633
+563,Libraries - Moment.js,alt_map,0.046163069544364506
+564,Libraries - Moment.js,alt_null,6.055612652734955
+565,Libraries - Moment.js,alt_spacer,0.6086844809866393
+566,Libraries - Moment.js,fieldset,0.14322827452323855
+567,Libraries - Moment.js,label,3.1954721936736323
+568,Libraries - Moment.js,lang,0.5078794107571086
+569,Libraries - Moment.js,link_skip,0.14359940618933426
+570,Libraries - Moment.js,link_skip_target,0.13971679799017928
+571,Libraries - Moment.js,longdesc,0.008250542423204294
+572,Libraries - prettyPhoto,alt,4.392485619875168
+573,Libraries - prettyPhoto,alt_area,0.02083588300085669
+574,Libraries - prettyPhoto,alt_input,0.040845673724146374
+575,Libraries - prettyPhoto,alt_link,11.139364826826581
+576,Libraries - prettyPhoto,alt_map,0.043935870762452575
+577,Libraries - prettyPhoto,alt_null,6.590380614367886
+578,Libraries - prettyPhoto,alt_spacer,0.42920083221147964
+579,Libraries - prettyPhoto,fieldset,0.03096316240362257
+580,Libraries - prettyPhoto,label,1.2468486109411332
+581,Libraries - prettyPhoto,lang,0.3557398115285767
+582,Libraries - prettyPhoto,link_skip,0.05164606535307796
+583,Libraries - prettyPhoto,link_skip_target,0.05381838208297638
+584,Libraries - prettyPhoto,longdesc,0.009637743238281728
+585,Libraries - script.aculo.us,alt,5.151501416430595
+586,Libraries - script.aculo.us,alt_area,0.07252124645892351
+587,Libraries - script.aculo.us,alt_input,0.06776203966005666
+588,Libraries - script.aculo.us,alt_link,19.42073654390935
+589,Libraries - script.aculo.us,alt_map,0.09280453257790368
+590,Libraries - script.aculo.us,alt_null,4.901303116147309
+591,Libraries - script.aculo.us,alt_spacer,0.9602266288951842
+592,Libraries - script.aculo.us,fieldset,0.06470254957507082
+593,Libraries - script.aculo.us,label,2.228328611898017
+594,Libraries - script.aculo.us,lang,0.3692917847025496
+595,Libraries - script.aculo.us,link_skip,0.030254957507082153
+596,Libraries - script.aculo.us,link_skip_target,0.03240793201133144
+597,Libraries - script.aculo.us,longdesc,0.05858356940509915
+598,Libraries - Select2,alt,4.750608272506082
+599,Libraries - Select2,alt_area,0.025862845814184014
+600,Libraries - Select2,alt_input,0.025457330810128864
+601,Libraries - Select2,alt_link,13.536045778138236
+602,Libraries - Select2,alt_map,0.07276741461656304
+603,Libraries - Select2,alt_null,6.573893845183383
+604,Libraries - Select2,alt_spacer,0.5272596197170406
+605,Libraries - Select2,fieldset,0.08322069027665134
+606,Libraries - Select2,label,3.1435072542128504
+607,Libraries - Select2,lang,0.41177795800666844
+608,Libraries - Select2,link_skip,0.10137875101378752
+609,Libraries - Select2,link_skip_target,0.10439758493286473
+610,Libraries - Select2,longdesc,0.011489591781562584
+611,Libraries - Slick,alt,6.090478101640496
+612,Libraries - Slick,alt_area,0.012692519941805046
+613,Libraries - Slick,alt_input,0.026664325490392816
+614,Libraries - Slick,alt_link,16.65815481864245
+615,Libraries - Slick,alt_map,0.04841218080569909
+616,Libraries - Slick,alt_null,7.935258114684192
+617,Libraries - Slick,alt_spacer,0.5441980635127678
+618,Libraries - Slick,fieldset,0.09742637836753124
+619,Libraries - Slick,label,2.132518938443787
+620,Libraries - Slick,lang,0.3514021973611599
+621,Libraries - Slick,link_skip,0.12461746851954046
+622,Libraries - Slick,link_skip_target,0.1273516279536447
+623,Libraries - Slick,longdesc,0.009180755531028947
+624,Libraries - SoundManager,alt,3.5581026274025747
+625,Libraries - SoundManager,alt_area,0.08040909892435197
+626,Libraries - SoundManager,alt_input,0.09451595838476459
+627,Libraries - SoundManager,alt_link,11.572385822606241
+628,Libraries - SoundManager,alt_map,0.13278081467113384
+629,Libraries - SoundManager,alt_null,5.4649973549638515
+630,Libraries - SoundManager,alt_spacer,0.7996825956621407
+631,Libraries - SoundManager,fieldset,0.044612943043554926
+632,Libraries - SoundManager,label,1.2530417915711514
+633,Libraries - SoundManager,lang,0.22958913771821549
+634,Libraries - SoundManager,link_skip,0.06171751013930524
+635,Libraries - SoundManager,link_skip_target,0.06330453182860166
+636,Libraries - SoundManager,longdesc,0.014106859460412626
+637,Libraries - Underscore.js,alt,5.525549040317587
+638,Libraries - Underscore.js,alt_area,0.010015660851513276
+639,Libraries - Underscore.js,alt_input,0.017190516079688238
+640,Libraries - Underscore.js,alt_link,13.626506901700841
+641,Libraries - Underscore.js,alt_map,0.060130385693994245
+642,Libraries - Underscore.js,alt_null,8.112867392650326
+643,Libraries - Underscore.js,alt_spacer,0.5016935571985286
+644,Libraries - Underscore.js,fieldset,0.0812907455293732
+645,Libraries - Underscore.js,label,2.652984666933751
+646,Libraries - Underscore.js,lang,0.33466875478020175
+647,Libraries - Underscore.js,link_skip,0.15955858251083513
+648,Libraries - Underscore.js,link_skip_target,0.1590122737371162
+649,Libraries - Underscore.js,longdesc,0.003787740831117748
+650,Libraries - YUI,alt,2.878823996821613
+651,Libraries - YUI,alt_area,0.03903456495828367
+652,Libraries - YUI,alt_input,0.05815454906634883
+653,Libraries - YUI,alt_link,12.95873063170441
+654,Libraries - YUI,alt_map,0.05075486690504569
+655,Libraries - YUI,alt_null,9.848480333730631
+656,Libraries - YUI,alt_spacer,0.42396702423520066
+657,Libraries - YUI,fieldset,0.08169447755264203
+658,Libraries - YUI,label,1.4558005562177194
+659,Libraries - YUI,lang,0.2918156535558204
+660,Libraries - YUI,link_skip,0.0516984505363528
+661,Libraries - YUI,link_skip_target,0.05328764402065952
+662,Libraries - YUI,longdesc,0.013259833134684148
+663,Libraries - Zepto,alt,3.255059678256357
+664,Libraries - Zepto,alt_area,0.05604566683964712
+665,Libraries - Zepto,alt_input,0.041255838090295795
+666,Libraries - Zepto,alt_link,10.373118837571354
+667,Libraries - Zepto,alt_map,0.06850025947067981
+668,Libraries - Zepto,alt_null,5.865983393876492
+669,Libraries - Zepto,alt_spacer,0.47833419823559936
+670,Libraries - Zepto,fieldset,0.03554748313440581
+671,Libraries - Zepto,label,0.8629994810586403
+672,Libraries - Zepto,lang,0.15425531914893617
+673,Libraries - Zepto,link_skip,0.01816294758692268
+674,Libraries - Zepto,link_skip_target,0.01842241826673586
+675,Libraries - Zepto,longdesc,0.007784120394395433
+676,Google Maps,alt,5.152401783938869
+677,Google Maps,alt_area,0.009232167712979007
+678,Google Maps,alt_input,0.017384881970286623
+679,Google Maps,alt_link,11.195636735505497
+680,Google Maps,alt_map,0.4514103911598443
+681,Google Maps,alt_null,11.802232764253047
+682,Google Maps,alt_spacer,0.49052637559298923
+683,Google Maps,fieldset,0.14978837030934863
+684,Google Maps,label,2.9649177626906797
+685,Google Maps,lang,0.495213476124194
+686,Google Maps,link_skip,0.08851518336505411
+687,Google Maps,link_skip_target,0.09084453029571343
+688,Google Maps,longdesc,0.010595687867511291
+689,Java,alt,4.299357548801582
+690,Java,alt_area,0.05541141586360267
+691,Java,alt_input,0.0969236471460341
+692,Java,alt_link,14.728379046207067
+693,Java,alt_map,0.11984185816654312
+694,Java,alt_null,5.0467012601927355
+695,Java,alt_spacer,0.5180998270323697
+696,Java,fieldset,0.13837410427477143
+697,Java,label,2.990177909562639
+698,Java,lang,0.9604027674820855
+699,Java,link_skip,0.11755621447986163
+700,Java,link_skip_target,0.12651346676550532
+701,Java,longdesc,0.009451445515196442
+702,PHP,alt,3.8309181635468974
+703,PHP,alt_area,0.013432544307864842
+704,PHP,alt_input,0.038536659127136635
+705,PHP,alt_link,13.554379122852337
+706,PHP,alt_map,0.03468708850232171
+707,PHP,alt_null,5.080050277534511
+708,PHP,alt_spacer,0.3829220194179651
+709,PHP,fieldset,0.03839174893995048
+710,PHP,label,1.5650142705032164
+711,PHP,lang,0.27171605163843016
+712,PHP,link_skip,0.09479961441289322
+713,PHP,link_skip_target,0.09646608156553406
+714,PHP,longdesc,0.014516220490300468
+715,WebFrameworks - animate.css,alt,4.599381599673298
+716,WebFrameworks - animate.css,alt_area,0.006067323960095677
+717,WebFrameworks - animate.css,alt_input,0.015848939190634542
+718,WebFrameworks - animate.css,alt_link,11.2678567955973
+719,WebFrameworks - animate.css,alt_map,0.038290259222526886
+720,WebFrameworks - animate.css,alt_null,6.718608404799409
+721,WebFrameworks - animate.css,alt_spacer,0.37263481321587616
+722,WebFrameworks - animate.css,fieldset,0.04369640044338137
+723,WebFrameworks - animate.css,label,1.2661649456468895
+724,WebFrameworks - animate.css,lang,0.31077533399451607
+725,WebFrameworks - animate.css,link_skip,0.09277949555646306
+726,WebFrameworks - animate.css,link_skip_target,0.09583260408766506
+727,WebFrameworks - animate.css,longdesc,0.007798067012815277
+728,WebFrameworks - Bootstrap,alt,4.481554007124773
+729,WebFrameworks - Bootstrap,alt_area,0.01067819774606233
+730,WebFrameworks - Bootstrap,alt_input,0.020939663477695877
+731,WebFrameworks - Bootstrap,alt_link,12.622427351959313
+732,WebFrameworks - Bootstrap,alt_map,0.04213922434073444
+733,WebFrameworks - Bootstrap,alt_null,5.1712499719938165
+734,WebFrameworks - Bootstrap,alt_spacer,0.3824748504469787
+735,WebFrameworks - Bootstrap,fieldset,0.07178545022741022
+736,WebFrameworks - Bootstrap,label,1.8313758877960253
+737,WebFrameworks - Bootstrap,lang,0.3182936392355432
+738,WebFrameworks - Bootstrap,link_skip,0.09567360473192481
+739,WebFrameworks - Bootstrap,link_skip_target,0.09722850805457844
+740,WebFrameworks - Bootstrap,longdesc,0.010808146438733672
+741,WebFrameworks - CodeIgniter,alt,3.6730962764173096
+742,WebFrameworks - CodeIgniter,alt_area,0.014760147601476014
+743,WebFrameworks - CodeIgniter,alt_input,0.05702784300570279
+744,WebFrameworks - CodeIgniter,alt_link,11.716873532371688
+745,WebFrameworks - CodeIgniter,alt_map,0.11271385441127138
+746,WebFrameworks - CodeIgniter,alt_null,4.632002683663201
+747,WebFrameworks - CodeIgniter,alt_spacer,0.3309292183830929
+748,WebFrameworks - CodeIgniter,fieldset,0.04696410600469641
+749,WebFrameworks - CodeIgniter,label,1.1897014424689702
+750,WebFrameworks - CodeIgniter,lang,0.09510231465951023
+751,WebFrameworks - CodeIgniter,link_skip,0.10734652801073465
+752,WebFrameworks - CodeIgniter,link_skip_target,0.11103656491110366
+753,WebFrameworks - CodeIgniter,longdesc,0.0025159342502515934
+754,WebFrameworks - Laravel,alt,4.560700079554495
+755,WebFrameworks - Laravel,alt_area,0.0720763723150358
+756,WebFrameworks - Laravel,alt_input,0.049801113762927604
+757,WebFrameworks - Laravel,alt_link,13.478599840891011
+758,WebFrameworks - Laravel,alt_map,0.09180588703261734
+759,WebFrameworks - Laravel,alt_null,5.476054097056483
+760,WebFrameworks - Laravel,alt_spacer,0.6684168655529037
+761,WebFrameworks - Laravel,fieldset,0.03643595863166269
+762,WebFrameworks - Laravel,label,1.5276054097056484
+763,WebFrameworks - Laravel,lang,0.24009546539379475
+764,WebFrameworks - Laravel,link_skip,0.018138424821002388
+765,WebFrameworks - Laravel,link_skip_target,0.01909307875894988
+766,WebFrameworks - Laravel,longdesc,0.00954653937947494
+767,WebFrameworks - Microsoft ASP.NET,alt,3.8457582397924956
+768,WebFrameworks - Microsoft ASP.NET,alt_area,0.02676535038683422
+769,WebFrameworks - Microsoft ASP.NET,alt_input,0.06423013282053576
+770,WebFrameworks - Microsoft ASP.NET,alt_link,11.521823710925272
+771,WebFrameworks - Microsoft ASP.NET,alt_map,0.11378068959348867
+772,WebFrameworks - Microsoft ASP.NET,alt_null,3.321038862304906
+773,WebFrameworks - Microsoft ASP.NET,alt_spacer,0.5109006752828585
+774,WebFrameworks - Microsoft ASP.NET,fieldset,0.06168105183131345
+775,WebFrameworks - Microsoft ASP.NET,label,1.279526854791825
+776,WebFrameworks - Microsoft ASP.NET,lang,0.4316779213809758
+777,WebFrameworks - Microsoft ASP.NET,link_skip,0.08801037520683333
+778,WebFrameworks - Microsoft ASP.NET,link_skip_target,0.08932963642055364
+779,WebFrameworks - Microsoft ASP.NET,longdesc,0.015093242699342606
+780,WebFrameworks - ZURB Foundation,alt,4.525443087829855
+781,WebFrameworks - ZURB Foundation,alt_area,0.01260338716029933
+782,WebFrameworks - ZURB Foundation,alt_input,0.022922410397794406
+783,WebFrameworks - ZURB Foundation,alt_link,13.199763686490744
+784,WebFrameworks - ZURB Foundation,alt_map,0.04269397400551398
+785,WebFrameworks - ZURB Foundation,alt_null,5.50756203229618
+786,WebFrameworks - ZURB Foundation,alt_spacer,0.5949192595510043
+787,WebFrameworks - ZURB Foundation,fieldset,0.17105159511618748
+788,WebFrameworks - ZURB Foundation,label,2.49621898385191
+789,WebFrameworks - ZURB Foundation,lang,0.396967309964553
+790,WebFrameworks - ZURB Foundation,link_skip,0.131705395825128
+791,WebFrameworks - ZURB Foundation,link_skip_target,0.13513194170933437
+792,WebFrameworks - ZURB Foundation,longdesc,0.012997243009058685

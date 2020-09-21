@@ -1,0 +1,1404 @@
+,Technologies,Error Type,Value
+0,Ads - AdSense,contrast,62.94270991209457
+1,Ads - AdSense,alt_area_missing,0.030511638295496243
+2,Ads - AdSense,alt_input_missing,0.046026706657519824
+3,Ads - AdSense,alt_link_missing,14.703993235589731
+4,Ads - AdSense,alt_map_missing,0.014589748089532712
+5,Ads - AdSense,alt_missing,7.1735374355865416
+6,Ads - AdSense,alt_spacer_missing,0.9754550820822897
+7,Ads - AdSense,aria_reference_broken,0.39828656211611174
+8,Ads - AdSense,blink,0.001419888004339433
+9,Ads - AdSense,button_empty,0.8669213956382317
+10,Ads - AdSense,heading_empty,0.3336896348175683
+11,Ads - AdSense,label_empty,0.15122604936105039
+12,Ads - AdSense,label_missing,2.348399036390613
+13,Ads - AdSense,label_multiple,0.11512260493610504
+14,Ads - AdSense,language_missing,0.3169062395303202
+15,Ads - AdSense,link_empty,10.335516344665848
+16,Ads - AdSense,link_skip_broken,0.017676807964135864
+17,Ads - AdSense,longdesc_invalid,0.018075652909175028
+18,Ads - AdSense,marquee,0.013776104401652814
+19,Ads - AdSense,meta_refresh,0.01905681147397138
+20,Ads - AdSense,server_image_map,0.0
+21,Ads - AdSense,th_empty,0.04842775322665561
+22,Ads - AdSense,title_invalid,0.024648617603420495
+23,Ads - DoubleClick,contrast,56.72043879734806
+24,Ads - DoubleClick,alt_area_missing,0.03404720214310301
+25,Ads - DoubleClick,alt_input_missing,0.05296397731184244
+26,Ads - DoubleClick,alt_link_missing,12.565886948323081
+27,Ads - DoubleClick,alt_map_missing,0.016342657028689443
+28,Ads - DoubleClick,alt_missing,8.295260330145616
+29,Ads - DoubleClick,alt_spacer_missing,1.1237073287537975
+30,Ads - DoubleClick,aria_reference_broken,0.6458492344991694
+31,Ads - DoubleClick,blink,0.0016312725422409793
+32,Ads - DoubleClick,button_empty,1.2422364896212155
+33,Ads - DoubleClick,heading_empty,0.41586973764947094
+34,Ads - DoubleClick,label_empty,0.23532228857061613
+35,Ads - DoubleClick,label_missing,2.7949834627875303
+36,Ads - DoubleClick,label_multiple,0.17943997964650774
+37,Ads - DoubleClick,language_missing,0.3029228213532079
+38,Ads - DoubleClick,link_empty,11.394333946931262
+39,Ads - DoubleClick,link_skip_broken,0.025950702644457414
+40,Ads - DoubleClick,longdesc_invalid,0.01894670677501908
+41,Ads - DoubleClick,marquee,0.009263832143551984
+42,Ads - DoubleClick,meta_refresh,0.03115880213711669
+43,Ads - DoubleClick,server_image_map,0.0
+44,Ads - DoubleClick,th_empty,0.06300603121866535
+45,Ads - DoubleClick,title_invalid,0.005342791720917703
+46,Ads - Criteo,contrast,53.44331097447363
+47,Ads - Criteo,alt_area_missing,0.05370784423327744
+48,Ads - Criteo,alt_input_missing,0.047559157816284704
+49,Ads - Criteo,alt_link_missing,8.62064468045463
+50,Ads - Criteo,alt_map_missing,0.024082355133221538
+51,Ads - Criteo,alt_missing,8.383966834358114
+52,Ads - Criteo,alt_spacer_missing,1.1713247624371157
+53,Ads - Criteo,aria_reference_broken,1.2023476802683064
+54,Ads - Criteo,blink,0.000931619154089808
+55,Ads - Criteo,button_empty,1.6866964784795975
+56,Ads - Criteo,heading_empty,0.55072666294019
+57,Ads - Criteo,label_empty,0.5273430221725358
+58,Ads - Criteo,label_missing,3.9653903484255637
+59,Ads - Criteo,label_multiple,0.5333985466741196
+60,Ads - Criteo,language_missing,0.20467672815353083
+61,Ads - Criteo,link_empty,12.537637413825228
+62,Ads - Criteo,link_skip_broken,0.022358859698155393
+63,Ads - Criteo,longdesc_invalid,0.05636295882243339
+64,Ads - Criteo,marquee,0.005589714924538848
+65,Ads - Criteo,meta_refresh,0.023243897894540712
+66,Ads - Criteo,server_image_map,0.0
+67,Ads - Criteo,th_empty,0.03908142351406745
+68,Ads - Criteo,title_invalid,0.0037730575740637226
+69,Ads - Prebid,contrast,51.975056203832565
+70,Ads - Prebid,alt_area_missing,0.023605609677764695
+71,Ads - Prebid,alt_input_missing,0.03607750776148164
+72,Ads - Prebid,alt_link_missing,11.374745744566964
+73,Ads - Prebid,alt_map_missing,0.010705491917353602
+74,Ads - Prebid,alt_missing,9.920565249973237
+75,Ads - Prebid,alt_spacer_missing,1.5594690076008992
+76,Ads - Prebid,aria_reference_broken,0.6203297291510544
+77,Ads - Prebid,blink,0.0006423295150412161
+78,Ads - Prebid,button_empty,1.2771651857402848
+79,Ads - Prebid,heading_empty,0.47623380794347503
+80,Ads - Prebid,label_empty,0.19029011883096028
+81,Ads - Prebid,label_missing,3.0787388930521358
+82,Ads - Prebid,label_multiple,0.27753987795739216
+83,Ads - Prebid,language_missing,0.20784712557542018
+84,Ads - Prebid,link_empty,13.246386896477894
+85,Ads - Prebid,link_skip_broken,0.022160368268921957
+86,Ads - Prebid,longdesc_invalid,0.010919601755700675
+87,Ads - Prebid,marquee,0.00594154801413125
+88,Ads - Prebid,meta_refresh,0.047585911572636766
+89,Ads - Prebid,server_image_map,0.0
+90,Ads - Prebid,th_empty,0.03645219997858901
+91,Ads - Prebid,title_invalid,0.005995075473718017
+92,Ads - AppNexus,contrast,49.778841403162055
+93,Ads - AppNexus,alt_area_missing,0.029891304347826088
+94,Ads - AppNexus,alt_input_missing,0.037858201581027665
+95,Ads - AppNexus,alt_link_missing,10.721529150197629
+96,Ads - AppNexus,alt_map_missing,0.007411067193675889
+97,Ads - AppNexus,alt_missing,10.455348320158103
+98,Ads - AppNexus,alt_spacer_missing,2.3800642292490117
+99,Ads - AppNexus,aria_reference_broken,0.9886363636363636
+100,Ads - AppNexus,blink,0.00012351778656126481
+101,Ads - AppNexus,button_empty,1.3379446640316206
+102,Ads - AppNexus,heading_empty,0.4945652173913043
+103,Ads - AppNexus,label_empty,0.3199110671936759
+104,Ads - AppNexus,label_missing,3.5292119565217392
+105,Ads - AppNexus,label_multiple,0.392971837944664
+106,Ads - AppNexus,language_missing,0.18601778656126483
+107,Ads - AppNexus,link_empty,11.301692193675889
+108,Ads - AppNexus,link_skip_broken,0.026309288537549408
+109,Ads - AppNexus,longdesc_invalid,0.01049901185770751
+110,Ads - AppNexus,marquee,0.002717391304347826
+111,Ads - AppNexus,meta_refresh,0.020565711462450592
+112,Ads - AppNexus,server_image_map,0.0
+113,Ads - AppNexus,th_empty,0.06182065217391304
+114,Ads - AppNexus,title_invalid,0.003458498023715415
+115,Ads - AdRoll,contrast,35.92880969815312
+116,Ads - AdRoll,alt_area_missing,0.06256610528028639
+117,Ads - AdRoll,alt_input_missing,0.06476283459441869
+118,Ads - AdRoll,alt_link_missing,6.434382881783419
+119,Ads - AdRoll,alt_map_missing,0.024896265560165973
+120,Ads - AdRoll,alt_missing,6.955170449922708
+121,Ads - AdRoll,alt_spacer_missing,1.3130746074363355
+122,Ads - AdRoll,aria_reference_broken,0.9056219998372793
+123,Ads - AdRoll,blink,0.0005695224147750387
+124,Ads - AdRoll,button_empty,1.1708567244325117
+125,Ads - AdRoll,heading_empty,0.5184281181352209
+126,Ads - AdRoll,label_empty,0.4508990318118949
+127,Ads - AdRoll,label_missing,3.303799528109999
+128,Ads - AdRoll,label_multiple,0.3509885281913595
+129,Ads - AdRoll,language_missing,0.28834106256610526
+130,Ads - AdRoll,link_empty,7.958587584411358
+131,Ads - AdRoll,link_skip_broken,0.025872589699780325
+132,Ads - AdRoll,longdesc_invalid,0.008461475876657716
+133,Ads - AdRoll,marquee,0.007159710357171914
+134,Ads - AdRoll,meta_refresh,0.00244081034903588
+135,Ads - AdRoll,server_image_map,0.0
+136,Ads - AdRoll,th_empty,0.049873891465299816
+137,Ads - AdRoll,title_invalid,0.007241070702139777
+138,Ads - VigLink,contrast,82.66359555870541
+139,Ads - VigLink,alt_area_missing,0.0392156862745098
+140,Ads - VigLink,alt_input_missing,0.07961256791873376
+141,Ads - VigLink,alt_link_missing,25.70198440822112
+142,Ads - VigLink,alt_map_missing,0.02303330970942594
+143,Ads - VigLink,alt_missing,9.285613040396882
+144,Ads - VigLink,alt_spacer_missing,1.396645405150012
+145,Ads - VigLink,aria_reference_broken,0.07784077486416253
+146,Ads - VigLink,blink,0.003661705646113867
+147,Ads - VigLink,button_empty,0.27923458540042523
+148,Ads - VigLink,heading_empty,0.2877391920623671
+149,Ads - VigLink,label_empty,0.086227261989133
+150,Ads - VigLink,label_missing,2.013111268603827
+151,Ads - VigLink,label_multiple,0.08551854476730451
+152,Ads - VigLink,language_missing,0.3613276635955587
+153,Ads - VigLink,link_empty,5.589534609024333
+154,Ads - VigLink,link_skip_broken,0.019489723600283487
+155,Ads - VigLink,longdesc_invalid,0.009213323883770375
+156,Ads - VigLink,marquee,0.025277580911882827
+157,Ads - VigLink,meta_refresh,0.002834868887313962
+158,Ads - VigLink,server_image_map,0.0
+159,Ads - VigLink,th_empty,0.04571226080793763
+160,Ads - VigLink,title_invalid,0.0074415308291991495
+161,Ads - Yandex.Direct,contrast,57.07326804497642
+162,Ads - Yandex.Direct,alt_area_missing,0.04298150163220892
+163,Ads - Yandex.Direct,alt_input_missing,0.1151614073268045
+164,Ads - Yandex.Direct,alt_link_missing,10.874501269495829
+165,Ads - Yandex.Direct,alt_map_missing,0.03373231773667029
+166,Ads - Yandex.Direct,alt_missing,9.55114254624592
+167,Ads - Yandex.Direct,alt_spacer_missing,2.224519405150526
+168,Ads - Yandex.Direct,aria_reference_broken,0.3228146536089953
+169,Ads - Yandex.Direct,blink,0.002720348204570185
+170,Ads - Yandex.Direct,button_empty,0.72506347479144
+171,Ads - Yandex.Direct,heading_empty,0.20311933260790715
+172,Ads - Yandex.Direct,label_empty,0.17174464998186434
+173,Ads - Yandex.Direct,label_missing,3.0527747551686617
+174,Ads - Yandex.Direct,label_multiple,0.06365614798694233
+175,Ads - Yandex.Direct,language_missing,0.48676097207109176
+176,Ads - Yandex.Direct,link_empty,7.661044613710555
+177,Ads - Yandex.Direct,link_skip_broken,0.00671019223793979
+178,Ads - Yandex.Direct,longdesc_invalid,0.020674646354733407
+179,Ads - Yandex.Direct,marquee,0.02176278563656148
+180,Ads - Yandex.Direct,meta_refresh,0.007072905331882481
+181,Ads - Yandex.Direct,server_image_map,0.0
+182,Ads - Yandex.Direct,th_empty,0.10972071091766412
+183,Ads - Yandex.Direct,title_invalid,0.008705114254624592
+184,ReCAPTCHA,contrast,42.03754306066445
+185,ReCAPTCHA,alt_area_missing,0.03777661003094529
+186,ReCAPTCHA,alt_input_missing,0.033202934937038985
+187,ReCAPTCHA,alt_link_missing,6.805511765049338
+188,ReCAPTCHA,alt_map_missing,0.00759035441116366
+189,ReCAPTCHA,alt_missing,5.456102450322104
+190,ReCAPTCHA,alt_spacer_missing,0.6070726533154279
+191,ReCAPTCHA,aria_reference_broken,0.9812576633385882
+192,ReCAPTCHA,blink,0.0002919367081216792
+193,ReCAPTCHA,button_empty,1.4209338082170453
+194,ReCAPTCHA,heading_empty,0.4879040890601584
+195,ReCAPTCHA,label_empty,0.3761701796383877
+196,ReCAPTCHA,label_missing,4.480527821568284
+197,ReCAPTCHA,label_multiple,0.3387828185516047
+198,ReCAPTCHA,language_missing,0.2054261302816216
+199,ReCAPTCHA,link_empty,10.39810435764193
+200,ReCAPTCHA,link_skip_broken,0.01771082695938187
+201,ReCAPTCHA,longdesc_invalid,0.01008154765380199
+202,ReCAPTCHA,marquee,0.00589712150405792
+203,ReCAPTCHA,meta_refresh,0.0034837780502520385
+204,ReCAPTCHA,server_image_map,0.0
+205,ReCAPTCHA,th_empty,0.04634008680251455
+206,ReCAPTCHA,title_invalid,0.009361437107101847
+207,CMS - Blogger,contrast,124.36085024739978
+208,CMS - Blogger,alt_area_missing,0.017166515197414925
+209,CMS - Blogger,alt_input_missing,0.026860547308896292
+210,CMS - Blogger,alt_link_missing,45.58633747349288
+211,CMS - Blogger,alt_map_missing,0.008482278097546198
+212,CMS - Blogger,alt_missing,11.780723013228314
+213,CMS - Blogger,alt_spacer_missing,0.7864788447945067
+214,CMS - Blogger,aria_reference_broken,0.02983944259315359
+215,CMS - Blogger,blink,0.001514692517418964
+216,CMS - Blogger,button_empty,0.757750176714127
+217,CMS - Blogger,heading_empty,0.2794102797132182
+218,CMS - Blogger,label_empty,0.04024033121276381
+219,CMS - Blogger,label_missing,1.3368676158739776
+220,CMS - Blogger,label_multiple,0.013228314652125619
+221,CMS - Blogger,language_missing,0.5676057760274664
+222,CMS - Blogger,link_empty,6.383823083913965
+223,CMS - Blogger,link_skip_broken,0.013076845400383723
+224,CMS - Blogger,longdesc_invalid,0.0014137130162576996
+225,CMS - Blogger,marquee,0.030293850348379277
+226,CMS - Blogger,meta_refresh,0.001969100272644653
+227,CMS - Blogger,server_image_map,0.0
+228,CMS - Blogger,th_empty,0.007977380591739877
+229,CMS - Blogger,title_invalid,0.0007068565081288498
+230,CMS - Elementor,contrast,30.34103277300762
+231,CMS - Elementor,alt_area_missing,0.02793566332083686
+232,CMS - Elementor,alt_input_missing,0.040996492925383966
+233,CMS - Elementor,alt_link_missing,5.109082113919459
+234,CMS - Elementor,alt_map_missing,0.013544564034345145
+235,CMS - Elementor,alt_missing,3.2529931067843756
+236,CMS - Elementor,alt_spacer_missing,0.8880154795017535
+237,CMS - Elementor,aria_reference_broken,0.30825976538880157
+238,CMS - Elementor,blink,0.0008465352521465716
+239,CMS - Elementor,button_empty,0.7690168097714355
+240,CMS - Elementor,heading_empty,0.45616156729955254
+241,CMS - Elementor,label_empty,0.20957794171000121
+242,CMS - Elementor,label_missing,1.7714354819204257
+243,CMS - Elementor,label_multiple,0.21574555568992623
+244,CMS - Elementor,language_missing,0.14548312976176078
+245,CMS - Elementor,link_empty,5.3932760914258076
+246,CMS - Elementor,link_skip_broken,0.01693070504293143
+247,CMS - Elementor,longdesc_invalid,0.007739750876768654
+248,CMS - Elementor,marquee,0.012456161567299553
+249,CMS - Elementor,meta_refresh,0.002176804934091184
+250,CMS - Elementor,server_image_map,0.0
+251,CMS - Elementor,th_empty,0.02261458459305841
+252,CMS - Elementor,title_invalid,0.018744709154674084
+253,CMS - 1C-Bitrix,contrast,46.430421172453045
+254,CMS - 1C-Bitrix,alt_area_missing,0.026465566306203756
+255,CMS - 1C-Bitrix,alt_input_missing,0.052788844621513946
+256,CMS - 1C-Bitrix,alt_link_missing,9.738616960728514
+257,CMS - 1C-Bitrix,alt_map_missing,0.006829823562891292
+258,CMS - 1C-Bitrix,alt_missing,7.35486624928856
+259,CMS - 1C-Bitrix,alt_spacer_missing,0.4474957313602732
+260,CMS - 1C-Bitrix,aria_reference_broken,1.8599886169607285
+261,CMS - 1C-Bitrix,blink,0.00042686397268070576
+262,CMS - 1C-Bitrix,button_empty,1.9766647694934547
+263,CMS - 1C-Bitrix,heading_empty,0.3594194649971542
+264,CMS - 1C-Bitrix,label_empty,0.5515082527034718
+265,CMS - 1C-Bitrix,label_missing,7.410500853727945
+266,CMS - 1C-Bitrix,label_multiple,0.19749573136027318
+267,CMS - 1C-Bitrix,language_missing,0.4396698918611269
+268,CMS - 1C-Bitrix,link_empty,14.548520204894707
+269,CMS - 1C-Bitrix,link_skip_broken,0.0
+270,CMS - 1C-Bitrix,longdesc_invalid,0.0008537279453614115
+271,CMS - 1C-Bitrix,marquee,0.007541263517359135
+272,CMS - 1C-Bitrix,meta_refresh,0.00199203187250996
+273,CMS - 1C-Bitrix,server_image_map,0.0
+274,CMS - 1C-Bitrix,th_empty,0.05036994877632328
+275,CMS - 1C-Bitrix,title_invalid,0.015651678998292545
+276,CMS - Drupal,contrast,33.3736847006239
+277,CMS - Drupal,alt_area_missing,0.03280876555855604
+278,CMS - Drupal,alt_input_missing,0.03935810286494708
+279,CMS - Drupal,alt_link_missing,7.751466617003445
+280,CMS - Drupal,alt_map_missing,0.007511562218704411
+281,CMS - Drupal,alt_missing,3.699196076605519
+282,CMS - Drupal,alt_spacer_missing,0.21718347456311884
+283,CMS - Drupal,aria_reference_broken,0.8890337399509576
+284,CMS - Drupal,blink,0.0001241580532017258
+285,CMS - Drupal,button_empty,1.619641804016513
+286,CMS - Drupal,heading_empty,0.49678741037340535
+287,CMS - Drupal,label_empty,0.1556321196883633
+288,CMS - Drupal,label_missing,1.4801812707576745
+289,CMS - Drupal,label_multiple,0.3060806406555545
+290,CMS - Drupal,language_missing,0.19610764503212588
+291,CMS - Drupal,link_empty,7.346214731353013
+292,CMS - Drupal,link_skip_broken,0.16093987646273705
+293,CMS - Drupal,longdesc_invalid,0.02504888723344818
+294,CMS - Drupal,marquee,0.004469689915262129
+295,CMS - Drupal,meta_refresh,0.005400875314275072
+296,CMS - Drupal,server_image_map,0.0
+297,CMS - Drupal,th_empty,0.032591488965453025
+298,CMS - Drupal,title_invalid,0.001179501505416395
+299,CMS - Joomla,contrast,31.643216788141263
+300,CMS - Joomla,alt_area_missing,0.032463645646280063
+301,CMS - Joomla,alt_input_missing,0.05277983169606704
+302,CMS - Joomla,alt_link_missing,4.62078800042252
+303,CMS - Joomla,alt_map_missing,0.008344776592373508
+304,CMS - Joomla,alt_missing,3.3969578535967044
+305,CMS - Joomla,alt_spacer_missing,0.39614802295693813
+306,CMS - Joomla,aria_reference_broken,0.08439843667476497
+307,CMS - Joomla,blink,0.0007042005563184395
+308,CMS - Joomla,button_empty,0.5458610612302384
+309,CMS - Joomla,heading_empty,0.33241787261011935
+310,CMS - Joomla,label_empty,0.11830569346149783
+311,CMS - Joomla,label_missing,1.7812753072074927
+312,CMS - Joomla,label_multiple,0.09337699376782507
+313,CMS - Joomla,language_missing,0.07605366008239146
+314,CMS - Joomla,link_empty,6.3301292208020845
+315,CMS - Joomla,link_skip_broken,0.010386958205696982
+316,CMS - Joomla,longdesc_invalid,0.06770888349001795
+317,CMS - Joomla,marquee,0.012429139819020458
+318,CMS - Joomla,meta_refresh,0.002535122002746382
+319,CMS - Joomla,server_image_map,0.0
+320,CMS - Joomla,th_empty,0.015492412239005668
+321,CMS - Joomla,title_invalid,0.0034153726981444314
+322,CMS - Rocket,contrast,44.07293201431278
+323,CMS - Rocket,alt_area_missing,0.017364765312565776
+324,CMS - Rocket,alt_input_missing,0.006630183119343296
+325,CMS - Rocket,alt_link_missing,5.442959376973269
+326,CMS - Rocket,alt_map_missing,0.00431488107766786
+327,CMS - Rocket,alt_missing,2.6895390444117027
+328,CMS - Rocket,alt_spacer_missing,0.3938118290886129
+329,CMS - Rocket,aria_reference_broken,0.7365817722584719
+330,CMS - Rocket,blink,0.0
+331,CMS - Rocket,button_empty,1.075036834350663
+332,CMS - Rocket,heading_empty,0.40801936434434855
+333,CMS - Rocket,label_empty,0.3838139339086508
+334,CMS - Rocket,label_missing,2.5558829720058935
+335,CMS - Rocket,label_multiple,0.3272995158913913
+336,CMS - Rocket,language_missing,0.030309408545569353
+337,CMS - Rocket,link_empty,11.34740054725321
+338,CMS - Rocket,link_skip_broken,0.011892233214060199
+339,CMS - Rocket,longdesc_invalid,0.0006314460113660282
+340,CMS - Rocket,marquee,0.0022100610397810987
+341,CMS - Rocket,meta_refresh,0.006314460113660282
+342,CMS - Rocket,server_image_map,0.0
+343,CMS - Rocket,th_empty,0.01978530835613555
+344,CMS - Rocket,title_invalid,0.0022100610397810987
+345,CMS - Squarespace,contrast,18.21821442805899
+346,CMS - Squarespace,alt_area_missing,0.02411319250697489
+347,CMS - Squarespace,alt_input_missing,0.03318055001992826
+348,CMS - Squarespace,alt_link_missing,2.0944599442008767
+349,CMS - Squarespace,alt_map_missing,0.01145874850538063
+350,CMS - Squarespace,alt_missing,3.5255081705858906
+351,CMS - Squarespace,alt_spacer_missing,0.7031685930649662
+352,CMS - Squarespace,aria_reference_broken,0.007971303308090873
+353,CMS - Squarespace,blink,0.0006974890394579514
+354,CMS - Squarespace,button_empty,0.7722200079713033
+355,CMS - Squarespace,heading_empty,0.1828417696293344
+356,CMS - Squarespace,label_empty,0.18712634515743323
+357,CMS - Squarespace,label_missing,0.7970306895177361
+358,CMS - Squarespace,label_multiple,0.1293343961737744
+359,CMS - Squarespace,language_missing,0.11279394180948585
+360,CMS - Squarespace,link_empty,5.864188919888401
+361,CMS - Squarespace,link_skip_broken,0.0020924671183738543
+362,CMS - Squarespace,longdesc_invalid,0.006377042646472699
+363,CMS - Squarespace,marquee,0.00657632522917497
+364,CMS - Squarespace,meta_refresh,0.0015942606616181746
+365,CMS - Squarespace,server_image_map,0.0
+366,CMS - Squarespace,th_empty,0.01315265045834994
+367,CMS - Squarespace,title_invalid,0.006974890394579514
+368,CMS - TYPO3 CMS,contrast,31.26994520914072
+369,CMS - TYPO3 CMS,alt_area_missing,0.029132700788453827
+370,CMS - TYPO3 CMS,alt_input_missing,0.04677268475210477
+371,CMS - TYPO3 CMS,alt_link_missing,6.6351730589335824
+372,CMS - TYPO3 CMS,alt_map_missing,0.006548175865294668
+373,CMS - TYPO3 CMS,alt_missing,3.269945209140719
+374,CMS - TYPO3 CMS,alt_spacer_missing,0.1289589736736603
+375,CMS - TYPO3 CMS,aria_reference_broken,1.1761325671522116
+376,CMS - TYPO3 CMS,blink,0.0006681812107443538
+377,CMS - TYPO3 CMS,button_empty,1.4296405185086196
+378,CMS - TYPO3 CMS,heading_empty,0.47681411198717094
+379,CMS - TYPO3 CMS,label_empty,0.255378858746492
+380,CMS - TYPO3 CMS,label_missing,2.3596151276226114
+381,CMS - TYPO3 CMS,label_multiple,0.22651343044233596
+382,CMS - TYPO3 CMS,language_missing,0.08419083255378859
+383,CMS - TYPO3 CMS,link_empty,8.660029399973272
+384,CMS - TYPO3 CMS,link_skip_broken,0.00855271949752773
+385,CMS - TYPO3 CMS,longdesc_invalid,0.00841908325537886
+386,CMS - TYPO3 CMS,marquee,0.003073633569424028
+387,CMS - TYPO3 CMS,meta_refresh,0.0014699986636375784
+388,CMS - TYPO3 CMS,server_image_map,0.0
+389,CMS - TYPO3 CMS,th_empty,0.08819991981825472
+390,CMS - TYPO3 CMS,title_invalid,0.004944540959508218
+391,CMS - Weebly,contrast,23.59850963286078
+392,CMS - Weebly,alt_area_missing,0.027081061432206472
+393,CMS - Weebly,alt_input_missing,0.06397673573246092
+394,CMS - Weebly,alt_link_missing,3.911668484187568
+395,CMS - Weebly,alt_map_missing,0.019447473645946928
+396,CMS - Weebly,alt_missing,5.414940021810251
+397,CMS - Weebly,alt_spacer_missing,1.3725917848055254
+398,CMS - Weebly,aria_reference_broken,0.005089058524173028
+399,CMS - Weebly,blink,0.001272264631043257
+400,CMS - Weebly,button_empty,0.23227917121046893
+401,CMS - Weebly,heading_empty,0.2010178117048346
+402,CMS - Weebly,label_empty,0.47946201381315884
+403,CMS - Weebly,label_missing,1.148491457651763
+404,CMS - Weebly,label_multiple,0.06670301708469648
+405,CMS - Weebly,language_missing,0.29571065067248276
+406,CMS - Weebly,link_empty,4.089058524173028
+407,CMS - Weebly,link_skip_broken,0.004180298073427844
+408,CMS - Weebly,longdesc_invalid,0.011813885859687387
+409,CMS - Weebly,marquee,0.01653944020356234
+410,CMS - Weebly,meta_refresh,0.0030897855325336242
+411,CMS - Weebly,server_image_map,0.0
+412,CMS - Weebly,th_empty,0.021628498727735368
+413,CMS - Weebly,title_invalid,0.004907306434023991
+414,CMS - Wix,contrast,24.110299358517462
+415,CMS - Wix,alt_area_missing,0.025837491090520314
+416,CMS - Wix,alt_input_missing,0.05880256593014968
+417,CMS - Wix,alt_link_missing,2.9071632216678545
+418,CMS - Wix,alt_map_missing,0.01870990734141126
+419,CMS - Wix,alt_missing,3.161617961511048
+420,CMS - Wix,alt_spacer_missing,1.1425516749821811
+421,CMS - Wix,aria_reference_broken,0.0032074126870990736
+422,CMS - Wix,blink,0.0012473271560940842
+423,CMS - Wix,button_empty,0.20883820384889523
+424,CMS - Wix,heading_empty,0.38720598717034926
+425,CMS - Wix,label_empty,0.10727013542409124
+426,CMS - Wix,label_missing,1.248039914468995
+427,CMS - Wix,label_multiple,0.01300784034212402
+428,CMS - Wix,language_missing,0.20135424091233073
+429,CMS - Wix,link_empty,1.6609052031361369
+430,CMS - Wix,link_skip_broken,0.0037419814682822525
+431,CMS - Wix,longdesc_invalid,0.011404133998574484
+432,CMS - Wix,marquee,0.01158232359230221
+433,CMS - Wix,meta_refresh,0.0026728439059158947
+434,CMS - Wix,server_image_map,0.0
+435,CMS - Wix,th_empty,0.021026372059871703
+436,CMS - Wix,title_invalid,0.004454739843193158
+437,CMS - WordPress,contrast,38.27400921718062
+438,CMS - WordPress,alt_area_missing,0.025170979341465134
+439,CMS - WordPress,alt_input_missing,0.013431573009941479
+440,CMS - WordPress,alt_link_missing,6.30880759936672
+441,CMS - WordPress,alt_map_missing,0.004425913225179953
+442,CMS - WordPress,alt_missing,2.5779742713748215
+443,CMS - WordPress,alt_spacer_missing,0.29208463397281
+444,CMS - WordPress,aria_reference_broken,0.4462512739323005
+445,CMS - WordPress,blink,0.00017626736233519
+446,CMS - WordPress,button_empty,0.7311153557716344
+447,CMS - WordPress,heading_empty,0.41003954798638576
+448,CMS - WordPress,label_empty,0.163765199053925
+449,CMS - WordPress,label_missing,1.8672354226891348
+450,CMS - WordPress,label_multiple,0.1518142718875991
+451,CMS - WordPress,language_missing,0.057584944844339896
+452,CMS - WordPress,link_empty,8.50159922570555
+453,CMS - WordPress,link_skip_broken,0.01754981956631819
+454,CMS - WordPress,longdesc_invalid,0.0016120451500836468
+455,CMS - WordPress,marquee,0.005182260452654587
+456,CMS - WordPress,meta_refresh,0.0029003993256972176
+457,CMS - WordPress,server_image_map,0.0
+458,CMS - WordPress,th_empty,0.01894713902046624
+459,CMS - WordPress,title_invalid,0.012566260503932364
+460,Frameworks - Angular,contrast,38.592476069348685
+461,Frameworks - Angular,alt_area_missing,0.014324921346810363
+462,Frameworks - Angular,alt_input_missing,0.012249815918066806
+463,Frameworks - Angular,alt_link_missing,5.02684249280407
+464,Frameworks - Angular,alt_map_missing,0.0036816386638998592
+465,Frameworks - Angular,alt_missing,9.573800120489993
+466,Frameworks - Angular,alt_spacer_missing,0.37559408260258387
+467,Frameworks - Angular,aria_reference_broken,1.0333355646294933
+468,Frameworks - Angular,blink,6.693888479817926e-05
+469,Frameworks - Angular,button_empty,1.9281745766115537
+470,Frameworks - Angular,heading_empty,0.6529218823214405
+471,Frameworks - Angular,label_empty,0.33623401834125444
+472,Frameworks - Angular,label_missing,3.3735189771738403
+473,Frameworks - Angular,label_multiple,0.346140973291385
+474,Frameworks - Angular,language_missing,0.3515630229600375
+475,Frameworks - Angular,link_empty,9.16031862909164
+476,Frameworks - Angular,link_skip_broken,0.02262534306178459
+477,Frameworks - Angular,longdesc_invalid,0.0016065332351563022
+478,Frameworks - Angular,marquee,0.0052881718990561615
+479,Frameworks - Angular,meta_refresh,0.0036816386638998592
+480,Frameworks - Angular,server_image_map,0.0
+481,Frameworks - Angular,th_empty,0.10034138831247072
+482,Frameworks - Angular,title_invalid,0.007965727290983332
+483,Frameworks - Backbone.js,contrast,40.120777846370935
+484,Frameworks - Backbone.js,alt_area_missing,0.04427198165623071
+485,Frameworks - Backbone.js,alt_input_missing,0.0210776964458947
+486,Frameworks - Backbone.js,alt_link_missing,5.759105741247024
+487,Frameworks - Backbone.js,alt_map_missing,0.021342270041449864
+488,Frameworks - Backbone.js,alt_missing,5.669635770350119
+489,Frameworks - Backbone.js,alt_spacer_missing,0.5166681365199753
+490,Frameworks - Backbone.js,aria_reference_broken,0.46684010935708614
+491,Frameworks - Backbone.js,blink,0.0003968603933327454
+492,Frameworks - Backbone.js,button_empty,1.211438398447835
+493,Frameworks - Backbone.js,heading_empty,0.5276038451362554
+494,Frameworks - Backbone.js,label_empty,0.28375518123291293
+495,Frameworks - Backbone.js,label_missing,2.4620777846370934
+496,Frameworks - Backbone.js,label_multiple,0.2420848399329747
+497,Frameworks - Backbone.js,language_missing,0.25844430725813566
+498,Frameworks - Backbone.js,link_empty,11.575976717523591
+499,Frameworks - Backbone.js,link_skip_broken,0.022356468824411325
+500,Frameworks - Backbone.js,longdesc_invalid,0.00414498633036423
+501,Frameworks - Backbone.js,marquee,0.005203280712584884
+502,Frameworks - Backbone.js,meta_refresh,0.005070993914807302
+503,Frameworks - Backbone.js,server_image_map,0.0
+504,Frameworks - Backbone.js,th_empty,0.03928917893994179
+505,Frameworks - Backbone.js,title_invalid,0.01882882088367581
+506,Frameworks - Handlebars,contrast,38.86123995557588
+507,Frameworks - Handlebars,alt_area_missing,0.10524596589795518
+508,Frameworks - Handlebars,alt_input_missing,0.03691121709022016
+509,Frameworks - Handlebars,alt_link_missing,6.640491278500033
+510,Frameworks - Handlebars,alt_map_missing,0.014829816423858366
+511,Frameworks - Handlebars,alt_missing,7.3553276278826685
+512,Frameworks - Handlebars,alt_spacer_missing,0.7237865029071666
+513,Frameworks - Handlebars,aria_reference_broken,1.3043052198340628
+514,Frameworks - Handlebars,blink,0.0005226367021624093
+515,Frameworks - Handlebars,button_empty,1.9256549291173972
+516,Frameworks - Handlebars,heading_empty,0.6314757953877311
+517,Frameworks - Handlebars,label_empty,0.4272555040177696
+518,Frameworks - Handlebars,label_missing,3.8198863265172798
+519,Frameworks - Handlebars,label_multiple,0.4083752531521526
+520,Frameworks - Handlebars,language_missing,0.29483242960736916
+521,Frameworks - Handlebars,link_empty,10.785914940876722
+522,Frameworks - Handlebars,link_skip_broken,0.05193702227738943
+523,Frameworks - Handlebars,longdesc_invalid,0.007970209707976742
+524,Frameworks - Handlebars,marquee,0.006467629189259816
+525,Frameworks - Handlebars,meta_refresh,0.004246423205069576
+526,Frameworks - Handlebars,server_image_map,0.0
+527,Frameworks - Handlebars,th_empty,0.03828313843339649
+528,Frameworks - Handlebars,title_invalid,0.004769059907231986
+529,Frameworks - Knockout.js,contrast,37.4311666193585
+530,Frameworks - Knockout.js,alt_area_missing,0.04584161226227647
+531,Frameworks - Knockout.js,alt_input_missing,0.05194436559750213
+532,Frameworks - Knockout.js,alt_link_missing,5.8732614249219415
+533,Frameworks - Knockout.js,alt_map_missing,0.04938972466647743
+534,Frameworks - Knockout.js,alt_missing,8.65483962531933
+535,Frameworks - Knockout.js,alt_spacer_missing,1.0283848992336078
+536,Frameworks - Knockout.js,aria_reference_broken,0.5178824865171728
+537,Frameworks - Knockout.js,blink,0.0009934714731762702
+538,Frameworks - Knockout.js,button_empty,0.974169741697417
+539,Frameworks - Knockout.js,heading_empty,0.4202384331535623
+540,Frameworks - Knockout.js,label_empty,0.2540448481407891
+541,Frameworks - Knockout.js,label_missing,2.848992336077207
+542,Frameworks - Knockout.js,label_multiple,0.17172864036332672
+543,Frameworks - Knockout.js,language_missing,0.5312233891569685
+544,Frameworks - Knockout.js,link_empty,6.607720692591541
+545,Frameworks - Knockout.js,link_skip_broken,0.01518592108998013
+546,Frameworks - Knockout.js,longdesc_invalid,0.009650865739426626
+547,Frameworks - Knockout.js,marquee,0.010786261708770934
+548,Frameworks - Knockout.js,meta_refresh,0.005251206358217428
+549,Frameworks - Knockout.js,server_image_map,0.0
+550,Frameworks - Knockout.js,th_empty,0.06273062730627306
+551,Frameworks - Knockout.js,title_invalid,0.005960828839057622
+552,Frameworks - MooTools,contrast,33.551437132393744
+553,Frameworks - MooTools,alt_area_missing,0.031849961158583955
+554,Frameworks - MooTools,alt_input_missing,0.07568527355454445
+555,Frameworks - MooTools,alt_link_missing,5.306514260348463
+556,Frameworks - MooTools,alt_map_missing,0.01069063736914142
+557,Frameworks - MooTools,alt_missing,3.8666814633965894
+558,Frameworks - MooTools,alt_spacer_missing,0.4774904746051123
+559,Frameworks - MooTools,aria_reference_broken,0.06358894684274775
+560,Frameworks - MooTools,blink,0.00129471386823512
+561,Frameworks - MooTools,button_empty,0.49539451781156363
+562,Frameworks - MooTools,heading_empty,0.3737653978470758
+563,Frameworks - MooTools,label_empty,0.10956978507749787
+564,Frameworks - MooTools,label_missing,1.8474827063219028
+565,Frameworks - MooTools,label_multiple,0.08382347501202235
+566,Frameworks - MooTools,language_missing,0.12473643324825213
+567,Frameworks - MooTools,link_empty,5.7401694225576145
+568,Frameworks - MooTools,link_skip_broken,0.013871934302519144
+569,Frameworks - MooTools,longdesc_invalid,0.08859542041208893
+570,Frameworks - MooTools,marquee,0.01520363999556098
+571,Frameworks - MooTools,meta_refresh,0.0030333296341508525
+572,Frameworks - MooTools,server_image_map,0.0
+573,Frameworks - MooTools,th_empty,0.027928827729071876
+574,Frameworks - MooTools,title_invalid,0.004402027151999408
+575,Frameworks - Mustache,contrast,38.25883250021181
+576,Frameworks - Mustache,alt_area_missing,0.02109633144115903
+577,Frameworks - Mustache,alt_input_missing,0.0343980343980344
+578,Frameworks - Mustache,alt_link_missing,5.103533000084724
+579,Frameworks - Mustache,alt_map_missing,0.012115563839701771
+580,Frameworks - Mustache,alt_missing,6.1926628823180545
+581,Frameworks - Mustache,alt_spacer_missing,0.8705413877827671
+582,Frameworks - Mustache,aria_reference_broken,0.7756502584088791
+583,Frameworks - Mustache,blink,0.0005930695585868
+584,Frameworks - Mustache,button_empty,1.2134203168685926
+585,Frameworks - Mustache,heading_empty,0.42090993815131744
+586,Frameworks - Mustache,label_empty,0.48343641447089725
+587,Frameworks - Mustache,label_missing,2.869524697110904
+588,Frameworks - Mustache,label_multiple,0.23265271541133611
+589,Frameworks - Mustache,language_missing,0.2190121155638397
+590,Frameworks - Mustache,link_empty,8.632805219012116
+591,Frameworks - Mustache,link_skip_broken,0.049224773362704394
+592,Frameworks - Mustache,longdesc_invalid,0.007032110480386342
+593,Frameworks - Mustache,marquee,0.009319664492078284
+594,Frameworks - Mustache,meta_refresh,0.013725324070151656
+595,Frameworks - Mustache,server_image_map,0.0
+596,Frameworks - Mustache,th_empty,0.033042446835550285
+597,Frameworks - Mustache,title_invalid,0.004575108023383886
+598,Frameworks - Prototype,contrast,43.3042570951586
+599,Frameworks - Prototype,alt_area_missing,0.05279632721202003
+600,Frameworks - Prototype,alt_input_missing,0.07032554257095158
+601,Frameworks - Prototype,alt_link_missing,8.426752921535893
+602,Frameworks - Prototype,alt_map_missing,0.03011964385086255
+603,Frameworks - Prototype,alt_missing,6.915901502504173
+604,Frameworks - Prototype,alt_spacer_missing,0.9021285475792988
+605,Frameworks - Prototype,aria_reference_broken,0.6626321647189761
+606,Frameworks - Prototype,blink,0.0006956037840845854
+607,Frameworks - Prototype,button_empty,0.9847662771285476
+608,Frameworks - Prototype,heading_empty,0.4019894268224819
+609,Frameworks - Prototype,label_empty,0.2300361713967724
+610,Frameworks - Prototype,label_missing,2.5991235392320533
+611,Frameworks - Prototype,label_multiple,0.2006816917084029
+612,Frameworks - Prototype,language_missing,0.2598775737340011
+613,Frameworks - Prototype,link_empty,8.92146633277685
+614,Frameworks - Prototype,link_skip_broken,0.01718141346688926
+615,Frameworks - Prototype,longdesc_invalid,0.0219810795770729
+616,Frameworks - Prototype,marquee,0.014885920979410128
+617,Frameworks - Prototype,meta_refresh,0.004521424596549806
+618,Frameworks - Prototype,server_image_map,0.0
+619,Frameworks - Prototype,th_empty,0.14684195882025597
+620,Frameworks - Prototype,title_invalid,0.003964941569282137
+621,Frameworks - React,contrast,43.22963078848561
+622,Frameworks - React,alt_area_missing,0.02190237797246558
+623,Frameworks - React,alt_input_missing,0.021808510638297873
+624,Frameworks - React,alt_link_missing,5.287515644555695
+625,Frameworks - React,alt_map_missing,0.008229036295369212
+626,Frameworks - React,alt_missing,4.434668335419274
+627,Frameworks - React,alt_spacer_missing,0.6273153942428035
+628,Frameworks - React,aria_reference_broken,0.5141426783479349
+629,Frameworks - React,blink,0.00043804755944931164
+630,Frameworks - React,button_empty,1.2068523153942428
+631,Frameworks - React,heading_empty,0.4899874843554443
+632,Frameworks - React,label_empty,0.25381727158948686
+633,Frameworks - React,label_missing,2.2200250312891114
+634,Frameworks - React,label_multiple,0.23050688360450564
+635,Frameworks - React,language_missing,0.17124530663329163
+636,Frameworks - React,link_empty,6.673466833541927
+637,Frameworks - React,link_skip_broken,0.020901126408010014
+638,Frameworks - React,longdesc_invalid,0.007384230287859825
+639,Frameworks - React,marquee,0.0031914893617021275
+640,Frameworks - React,meta_refresh,0.006695869837296621
+641,Frameworks - React,server_image_map,0.0
+642,Frameworks - React,th_empty,0.030037546933667083
+643,Frameworks - React,title_invalid,0.012609511889862328
+644,Frameworks - RequireJS,contrast,38.30654761904762
+645,Frameworks - RequireJS,alt_area_missing,0.03869047619047619
+646,Frameworks - RequireJS,alt_input_missing,0.02801398337112623
+647,Frameworks - RequireJS,alt_link_missing,7.3535525321239605
+648,Frameworks - RequireJS,alt_map_missing,0.010818216175359033
+649,Frameworks - RequireJS,alt_missing,9.46792328042328
+650,Frameworks - RequireJS,alt_spacer_missing,0.6857520786092215
+651,Frameworks - RequireJS,aria_reference_broken,1.0055744520030234
+652,Frameworks - RequireJS,blink,0.0003779289493575208
+653,Frameworks - RequireJS,button_empty,1.3950774754346182
+654,Frameworks - RequireJS,heading_empty,0.6424319727891157
+655,Frameworks - RequireJS,label_empty,0.5395880574452003
+656,Frameworks - RequireJS,label_missing,2.3515684051398336
+657,Frameworks - RequireJS,label_multiple,0.3026266061980348
+658,Frameworks - RequireJS,language_missing,0.1769652305366591
+659,Frameworks - RequireJS,link_empty,8.701058201058201
+660,Frameworks - RequireJS,link_skip_broken,0.029572940287226002
+661,Frameworks - RequireJS,longdesc_invalid,0.006046863189720333
+662,Frameworks - RequireJS,marquee,0.016392668178382464
+663,Frameworks - RequireJS,meta_refresh,0.005054799697656841
+664,Frameworks - RequireJS,server_image_map,0.0
+665,Frameworks - RequireJS,th_empty,0.0629724111866969
+666,Frameworks - RequireJS,title_invalid,0.00458238851095994
+667,Frameworks - TweenMax,contrast,32.73905123633827
+668,Frameworks - TweenMax,alt_area_missing,0.0198046663049376
+669,Frameworks - TweenMax,alt_input_missing,0.020037206418107124
+670,Frameworks - TweenMax,alt_link_missing,4.944694209751182
+671,Frameworks - TweenMax,alt_map_missing,0.006433609797690101
+672,Frameworks - TweenMax,alt_missing,4.697155259282226
+673,Frameworks - TweenMax,alt_spacer_missing,0.6352995891791334
+674,Frameworks - TweenMax,aria_reference_broken,0.8060615456166189
+675,Frameworks - TweenMax,blink,0.00027129679869777537
+676,Frameworks - TweenMax,button_empty,1.172040927059918
+677,Frameworks - TweenMax,heading_empty,0.6217735059297729
+678,Frameworks - TweenMax,label_empty,0.30699170606929693
+679,Frameworks - TweenMax,label_missing,2.3446632044027593
+680,Frameworks - TweenMax,label_multiple,0.18064491124719015
+681,Frameworks - TweenMax,language_missing,0.12564917448259824
+682,Frameworks - TweenMax,link_empty,9.63871017750562
+683,Frameworks - TweenMax,link_skip_broken,0.01154949228741958
+684,Frameworks - TweenMax,longdesc_invalid,0.0026354546159212465
+685,Frameworks - TweenMax,marquee,0.0048833423765599565
+686,Frameworks - TweenMax,meta_refresh,0.0022866444461669636
+687,Frameworks - TweenMax,server_image_map,0.0
+688,Frameworks - TweenMax,th_empty,0.023602821486706456
+689,Frameworks - TweenMax,title_invalid,0.0047670723199751954
+690,Frameworks - Vue.js,contrast,41.09142943214339
+691,Frameworks - Vue.js,alt_area_missing,0.0447356529597831
+692,Frameworks - Vue.js,alt_input_missing,0.05573128483205302
+693,Frameworks - Vue.js,alt_link_missing,6.701009188130743
+694,Frameworks - Vue.js,alt_map_missing,0.02003313752071095
+695,Frameworks - Vue.js,alt_missing,8.657327910829943
+696,Frameworks - Vue.js,alt_spacer_missing,1.2443139026961891
+697,Frameworks - Vue.js,aria_reference_broken,0.9624943515589697
+698,Frameworks - Vue.js,blink,0.0010543756589847869
+699,Frameworks - Vue.js,button_empty,1.5324597077873174
+700,Frameworks - Vue.js,heading_empty,0.4688959180599488
+701,Frameworks - Vue.js,label_empty,0.30908269317668324
+702,Frameworks - Vue.js,label_missing,3.397951498719687
+703,Frameworks - Vue.js,label_multiple,0.24295827684892304
+704,Frameworks - Vue.js,language_missing,0.33303208314505195
+705,Frameworks - Vue.js,link_empty,8.485163428227143
+706,Frameworks - Vue.js,link_skip_broken,0.012803133001958126
+707,Frameworks - Vue.js,longdesc_invalid,0.010091881307425818
+708,Frameworks - Vue.js,marquee,0.012501882813676759
+709,Frameworks - Vue.js,meta_refresh,0.00512125320078325
+710,Frameworks - Vue.js,server_image_map,0.0
+711,Frameworks - Vue.js,th_empty,0.06296128935080585
+712,Frameworks - Vue.js,title_invalid,0.006025003765627353
+713,Libraries - Dojo,contrast,36.16931514554915
+714,Libraries - Dojo,alt_area_missing,0.04415693995218675
+715,Libraries - Dojo,alt_input_missing,0.06286035719308114
+716,Libraries - Dojo,alt_link_missing,8.087188862325974
+717,Libraries - Dojo,alt_map_missing,0.025875404303192236
+718,Libraries - Dojo,alt_missing,6.29798903107861
+719,Libraries - Dojo,alt_spacer_missing,1.1515961186893546
+720,Libraries - Dojo,aria_reference_broken,1.1120798762480664
+721,Libraries - Dojo,blink,0.0025312895513992404
+722,Libraries - Dojo,button_empty,0.9585149767965124
+723,Libraries - Dojo,heading_empty,0.4470538602165659
+724,Libraries - Dojo,label_empty,0.2230347349177331
+725,Libraries - Dojo,label_missing,2.6196034313036143
+726,Libraries - Dojo,label_multiple,0.27239488117001825
+727,Libraries - Dojo,language_missing,0.2992546758543102
+728,Libraries - Dojo,link_empty,8.577555899310926
+729,Libraries - Dojo,link_skip_broken,0.01926592603009422
+730,Libraries - Dojo,longdesc_invalid,0.011672057375896498
+731,Libraries - Dojo,marquee,0.015187737308395444
+732,Libraries - Dojo,meta_refresh,0.004640697510898608
+733,Libraries - Dojo,server_image_map,0.0
+734,Libraries - Dojo,th_empty,0.02826606665729152
+735,Libraries - Dojo,title_invalid,0.00773449585149768
+736,Libraries - FancyBox,contrast,39.76735767693951
+737,Libraries - FancyBox,alt_area_missing,0.043181548443248806
+738,Libraries - FancyBox,alt_input_missing,0.03485381967796811
+739,Libraries - FancyBox,alt_link_missing,7.417098548087194
+740,Libraries - FancyBox,alt_map_missing,0.01188827788107766
+741,Libraries - FancyBox,alt_missing,6.428531866914587
+742,Libraries - FancyBox,alt_spacer_missing,0.5936424417454603
+743,Libraries - FancyBox,aria_reference_broken,1.0496300985085256
+744,Libraries - FancyBox,blink,0.001720932072635202
+745,Libraries - FancyBox,button_empty,1.2668038137437196
+746,Libraries - FancyBox,heading_empty,0.4641769197293983
+747,Libraries - FancyBox,label_empty,0.499584602603157
+748,Libraries - FancyBox,label_missing,4.028128338014796
+749,Libraries - FancyBox,label_multiple,0.34228745499861535
+750,Libraries - FancyBox,language_missing,0.25420342603948254
+751,Libraries - FancyBox,link_empty,11.521936938718994
+752,Libraries - FancyBox,link_skip_broken,0.01119594888633936
+753,Libraries - FancyBox,longdesc_invalid,0.009158523558966649
+754,Libraries - FancyBox,marquee,0.011255291371602643
+755,Libraries - FancyBox,meta_refresh,0.00504411124737904
+756,Libraries - FancyBox,server_image_map,0.0
+757,Libraries - FancyBox,th_empty,0.056335799343276496
+758,Libraries - FancyBox,title_invalid,0.005696878585275151
+759,Libraries - Fingerprintjs,contrast,47.001128158844764
+760,Libraries - Fingerprintjs,alt_area_missing,0.04332129963898917
+761,Libraries - Fingerprintjs,alt_input_missing,0.05956678700361011
+762,Libraries - Fingerprintjs,alt_link_missing,8.604693140794224
+763,Libraries - Fingerprintjs,alt_map_missing,0.019517148014440433
+764,Libraries - Fingerprintjs,alt_missing,8.077391696750903
+765,Libraries - Fingerprintjs,alt_spacer_missing,1.1746389891696751
+766,Libraries - Fingerprintjs,aria_reference_broken,0.9258799638989169
+767,Libraries - Fingerprintjs,blink,0.0018050541516245488
+768,Libraries - Fingerprintjs,button_empty,1.1494810469314078
+769,Libraries - Fingerprintjs,heading_empty,0.4705550541516246
+770,Libraries - Fingerprintjs,label_empty,0.36823104693140796
+771,Libraries - Fingerprintjs,label_missing,3.4523916967509027
+772,Libraries - Fingerprintjs,label_multiple,0.29129061371841153
+773,Libraries - Fingerprintjs,language_missing,0.3303249097472924
+774,Libraries - Fingerprintjs,link_empty,9.729241877256317
+775,Libraries - Fingerprintjs,link_skip_broken,0.015681407942238268
+776,Libraries - Fingerprintjs,longdesc_invalid,0.012522563176895306
+777,Libraries - Fingerprintjs,marquee,0.013876353790613718
+778,Libraries - Fingerprintjs,meta_refresh,0.008461191335740073
+779,Libraries - Fingerprintjs,server_image_map,0.0
+780,Libraries - Fingerprintjs,th_empty,0.03824458483754513
+781,Libraries - Fingerprintjs,title_invalid,0.005753610108303249
+782,Libraries - Flickity,contrast,34.88613631076995
+783,Libraries - Flickity,alt_area_missing,0.03035589672016748
+784,Libraries - Flickity,alt_input_missing,0.04082344731332868
+785,Libraries - Flickity,alt_link_missing,6.2941381716678295
+786,Libraries - Flickity,alt_map_missing,0.01360781577110956
+787,Libraries - Flickity,alt_missing,5.646894626657362
+788,Libraries - Flickity,alt_spacer_missing,0.9597580832751803
+789,Libraries - Flickity,aria_reference_broken,0.2568039078855548
+790,Libraries - Flickity,blink,0.0008141428239125378
+791,Libraries - Flickity,button_empty,1.3511281693417074
+792,Libraries - Flickity,heading_empty,0.43545010467550593
+793,Libraries - Flickity,label_empty,0.5310537334263782
+794,Libraries - Flickity,label_missing,2.9062572691323565
+795,Libraries - Flickity,label_multiple,0.6146778320539661
+796,Libraries - Flickity,language_missing,0.22842521516631775
+797,Libraries - Flickity,link_empty,10.564200976971389
+798,Libraries - Flickity,link_skip_broken,0.02500581530588509
+799,Libraries - Flickity,longdesc_invalid,0.007443591532914631
+800,Libraries - Flickity,marquee,0.008722958827634334
+801,Libraries - Flickity,meta_refresh,0.00418702023726448
+802,Libraries - Flickity,server_image_map,0.0
+803,Libraries - Flickity,th_empty,0.03861363107699465
+804,Libraries - Flickity,title_invalid,0.005815305885089556
+805,Libraries - Hammer.js,contrast,38.64430991681547
+806,Libraries - Hammer.js,alt_area_missing,0.04755890422890989
+807,Libraries - Hammer.js,alt_input_missing,0.025303775967945648
+808,Libraries - Hammer.js,alt_link_missing,5.186098166456165
+809,Libraries - Hammer.js,alt_map_missing,0.010191193763337833
+810,Libraries - Hammer.js,alt_missing,5.8533600452941945
+811,Libraries - Hammer.js,alt_spacer_missing,0.5947040634118723
+812,Libraries - Hammer.js,aria_reference_broken,0.792299986934367
+813,Libraries - Hammer.js,blink,0.000522625321196812
+814,Libraries - Hammer.js,button_empty,1.67048473498541
+815,Libraries - Hammer.js,heading_empty,0.6063760289186011
+816,Libraries - Hammer.js,label_empty,0.38491354906145203
+817,Libraries - Hammer.js,label_missing,2.887374243282087
+818,Libraries - Hammer.js,label_multiple,0.25312486389965594
+819,Libraries - Hammer.js,language_missing,0.20099298811027394
+820,Libraries - Hammer.js,link_empty,10.09337572405383
+821,Libraries - Hammer.js,link_skip_broken,0.04298593266843779
+822,Libraries - Hammer.js,longdesc_invalid,0.00914594312094421
+823,Libraries - Hammer.js,marquee,0.007011889726057228
+824,Libraries - Hammer.js,meta_refresh,0.008797526240146335
+825,Libraries - Hammer.js,server_image_map,0.0
+826,Libraries - Hammer.js,th_empty,0.036453116153477634
+827,Libraries - Hammer.js,title_invalid,0.006619920735159619
+828,Libraries - jQuery,contrast,38.30424464316627
+829,Libraries - jQuery,alt_area_missing,0.03841185027478561
+830,Libraries - jQuery,alt_input_missing,0.037653509168563595
+831,Libraries - jQuery,alt_link_missing,6.938946435538422
+832,Libraries - jQuery,alt_map_missing,0.013821961661787618
+833,Libraries - jQuery,alt_missing,5.039157272452452
+834,Libraries - jQuery,alt_spacer_missing,0.3895418689555563
+835,Libraries - jQuery,aria_reference_broken,0.5922734472093822
+836,Libraries - jQuery,blink,0.0008151843918672761
+837,Libraries - jQuery,button_empty,0.9347025675078612
+838,Libraries - jQuery,heading_empty,0.41623625103028455
+839,Libraries - jQuery,label_empty,0.25770937061563864
+840,Libraries - jQuery,label_missing,2.3849272276754454
+841,Libraries - jQuery,label_multiple,0.17412261096713683
+842,Libraries - jQuery,language_missing,0.243468835668645
+843,Libraries - jQuery,link_empty,8.165340323334943
+844,Libraries - jQuery,link_skip_broken,0.020636696474941155
+845,Libraries - jQuery,longdesc_invalid,0.011452630164664664
+846,Libraries - jQuery,marquee,0.012059819806784505
+847,Libraries - jQuery,meta_refresh,0.005246376886486543
+848,Libraries - jQuery,server_image_map,0.0
+849,Libraries - jQuery,th_empty,0.03740029816887107
+850,Libraries - jQuery,title_invalid,0.008788747096470807
+851,Libraries - jQuery Migrate,contrast,38.811242186278484
+852,Libraries - jQuery Migrate,alt_area_missing,0.027521530611919295
+853,Libraries - jQuery Migrate,alt_input_missing,0.014346295841297292
+854,Libraries - jQuery Migrate,alt_link_missing,6.46539945307938
+855,Libraries - jQuery Migrate,alt_map_missing,0.005705332954679617
+856,Libraries - jQuery Migrate,alt_missing,2.7923009914132826
+857,Libraries - jQuery Migrate,alt_spacer_missing,0.30135836702394136
+858,Libraries - jQuery Migrate,aria_reference_broken,0.4817304900268355
+859,Libraries - jQuery Migrate,blink,0.00020421773439569102
+860,Libraries - jQuery Migrate,button_empty,0.8025629325666659
+861,Libraries - jQuery Migrate,heading_empty,0.4280531349017681
+862,Libraries - jQuery Migrate,label_empty,0.1914030715623614
+863,Libraries - jQuery Migrate,label_missing,2.044130176042069
+864,Libraries - jQuery Migrate,label_multiple,0.15673072934449297
+865,Libraries - jQuery Migrate,language_missing,0.06224811816548657
+866,Libraries - jQuery Migrate,link_empty,9.044101457923169
+867,Libraries - jQuery Migrate,link_skip_broken,0.018660395480406267
+868,Libraries - jQuery Migrate,longdesc_invalid,0.00667536719305915
+869,Libraries - jQuery Migrate,marquee,0.005772341898778203
+870,Libraries - jQuery Migrate,meta_refresh,0.0036057193729239195
+871,Libraries - jQuery Migrate,server_image_map,0.0
+872,Libraries - jQuery Migrate,th_empty,0.016736281514146866
+873,Libraries - jQuery Migrate,title_invalid,0.009754587719494178
+874,Libraries - jQuery UI,contrast,40.896780125843996
+875,Libraries - jQuery UI,alt_area_missing,0.04580422010403246
+876,Libraries - jQuery UI,alt_input_missing,0.04583094992435461
+877,Libraries - jQuery UI,alt_link_missing,7.107427147874712
+878,Libraries - jQuery UI,alt_map_missing,0.01309226599378799
+879,Libraries - jQuery UI,alt_missing,5.464115216217516
+880,Libraries - jQuery UI,alt_spacer_missing,0.4496918051716856
+881,Libraries - jQuery UI,aria_reference_broken,0.8716059810645953
+882,Libraries - jQuery UI,blink,0.0009248517831463137
+883,Libraries - jQuery UI,button_empty,1.3255157518831158
+884,Libraries - jQuery UI,heading_empty,0.5175641649336833
+885,Libraries - jQuery UI,label_empty,0.34498040704170385
+886,Libraries - jQuery UI,label_missing,3.5086952105507945
+887,Libraries - jQuery UI,label_multiple,0.2684262016390726
+888,Libraries - jQuery UI,language_missing,0.2064504402401407
+889,Libraries - jQuery UI,link_empty,10.174786295086525
+890,Libraries - jQuery UI,link_skip_broken,0.0277615913865827
+891,Libraries - jQuery UI,longdesc_invalid,0.011590050091683284
+892,Libraries - jQuery UI,marquee,0.010151985758351733
+893,Libraries - jQuery UI,meta_refresh,0.004683064520440294
+894,Libraries - jQuery UI,server_image_map,0.0
+895,Libraries - jQuery UI,th_empty,0.04894764697391704
+896,Libraries - jQuery UI,title_invalid,0.007013904852531581
+897,Libraries - Lazy.js,contrast,126.56909033679572
+898,Libraries - Lazy.js,alt_area_missing,0.019263456090651557
+899,Libraries - Lazy.js,alt_input_missing,0.02134088762983947
+900,Libraries - Lazy.js,alt_link_missing,42.1435945860875
+901,Libraries - Lazy.js,alt_map_missing,0.008372678627636135
+902,Libraries - Lazy.js,alt_missing,12.126345609065156
+903,Libraries - Lazy.js,alt_spacer_missing,0.6937362291469941
+904,Libraries - Lazy.js,aria_reference_broken,0.2987724268177526
+905,Libraries - Lazy.js,blink,0.0006295247088448222
+906,Libraries - Lazy.js,button_empty,1.0861819326408562
+907,Libraries - Lazy.js,heading_empty,0.32773056342461443
+908,Libraries - Lazy.js,label_empty,0.15051935788479698
+909,Libraries - Lazy.js,label_missing,1.608876298394712
+910,Libraries - Lazy.js,label_multiple,0.06672961913755115
+911,Libraries - Lazy.js,language_missing,0.36443185395026756
+912,Libraries - Lazy.js,link_empty,7.249795404469626
+913,Libraries - Lazy.js,link_skip_broken,0.007743153918791312
+914,Libraries - Lazy.js,longdesc_invalid,0.0011331444759206798
+915,Libraries - Lazy.js,marquee,0.023481271639911868
+916,Libraries - Lazy.js,meta_refresh,0.0025180988353792886
+917,Libraries - Lazy.js,server_image_map,0.0
+918,Libraries - Lazy.js,th_empty,0.018633931381806735
+919,Libraries - Lazy.js,title_invalid,0.0025180988353792886
+920,Libraries - Lightbox,contrast,37.47172330781817
+921,Libraries - Lightbox,alt_area_missing,0.043557578379191664
+922,Libraries - Lightbox,alt_input_missing,0.04399014500385549
+923,Libraries - Lightbox,alt_link_missing,8.410825449963326
+924,Libraries - Lightbox,alt_map_missing,0.01814899099132986
+925,Libraries - Lightbox,alt_missing,4.252750559515525
+926,Libraries - Lightbox,alt_spacer_missing,0.40839931541629837
+927,Libraries - Lightbox,aria_reference_broken,0.45628256004212825
+928,Libraries - Lightbox,blink,0.0005830245810686276
+929,Libraries - Lightbox,button_empty,0.9744785691448345
+930,Libraries - Lightbox,heading_empty,0.5510146508435049
+931,Libraries - Lightbox,label_empty,0.1772394726448628
+932,Libraries - Lightbox,label_missing,2.2394162231291492
+933,Libraries - Lightbox,label_multiple,0.151736849034248
+934,Libraries - Lightbox,language_missing,0.16089597713039064
+935,Libraries - Lightbox,link_empty,10.304075529894115
+936,Libraries - Lightbox,link_skip_broken,0.017772846100317843
+937,Libraries - Lightbox,longdesc_invalid,0.007767391999398168
+938,Libraries - Lightbox,marquee,0.012055443756935172
+939,Libraries - Lightbox,meta_refresh,0.003498147486411766
+940,Libraries - Lightbox,server_image_map,0.0
+941,Libraries - Lightbox,th_empty,0.04468601305222772
+942,Libraries - Lightbox,title_invalid,0.009535272987154652
+943,Libraries - Lodash,contrast,35.004297578256576
+944,Libraries - Lodash,alt_area_missing,0.021836343573959
+945,Libraries - Lodash,alt_input_missing,0.0101051164411406
+946,Libraries - Lodash,alt_link_missing,6.102677275103084
+947,Libraries - Lodash,alt_map_missing,0.002090713746442883
+948,Libraries - Lodash,alt_missing,10.384052500145188
+949,Libraries - Lodash,alt_spacer_missing,0.9277542249840293
+950,Libraries - Lodash,aria_reference_broken,0.9799639932632557
+951,Libraries - Lodash,blink,0.0
+952,Libraries - Lodash,button_empty,1.7271037807073581
+953,Libraries - Lodash,heading_empty,0.5944596085719264
+954,Libraries - Lodash,label_empty,0.3126197804750566
+955,Libraries - Lodash,label_missing,2.889714849875138
+956,Libraries - Lodash,label_multiple,0.2976363319588826
+957,Libraries - Lodash,language_missing,0.19176491085428887
+958,Libraries - Lodash,link_empty,8.726639177652594
+959,Libraries - Lodash,link_skip_broken,0.013763865497415645
+960,Libraries - Lodash,longdesc_invalid,0.0013357337824496196
+961,Libraries - Lodash,marquee,0.0011034322550670772
+962,Libraries - Lodash,meta_refresh,0.0051106336024159356
+963,Libraries - Lodash,server_image_map,0.0
+964,Libraries - Lodash,th_empty,0.03385794761600557
+965,Libraries - Lodash,title_invalid,0.003774899819966316
+966,Libraries - Modernizr,contrast,36.45701105140424
+967,Libraries - Modernizr,alt_area_missing,0.03656088411233904
+968,Libraries - Modernizr,alt_input_missing,0.013849741457974248
+969,Libraries - Modernizr,alt_link_missing,6.020516070161208
+970,Libraries - Modernizr,alt_map_missing,0.006159383554699382
+971,Libraries - Modernizr,alt_missing,4.552205211396127
+972,Libraries - Modernizr,alt_spacer_missing,0.36740849640068945
+973,Libraries - Modernizr,aria_reference_broken,0.808344317144885
+974,Libraries - Modernizr,blink,0.0003396532495184021
+975,Libraries - Modernizr,button_empty,1.1592872351211598
+976,Libraries - Modernizr,heading_empty,0.5200547500760417
+977,Libraries - Modernizr,label_empty,0.2984386089425124
+978,Libraries - Modernizr,label_missing,2.4751242015613912
+979,Libraries - Modernizr,label_multiple,0.2631197404440839
+980,Libraries - Modernizr,language_missing,0.14412450572848018
+981,Libraries - Modernizr,link_empty,10.008562303558755
+982,Libraries - Modernizr,link_skip_broken,0.026822467808983067
+983,Libraries - Modernizr,longdesc_invalid,0.006002230558653554
+984,Libraries - Modernizr,marquee,0.006083341782419142
+985,Libraries - Modernizr,meta_refresh,0.004709520429889486
+986,Libraries - Modernizr,server_image_map,0.0
+987,Libraries - Modernizr,th_empty,0.03132414072797323
+988,Libraries - Modernizr,title_invalid,0.007857649802291393
+989,Libraries - Moment.js,contrast,42.06274980015987
+990,Libraries - Moment.js,alt_area_missing,0.030832476875642344
+991,Libraries - Moment.js,alt_input_missing,0.01812835445928971
+992,Libraries - Moment.js,alt_link_missing,6.251655818202581
+993,Libraries - Moment.js,alt_map_missing,0.008164896654105287
+994,Libraries - Moment.js,alt_missing,7.2706120817631605
+995,Libraries - Moment.js,alt_spacer_missing,0.5944672833162041
+996,Libraries - Moment.js,aria_reference_broken,1.2657302729245175
+997,Libraries - Moment.js,blink,0.0003996802557953637
+998,Libraries - Moment.js,button_empty,1.8522039511248145
+999,Libraries - Moment.js,heading_empty,0.6183910014845266
+1000,Libraries - Moment.js,label_empty,0.45303756994404476
+1001,Libraries - Moment.js,label_missing,4.0332305584104144
+1002,Libraries - Moment.js,label_multiple,0.34101290396254424
+1003,Libraries - Moment.js,language_missing,0.20988923147196528
+1004,Libraries - Moment.js,link_empty,10.441675231243577
+1005,Libraries - Moment.js,link_skip_broken,0.0267500285485897
+1006,Libraries - Moment.js,longdesc_invalid,0.005195843325339729
+1007,Libraries - Moment.js,marquee,0.005481329222336417
+1008,Libraries - Moment.js,meta_refresh,0.006023752426630125
+1009,Libraries - Moment.js,server_image_map,0.0
+1010,Libraries - Moment.js,th_empty,0.11693502340984355
+1011,Libraries - Moment.js,title_invalid,0.007022953066118534
+1012,Libraries - prettyPhoto,contrast,37.85870762452576
+1013,Libraries - prettyPhoto,alt_area_missing,0.031085546444743605
+1014,Libraries - prettyPhoto,alt_input_missing,0.02854607759148207
+1015,Libraries - prettyPhoto,alt_link_missing,7.223412067066454
+1016,Libraries - prettyPhoto,alt_map_missing,0.009423571166319911
+1017,Libraries - prettyPhoto,alt_missing,3.6884408273161178
+1018,Libraries - prettyPhoto,alt_spacer_missing,0.47169869049076
+1019,Libraries - prettyPhoto,aria_reference_broken,0.464508628074899
+1020,Libraries - prettyPhoto,blink,0.0005507281850446701
+1021,Libraries - prettyPhoto,button_empty,0.9359931464936972
+1022,Libraries - prettyPhoto,heading_empty,0.537021172439114
+1023,Libraries - prettyPhoto,label_empty,0.1713070615591727
+1024,Libraries - prettyPhoto,label_missing,2.6082486843715578
+1025,Libraries - prettyPhoto,label_multiple,0.1411087994125566
+1026,Libraries - prettyPhoto,language_missing,0.1266980785705544
+1027,Libraries - prettyPhoto,link_empty,11.039560641292375
+1028,Libraries - prettyPhoto,link_skip_broken,0.012146616081263004
+1029,Libraries - prettyPhoto,longdesc_invalid,0.007373638477542528
+1030,Libraries - prettyPhoto,marquee,0.012238404112103782
+1031,Libraries - prettyPhoto,meta_refresh,0.0028454289560641294
+1032,Libraries - prettyPhoto,server_image_map,0.0
+1033,Libraries - prettyPhoto,th_empty,0.02518051646065353
+1034,Libraries - prettyPhoto,title_invalid,0.009209399094358096
+1035,Libraries - script.aculo.us,contrast,44.17949008498584
+1036,Libraries - script.aculo.us,alt_area_missing,0.055637393767705386
+1037,Libraries - script.aculo.us,alt_input_missing,0.08226628895184136
+1038,Libraries - script.aculo.us,alt_link_missing,9.010538243626062
+1039,Libraries - script.aculo.us,alt_map_missing,0.036487252124645896
+1040,Libraries - script.aculo.us,alt_missing,7.459716713881019
+1041,Libraries - script.aculo.us,alt_spacer_missing,1.1663456090651558
+1042,Libraries - script.aculo.us,aria_reference_broken,0.45257790368271955
+1043,Libraries - script.aculo.us,blink,0.0009065155807365439
+1044,Libraries - script.aculo.us,button_empty,0.8189235127478753
+1045,Libraries - script.aculo.us,heading_empty,0.3845892351274788
+1046,Libraries - script.aculo.us,label_empty,0.20237960339943342
+1047,Libraries - script.aculo.us,label_missing,2.4410198300283286
+1048,Libraries - script.aculo.us,label_multiple,0.16543909348441926
+1049,Libraries - script.aculo.us,language_missing,0.29019830028328614
+1050,Libraries - script.aculo.us,link_empty,7.925779036827196
+1051,Libraries - script.aculo.us,link_skip_broken,0.022889518413597734
+1052,Libraries - script.aculo.us,longdesc_invalid,0.024475920679886687
+1053,Libraries - script.aculo.us,marquee,0.017563739376770537
+1054,Libraries - script.aculo.us,meta_refresh,0.0046458923512747875
+1055,Libraries - script.aculo.us,server_image_map,0.0
+1056,Libraries - script.aculo.us,th_empty,0.2148441926345609
+1057,Libraries - script.aculo.us,title_invalid,0.004532577903682719
+1058,Libraries - Select2,contrast,42.6588267099216
+1059,Libraries - Select2,alt_area_missing,0.05046408939352978
+1060,Libraries - Select2,alt_input_missing,0.02451112913400018
+1061,Libraries - Select2,alt_link_missing,5.849508876272867
+1062,Libraries - Select2,alt_map_missing,0.008290528971794178
+1063,Libraries - Select2,alt_missing,5.231999639542218
+1064,Libraries - Select2,alt_spacer_missing,0.566414346219699
+1065,Libraries - Select2,aria_reference_broken,1.165495178877174
+1066,Libraries - Select2,blink,0.00040551500405515005
+1067,Libraries - Select2,button_empty,1.5305487969721547
+1068,Libraries - Select2,heading_empty,0.49472830494728304
+1069,Libraries - Select2,label_empty,0.5001802288906911
+1070,Libraries - Select2,label_missing,3.894566098945661
+1071,Libraries - Select2,label_multiple,0.27885915112192483
+1072,Libraries - Select2,language_missing,0.16612597999459314
+1073,Libraries - Select2,link_empty,11.44034423718122
+1074,Libraries - Select2,link_skip_broken,0.021402180769577363
+1075,Libraries - Select2,longdesc_invalid,0.008020185635757411
+1076,Libraries - Select2,marquee,0.007479498963683879
+1077,Libraries - Select2,meta_refresh,0.0026583761376948725
+1078,Libraries - Select2,server_image_map,0.0
+1079,Libraries - Select2,th_empty,0.05136523384698567
+1080,Libraries - Select2,title_invalid,0.005496981166080923
+1081,Libraries - Slick,contrast,40.89058345457282
+1082,Libraries - Slick,alt_area_missing,0.03945718155822004
+1083,Libraries - Slick,alt_input_missing,0.01866251944012442
+1084,Libraries - Slick,alt_link_missing,8.678723724476997
+1085,Libraries - Slick,alt_map_missing,0.00780113379822405
+1086,Libraries - Slick,alt_missing,7.059624742888677
+1087,Libraries - Slick,alt_spacer_missing,0.35029849997491597
+1088,Libraries - Slick,aria_reference_broken,4.981186976370842
+1089,Libraries - Slick,blink,0.000526764661616415
+1090,Libraries - Slick,button_empty,1.5029849997491598
+1091,Libraries - Slick,heading_empty,0.5405608789444639
+1092,Libraries - Slick,label_empty,0.40761551196508305
+1093,Libraries - Slick,label_missing,3.3737269854010936
+1094,Libraries - Slick,label_multiple,0.2834244719811368
+1095,Libraries - Slick,language_missing,0.15910801183966286
+1096,Libraries - Slick,link_empty,11.45035870165053
+1097,Libraries - Slick,link_skip_broken,0.024080670245321827
+1098,Libraries - Slick,longdesc_invalid,0.012516931721266241
+1099,Libraries - Slick,marquee,0.005844579340791652
+1100,Libraries - Slick,meta_refresh,0.0041388651984146894
+1101,Libraries - Slick,server_image_map,0.0
+1102,Libraries - Slick,th_empty,0.030075753775146742
+1103,Libraries - Slick,title_invalid,0.008403150554357097
+1104,Libraries - SoundManager,contrast,35.587198025039676
+1105,Libraries - SoundManager,alt_area_missing,0.06665491095044966
+1106,Libraries - SoundManager,alt_input_missing,0.07582436959971786
+1107,Libraries - SoundManager,alt_link_missing,7.581026274025745
+1108,Libraries - SoundManager,alt_map_missing,0.023805325339446307
+1109,Libraries - SoundManager,alt_missing,6.32445776758949
+1110,Libraries - SoundManager,alt_spacer_missing,1.4699347557749955
+1111,Libraries - SoundManager,aria_reference_broken,0.4940927526009522
+1112,Libraries - SoundManager,blink,0.0014106859460412625
+1113,Libraries - SoundManager,button_empty,1.1267853994004584
+1114,Libraries - SoundManager,heading_empty,0.41244930347381414
+1115,Libraries - SoundManager,label_empty,0.16857697055193088
+1116,Libraries - SoundManager,label_missing,2.203315111973197
+1117,Libraries - SoundManager,label_multiple,0.14724034561805677
+1118,Libraries - SoundManager,language_missing,0.3297478398871451
+1119,Libraries - SoundManager,link_empty,8.71557044612943
+1120,Libraries - SoundManager,link_skip_broken,0.023981661082701465
+1121,Libraries - SoundManager,longdesc_invalid,0.01216716628460589
+1122,Libraries - SoundManager,marquee,0.030329747839887147
+1123,Libraries - SoundManager,meta_refresh,0.004232057838123787
+1124,Libraries - SoundManager,server_image_map,0.0
+1125,Libraries - SoundManager,th_empty,0.07194498324810439
+1126,Libraries - SoundManager,title_invalid,0.009169458649268207
+1127,Libraries - Underscore.js,contrast,43.323087008777364
+1128,Libraries - Underscore.js,alt_area_missing,0.05557781257967003
+1129,Libraries - Underscore.js,alt_input_missing,0.006519284699712277
+1130,Libraries - Underscore.js,alt_link_missing,7.492406308045307
+1131,Libraries - Underscore.js,alt_map_missing,0.005280984812616091
+1132,Libraries - Underscore.js,alt_missing,4.306843427905452
+1133,Libraries - Underscore.js,alt_spacer_missing,0.2957715700914157
+1134,Libraries - Underscore.js,aria_reference_broken,0.9697709145208872
+1135,Libraries - Underscore.js,blink,0.0
+1136,Libraries - Underscore.js,button_empty,1.5393524420002185
+1137,Libraries - Underscore.js,heading_empty,0.5403357977929125
+1138,Libraries - Underscore.js,label_empty,0.4231343555377499
+1139,Libraries - Underscore.js,label_missing,3.0104527078704884
+1140,Libraries - Underscore.js,label_multiple,0.2839713005790873
+1141,Libraries - Underscore.js,language_missing,0.0749535637542339
+1142,Libraries - Underscore.js,link_empty,12.315183741850895
+1143,Libraries - Underscore.js,link_skip_broken,0.024438212477692393
+1144,Libraries - Underscore.js,longdesc_invalid,0.000946935207779437
+1145,Libraries - Underscore.js,marquee,0.004188367265178279
+1146,Libraries - Underscore.js,meta_refresh,0.002585861528936155
+1147,Libraries - Underscore.js,server_image_map,0.0
+1148,Libraries - Underscore.js,th_empty,0.030629711913173326
+1149,Libraries - Underscore.js,title_invalid,0.00801252868121062
+1150,Libraries - YUI,contrast,30.961164084227256
+1151,Libraries - YUI,alt_area_missing,0.03590584028605483
+1152,Libraries - YUI,alt_input_missing,0.10642630115216528
+1153,Libraries - YUI,alt_link_missing,5.1462554628526025
+1154,Libraries - YUI,alt_map_missing,0.025377433452522843
+1155,Libraries - YUI,alt_missing,5.188269765593961
+1156,Libraries - YUI,alt_spacer_missing,0.6152165276122368
+1157,Libraries - YUI,aria_reference_broken,0.32419547079856975
+1158,Libraries - YUI,blink,0.0010925705204608662
+1159,Libraries - YUI,button_empty,0.7493047278506159
+1160,Libraries - YUI,heading_empty,0.26390544298768376
+1161,Libraries - YUI,label_empty,0.168901470003973
+1162,Libraries - YUI,label_missing,2.1146205800556217
+1163,Libraries - YUI,label_multiple,0.12112634088200239
+1164,Libraries - YUI,language_missing,0.2384783472387763
+1165,Libraries - YUI,link_empty,6.535359555025824
+1166,Libraries - YUI,link_skip_broken,0.006555423122765197
+1167,Libraries - YUI,longdesc_invalid,0.0046682558601509735
+1168,Libraries - YUI,marquee,0.013110846245530394
+1169,Libraries - YUI,meta_refresh,0.01142232816845451
+1170,Libraries - YUI,server_image_map,0.0
+1171,Libraries - YUI,th_empty,0.04558998808104887
+1172,Libraries - YUI,title_invalid,0.004866905045689313
+1173,Libraries - Zepto,contrast,27.905033731188375
+1174,Libraries - Zepto,alt_area_missing,0.020108977685521535
+1175,Libraries - Zepto,alt_input_missing,0.04436948624805397
+1176,Libraries - Zepto,alt_link_missing,3.4482355993772704
+1177,Libraries - Zepto,alt_map_missing,0.014270887389724962
+1178,Libraries - Zepto,alt_missing,4.020498183705241
+1179,Libraries - Zepto,alt_spacer_missing,0.9071094966268811
+1180,Libraries - Zepto,aria_reference_broken,0.24792423456149454
+1181,Libraries - Zepto,blink,0.0009081473793461339
+1182,Libraries - Zepto,button_empty,0.38842760768033213
+1183,Libraries - Zepto,heading_empty,0.4041255838090296
+1184,Libraries - Zepto,label_empty,0.15840685002594707
+1185,Libraries - Zepto,label_missing,1.4900103788271926
+1186,Libraries - Zepto,label_multiple,0.05604566683964712
+1187,Libraries - Zepto,language_missing,0.2690710949662688
+1188,Libraries - Zepto,link_empty,4.515568240788791
+1189,Libraries - Zepto,link_skip_broken,0.005319148936170213
+1190,Libraries - Zepto,longdesc_invalid,0.008822003113648157
+1191,Libraries - Zepto,marquee,0.010249091852620653
+1192,Libraries - Zepto,meta_refresh,0.003243383497664764
+1193,Libraries - Zepto,server_image_map,0.0
+1194,Libraries - Zepto,th_empty,0.04436948624805397
+1195,Libraries - Zepto,title_invalid,0.004281266216917488
+1196,Google Maps,contrast,39.44459279038718
+1197,Google Maps,alt_area_missing,0.4465528506093231
+1198,Google Maps,alt_input_missing,0.015964548475982162
+1199,Google Maps,alt_link_missing,5.718404681419197
+1200,Google Maps,alt_map_missing,0.0064767207340283494
+1201,Google Maps,alt_missing,8.852995483339487
+1202,Google Maps,alt_spacer_missing,0.2487856148623697
+1203,Google Maps,aria_reference_broken,0.9992330199130756
+1204,Google Maps,blink,0.0012498934749879272
+1205,Google Maps,button_empty,1.4741641337386018
+1206,Google Maps,heading_empty,0.7149674743629805
+1207,Google Maps,label_empty,0.3833480101127745
+1208,Google Maps,label_missing,3.6753401698718857
+1209,Google Maps,label_multiple,0.2971053603386075
+1210,Google Maps,language_missing,0.13976081583955913
+1211,Google Maps,link_empty,10.522483879214839
+1212,Google Maps,link_skip_broken,0.018776808794704995
+1213,Google Maps,longdesc_invalid,0.003124733687469818
+1214,Google Maps,marquee,0.008976507684004204
+1215,Google Maps,meta_refresh,0.0016191801835070874
+1216,Google Maps,server_image_map,0.0
+1217,Google Maps,th_empty,0.04187143141209556
+1218,Google Maps,title_invalid,0.007897054228332813
+1219,Java,contrast,34.14609587348653
+1220,Java,alt_area_missing,0.0837039782554979
+1221,Java,alt_input_missing,0.04935754880158142
+1222,Java,alt_link_missing,7.252285643686681
+1223,Java,alt_map_missing,0.04274771435631332
+1224,Java,alt_missing,7.8143068939955524
+1225,Java,alt_spacer_missing,0.6010007412898444
+1226,Java,aria_reference_broken,1.0987150976031628
+1227,Java,blink,0.0030887076847047196
+1228,Java,button_empty,1.649184581171238
+1229,Java,heading_empty,0.5440449715838893
+1230,Java,label_empty,0.3755868544600939
+1231,Java,label_missing,3.2333209785025945
+1232,Java,label_multiple,0.27779836916234246
+1233,Java,language_missing,0.34222881146528294
+1234,Java,link_empty,6.639486039041265
+1235,Java,link_skip_broken,0.03990610328638498
+1236,Java,longdesc_invalid,0.0053125772176921176
+1237,Java,marquee,0.015814183345688165
+1238,Java,meta_refresh,0.0035211267605633804
+1239,Java,server_image_map,0.0
+1240,Java,th_empty,0.0704843093649617
+1241,Java,title_invalid,0.01278724981467754
+1242,PHP,contrast,39.66452346599966
+1243,PHP,alt_area_missing,0.03338289681764628
+1244,PHP,alt_input_missing,0.04349195748461117
+1245,PHP,alt_link_missing,6.925591769101368
+1246,PHP,alt_map_missing,0.013665660695946925
+1247,PHP,alt_missing,5.029712888816084
+1248,PHP,alt_spacer_missing,0.47689312558672875
+1249,PHP,aria_reference_broken,0.4962417857975416
+1250,PHP,blink,0.0006678469496405597
+1251,PHP,button_empty,0.8429929624052571
+1252,PHP,heading_empty,0.3752512301614804
+1253,PHP,label_empty,0.28434213925238944
+1254,PHP,label_missing,2.496604061265507
+1255,PHP,label_multiple,0.1278391370913375
+1256,PHP,language_missing,0.266042502787946
+1257,PHP,link_empty,7.636429791014308
+1258,PHP,link_skip_broken,0.01617638720002016
+1259,PHP,longdesc_invalid,0.010518589456838815
+1260,PHP,marquee,0.016970243008083467
+1261,PHP,meta_refresh,0.004284301186373402
+1262,PHP,server_image_map,0.0
+1263,PHP,th_empty,0.04764709959110126
+1264,PHP,title_invalid,0.01267649115732836
+1265,WebFrameworks - animate.css,contrast,37.497890049199775
+1266,WebFrameworks - animate.css,alt_area_missing,0.03611224549326177
+1267,WebFrameworks - animate.css,alt_input_missing,0.00989829453746378
+1268,WebFrameworks - animate.css,alt_link_missing,6.74071913346168
+1269,WebFrameworks - animate.css,alt_map_missing,0.004103222293526243
+1270,WebFrameworks - animate.css,alt_missing,5.2794858331874845
+1271,WebFrameworks - animate.css,alt_spacer_missing,0.23639227582988157
+1272,WebFrameworks - animate.css,aria_reference_broken,0.7011454018629796
+1273,WebFrameworks - animate.css,blink,0.00029169826731229216
+1274,WebFrameworks - animate.css,button_empty,1.1134900725356358
+1275,WebFrameworks - animate.css,heading_empty,0.5853800828423079
+1276,WebFrameworks - animate.css,label_empty,0.41125566380802364
+1277,WebFrameworks - animate.css,label_missing,2.639752639869319
+1278,WebFrameworks - animate.css,label_multiple,0.1885343134395115
+1279,WebFrameworks - animate.css,language_missing,0.1573420453882504
+1280,WebFrameworks - animate.css,link_empty,11.341948155494624
+1281,WebFrameworks - animate.css,link_skip_broken,0.014701592672539525
+1282,WebFrameworks - animate.css,longdesc_invalid,0.007720280808198666
+1283,WebFrameworks - animate.css,marquee,0.011220660015946172
+1284,WebFrameworks - animate.css,meta_refresh,0.002275246485035879
+1285,WebFrameworks - animate.css,server_image_map,0.0
+1286,WebFrameworks - animate.css,th_empty,0.023549773447679053
+1287,WebFrameworks - animate.css,title_invalid,0.011240106567100325
+1288,WebFrameworks - Bootstrap,contrast,37.25171509869379
+1289,WebFrameworks - Bootstrap,alt_area_missing,0.03652006363004952
+1290,WebFrameworks - Bootstrap,alt_input_missing,0.017054645665763
+1291,WebFrameworks - Bootstrap,alt_link_missing,6.090587681760133
+1292,WebFrameworks - Bootstrap,alt_map_missing,0.006035892725113705
+1293,WebFrameworks - Bootstrap,alt_missing,5.154992942441691
+1294,WebFrameworks - Bootstrap,alt_spacer_missing,0.3052181121591647
+1295,WebFrameworks - Bootstrap,aria_reference_broken,0.8682947594828938
+1296,WebFrameworks - Bootstrap,blink,0.0006990343467837698
+1297,WebFrameworks - Bootstrap,button_empty,1.2769206640826294
+1298,WebFrameworks - Bootstrap,heading_empty,0.5046624694732597
+1299,WebFrameworks - Bootstrap,label_empty,0.2758945175094661
+1300,WebFrameworks - Bootstrap,label_missing,2.719382519660341
+1301,WebFrameworks - Bootstrap,label_multiple,0.19847646360316357
+1302,WebFrameworks - Bootstrap,language_missing,0.16841798669146146
+1303,WebFrameworks - Bootstrap,link_empty,9.373172316447471
+1304,WebFrameworks - Bootstrap,link_skip_broken,0.01751170658481393
+1305,WebFrameworks - Bootstrap,longdesc_invalid,0.009495216543812874
+1306,WebFrameworks - Bootstrap,marquee,0.010095669123742523
+1307,WebFrameworks - Bootstrap,meta_refresh,0.005892501064234983
+1308,WebFrameworks - Bootstrap,server_image_map,0.0
+1309,WebFrameworks - Bootstrap,th_empty,0.04109067282055878
+1310,WebFrameworks - Bootstrap,title_invalid,0.010723007640086931
+1311,WebFrameworks - CodeIgniter,contrast,33.94850721234485
+1312,WebFrameworks - CodeIgniter,alt_area_missing,0.10449513586044952
+1313,WebFrameworks - CodeIgniter,alt_input_missing,0.04780275075478028
+1314,WebFrameworks - CodeIgniter,alt_link_missing,6.710164374371017
+1315,WebFrameworks - CodeIgniter,alt_map_missing,0.007212344850721235
+1316,WebFrameworks - CodeIgniter,alt_missing,8.146762831264676
+1317,WebFrameworks - CodeIgniter,alt_spacer_missing,0.31080174438108016
+1318,WebFrameworks - CodeIgniter,aria_reference_broken,0.5177792687017779
+1319,WebFrameworks - CodeIgniter,blink,0.0005031868500503186
+1320,WebFrameworks - CodeIgniter,button_empty,0.9043944984904394
+1321,WebFrameworks - CodeIgniter,heading_empty,0.5727943643072795
+1322,WebFrameworks - CodeIgniter,label_empty,0.3123113049312311
+1323,WebFrameworks - CodeIgniter,label_missing,3.079168064407917
+1324,WebFrameworks - CodeIgniter,label_multiple,0.10533378061053338
+1325,WebFrameworks - CodeIgniter,language_missing,0.33948339483394835
+1326,WebFrameworks - CodeIgniter,link_empty,7.918819188191882
+1327,WebFrameworks - CodeIgniter,link_skip_broken,0.01962428715196243
+1328,WebFrameworks - CodeIgniter,longdesc_invalid,0.0018450184501845018
+1329,WebFrameworks - CodeIgniter,marquee,0.021133847702113386
+1330,WebFrameworks - CodeIgniter,meta_refresh,0.006709158000670915
+1331,WebFrameworks - CodeIgniter,server_image_map,0.0
+1332,WebFrameworks - CodeIgniter,th_empty,0.054679637705467965
+1333,WebFrameworks - CodeIgniter,title_invalid,0.009392821200939282
+1334,WebFrameworks - Laravel,contrast,39.03977724741448
+1335,WebFrameworks - Laravel,alt_area_missing,0.03579952267303103
+1336,WebFrameworks - Laravel,alt_input_missing,0.07255369928400955
+1337,WebFrameworks - Laravel,alt_link_missing,7.322673031026253
+1338,WebFrameworks - Laravel,alt_map_missing,0.02100238663484487
+1339,WebFrameworks - Laravel,alt_missing,10.66491646778043
+1340,WebFrameworks - Laravel,alt_spacer_missing,2.0854415274463007
+1341,WebFrameworks - Laravel,aria_reference_broken,1.0900556881463803
+1342,WebFrameworks - Laravel,blink,0.0011137629276054097
+1343,WebFrameworks - Laravel,button_empty,1.0445505171042164
+1344,WebFrameworks - Laravel,heading_empty,0.575656324582339
+1345,WebFrameworks - Laravel,label_empty,0.21288782816229118
+1346,WebFrameworks - Laravel,label_missing,3.41145584725537
+1347,WebFrameworks - Laravel,label_multiple,0.18965791567223547
+1348,WebFrameworks - Laravel,language_missing,0.3403341288782816
+1349,WebFrameworks - Laravel,link_empty,9.63198090692124
+1350,WebFrameworks - Laravel,link_skip_broken,0.004614160700079554
+1351,WebFrameworks - Laravel,longdesc_invalid,0.010182975338106604
+1352,WebFrameworks - Laravel,marquee,0.017820206841686555
+1353,WebFrameworks - Laravel,meta_refresh,0.007319013524264121
+1354,WebFrameworks - Laravel,server_image_map,0.0
+1355,WebFrameworks - Laravel,th_empty,0.04423229912490056
+1356,WebFrameworks - Laravel,title_invalid,0.009864757358790771
+1357,WebFrameworks - Microsoft ASP.NET,contrast,28.73378873932293
+1358,WebFrameworks - Microsoft ASP.NET,alt_area_missing,0.0690376101247708
+1359,WebFrameworks - Microsoft ASP.NET,alt_input_missing,0.09962658199543849
+1360,WebFrameworks - Microsoft ASP.NET,alt_link_missing,6.051507088233979
+1361,WebFrameworks - Microsoft ASP.NET,alt_map_missing,0.03773310674835651
+1362,WebFrameworks - Microsoft ASP.NET,alt_missing,6.671291534367873
+1363,WebFrameworks - Microsoft ASP.NET,alt_spacer_missing,0.8558204015920576
+1364,WebFrameworks - Microsoft ASP.NET,aria_reference_broken,0.4592258843522204
+1365,WebFrameworks - Microsoft ASP.NET,blink,0.0026273422476633425
+1366,WebFrameworks - Microsoft ASP.NET,button_empty,0.7176557399042977
+1367,WebFrameworks - Microsoft ASP.NET,heading_empty,0.41681946245695634
+1368,WebFrameworks - Microsoft ASP.NET,label_empty,0.19771029918161084
+1369,WebFrameworks - Microsoft ASP.NET,label_missing,2.215755109342158
+1370,WebFrameworks - Microsoft ASP.NET,label_multiple,0.11949376145968427
+1371,WebFrameworks - Microsoft ASP.NET,language_missing,0.5731854568221457
+1372,WebFrameworks - Microsoft ASP.NET,link_empty,5.383905013192612
+1373,WebFrameworks - Microsoft ASP.NET,link_skip_broken,0.015752873306202765
+1374,WebFrameworks - Microsoft ASP.NET,longdesc_invalid,0.015462188631993203
+1375,WebFrameworks - Microsoft ASP.NET,marquee,0.03272438620813023
+1376,WebFrameworks - Microsoft ASP.NET,meta_refresh,0.007390098832789231
+1377,WebFrameworks - Microsoft ASP.NET,server_image_map,0.0
+1378,WebFrameworks - Microsoft ASP.NET,th_empty,0.055912079066231385
+1379,WebFrameworks - Microsoft ASP.NET,title_invalid,0.00806090961942668
+1380,WebFrameworks - ZURB Foundation,contrast,34.45486411973218
+1381,WebFrameworks - ZURB Foundation,alt_area_missing,0.030484442693974007
+1382,WebFrameworks - ZURB Foundation,alt_input_missing,0.01252461599054746
+1383,WebFrameworks - ZURB Foundation,alt_link_missing,6.0917684127609295
+1384,WebFrameworks - ZURB Foundation,alt_map_missing,0.0041354864119732175
+1385,WebFrameworks - ZURB Foundation,alt_missing,5.198227648680583
+1386,WebFrameworks - ZURB Foundation,alt_spacer_missing,0.29661283970066954
+1387,WebFrameworks - ZURB Foundation,aria_reference_broken,1.3692004726270186
+1388,WebFrameworks - ZURB Foundation,blink,3.9385584875935406e-05
+1389,WebFrameworks - ZURB Foundation,button_empty,1.2369830641985033
+1390,WebFrameworks - ZURB Foundation,heading_empty,0.6166994879873966
+1391,WebFrameworks - ZURB Foundation,label_empty,0.32886963371406064
+1392,WebFrameworks - ZURB Foundation,label_missing,2.495116187475384
+1393,WebFrameworks - ZURB Foundation,label_multiple,0.259747932256794
+1394,WebFrameworks - ZURB Foundation,language_missing,0.12225285545490351
+1395,WebFrameworks - ZURB Foundation,link_empty,9.62886963371406
+1396,WebFrameworks - ZURB Foundation,link_skip_broken,0.028712091374556912
+1397,WebFrameworks - ZURB Foundation,longdesc_invalid,0.004096100827097282
+1398,WebFrameworks - ZURB Foundation,marquee,0.0031508467900748325
+1399,WebFrameworks - ZURB Foundation,meta_refresh,0.009807010634107917
+1400,WebFrameworks - ZURB Foundation,server_image_map,0.0
+1401,WebFrameworks - ZURB Foundation,th_empty,0.09472233162662466
+1402,WebFrameworks - ZURB Foundation,title_invalid,0.006301693580149665
